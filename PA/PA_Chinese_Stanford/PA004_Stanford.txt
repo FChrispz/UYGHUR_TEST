@@ -1,0 +1,1769 @@
+PA004-XUAR Protection of Rights and Interests of Women-C
+新疆维吾尔自治区实施《中华人民共和国妇女权益保障法》办法
+
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 新疆维吾尔自治区	type: GPE
+entity: 中华人民共和国妇女权益保障法	type: LAW
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+（１９９４年１１月１９日新疆维吾尔自治区第八届人民代表大会常务委员会第十一次会议通过  根据１９９７年８月７日新疆维吾尔族自治区第八届人民代表大会常务委员会第二十八次会议关于修改《新疆维吾尔自治区实施〈中华人民共和国妇女权益保障法〉办法》的决定修正）
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: １９９４	lemma: １９９４	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １１	lemma: １１	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １９	lemma: １９	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: １９９７	lemma: １９９７	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ８	lemma: ８	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ７	lemma: ７	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 族	lemma: 族	upos: PART	xpos: SFN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 修改	lemma: 修改	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 修正	lemma: 修正	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+entity: １９９４年	type: DATE
+entity: １１月１９日	type: DATE
+entity: 新疆维吾尔自治区第八届人民代表大会常务委员会第十一次会议	type: EVENT
+entity: １９９７年	type: DATE
+entity: ８月	type: DATE
+entity: ７日	type: DATE
+entity: 新疆维吾尔族自治区第八届人民代表大会常务委员会第二十八次会议	type: EVENT
+entity: 新疆维吾尔自治区实施〈中华人民共和国妇女权益保障法	type: LAW
+
+Sentence sentiment= 1
+
+
+        
+
+
+
+Sentence sentiment= 1
+
+
+    第一条  根据《中华人民共和国妇女权益保障法》的规定，结合自治区的实际，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和国妇女权益保障法	type: LAW
+
+Sentence sentiment= 1
+
+
+第十二条  国家机关、社会团体、企业事业单位的女职工在进修、接受成人教育和职业技术培训等方面，享有与男职工平等的权利。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 团体	lemma: 团体	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 女职	lemma: 女职	upos: NOUN	xpos: NN	feats: _
+word: 工	lemma: 工	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: ADV	xpos: RB	feats: _
+word: 进修	lemma: 进修	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 成人	lemma: 成人	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 职业	lemma: 职业	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 培训	lemma: 培训	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方面	lemma: 方面	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: CCONJ	xpos: CC	feats: _
+word: 男职	lemma: 男职	upos: NOUN	xpos: NN	feats: _
+word: 工平	lemma: 工平	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十三条  各级人民政府应当采取有效措施做好城乡妇女的扫除文盲、半文盲工作。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: ADJ	xpos: JJ	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 做好	lemma: 做好	upos: VERB	xpos: VV	feats: _
+word: 城乡	lemma: 城乡	upos: NOUN	xpos: NN	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 扫除	lemma: 扫除	upos: VERB	xpos: VV	feats: _
+word: 文盲	lemma: 文盲	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 半	lemma: 半	upos: PART	xpos: PFA	feats: _
+word: 文盲	lemma: 文盲	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+第十四条  各单位录用职工、接受毕业学生，除国家或者自治区明确规定不适合妇女从事的工作或者岗位外，不得拒绝录用妇女或者提高对妇女的录用标准。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 录用	lemma: 录用	upos: VERB	xpos: VV	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 毕业	lemma: 毕业	upos: NOUN	xpos: NN	feats: _
+word: 学生	lemma: 学生	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 除	lemma: 除	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 明确	lemma: 明确	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 适合	lemma: 适合	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 岗	lemma: 岗	upos: NOUN	xpos: NN	feats: _
+word: 位外	lemma: 位外	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 拒绝	lemma: 拒绝	upos: VERB	xpos: VV	feats: _
+word: 录用	lemma: 录用	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 录用	lemma: 录用	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十五条  企业及个体工商户必须制定措施，健全设施，严格执行国家和自治区关于女职工劳动保护的规定，以保障女职工在生产中的安全和健康。违者，由劳动行政主管部门责令其限期改正；拒不改正的，处以五千元以上二万元以下罚款；对事故隐患不采取措施，致使发生重大事故
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 个体工	lemma: 个体工	upos: NOUN	xpos: NN	feats: _
+word: 商户	lemma: 商户	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 健全	lemma: 健全	upos: ADJ	xpos: JJ	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 严格	lemma: 严格	upos: ADV	xpos: RB	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 劳动	lemma: 劳动	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 健康	lemma: 健康	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 违者	lemma: 违者	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 劳动	lemma: 劳动	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 拒不	lemma: 拒不	upos: VERB	xpos: VV	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 五千	lemma: 五千	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 二万	lemma: 二万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 事故	lemma: 事故	upos: NOUN	xpos: NN	feats: _
+word: 隐患	lemma: 隐患	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 致使	lemma: 致使	upos: VERB	xpos: VV	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 重大	lemma: 重大	upos: ADJ	xpos: JJ	feats: _
+word: 事故	lemma: 事故	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 五千元	type: MONEY
+entity: 二万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+，造成女职工生命和财产损失的，对责任人员应当追究法律责任。
+
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 生命	lemma: 生命	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十六条  用人单位和个人雇用女工，不得在雇工合同中规定人身伤害的免责条款。处理工伤事故时，应当照顾女工的利益。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: ADP	xpos: IN	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 雇用	lemma: 雇用	upos: VERB	xpos: VV	feats: _
+word: 女工	lemma: 女工	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 雇工	lemma: 雇工	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 人身	lemma: 人身	upos: NOUN	xpos: NN	feats: _
+word: 伤害	lemma: 伤害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 免责	lemma: 免责	upos: NOUN	xpos: NN	feats: _
+word: 条款	lemma: 条款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 工伤	lemma: 工伤	upos: NOUN	xpos: NN	feats: _
+word: 事故	lemma: 事故	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当照	lemma: 当照	upos: VERB	xpos: VV	feats: _
+word: 顾	lemma: 顾	upos: VERB	xpos: VV	feats: _
+word: 女工	lemma: 女工	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十七条  城市各单位、农牧区村民委员会应当每二年组织妇女进行一次妇科病普查；患病的，应当及时治疗。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 城	lemma: 城	upos: NOUN	xpos: NN	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 农牧	lemma: 农牧	upos: NOUN	xpos: NN	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 每	lemma: 每	upos: DET	xpos: DT	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 妇科	lemma: 妇科	upos: NOUN	xpos: NN	feats: _
+word: 病	lemma: 病	upos: PART	xpos: SFN	feats: _
+word: 普查	lemma: 普查	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 患病	lemma: 患病	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 治疗	lemma: 治疗	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 二年	type: DATE
+
+Sentence sentiment= 1
+
+
+    各级卫生行政主管部门、妇幼保健站、乡（镇）卫生院应将妇科病的普查和防治纳入工作规划。
+
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 妇幼	lemma: 妇幼	upos: NOUN	xpos: NN	feats: _
+word: 保健	lemma: 保健	upos: VERB	xpos: VV	feats: _
+word: 站	lemma: 站	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 应将	lemma: 应将	upos: NOUN	xpos: NN	feats: _
+word: 妇科	lemma: 妇科	upos: NOUN	xpos: NN	feats: _
+word: 病	lemma: 病	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 普查	lemma: 普查	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 纳入	lemma: 纳入	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 卫生院	type: ORG
+
+Sentence sentiment= 0
+
+
+第十八条  女职工在孕期、产期、哺乳期，所在单位应当给予特殊保护，不得降低其工资或者取消其福利待遇，调资、晋职、晋级、评定专业技术职务均不受影响。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 孕期	lemma: 孕期	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 产期	lemma: 产期	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 哺乳	lemma: 哺乳	upos: VERB	xpos: VV	feats: _
+word: 期	lemma: 期	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 降低	lemma: 降低	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 工资	lemma: 工资	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 取消	lemma: 取消	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 福利	lemma: 福利	upos: NOUN	xpos: NN	feats: _
+word: 待遇	lemma: 待遇	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 调资	lemma: 调资	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 晋职	lemma: 晋职	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 晋级	lemma: 晋级	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 评定	lemma: 评定	upos: VERB	xpos: VV	feats: _
+word: 专业	lemma: 专业	upos: ADJ	xpos: JJ	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 职务	lemma: 职务	upos: NOUN	xpos: NN	feats: _
+word: 均	lemma: 均	upos: ADV	xpos: RB	feats: _
+word: 不受	lemma: 不受	upos: VERB	xpos: VV	feats: _
+word: 影响	lemma: 影响	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十九条  企业转换经营机制，实行劳动制度改革，不得排斥女职工；对确属编余的女职工，也应当为其再就业创造条件和提供帮助。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 转换	lemma: 转换	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 机制	lemma: 机制	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 劳动	lemma: 劳动	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 改革	lemma: 改革	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 排斥	lemma: 排斥	upos: VERB	xpos: VV	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 确属	lemma: 确属	upos: NOUN	xpos: NN	feats: _
+word: 编余	lemma: 编余	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 再	lemma: 再	upos: ADV	xpos: RB	feats: _
+word: 就业	lemma: 就业	upos: VERB	xpos: VV	feats: _
+word: 创造	lemma: 创造	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 帮助	lemma: 帮助	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十条  妇女对家庭共有财产享有与男子平等的权利，其他家庭成员不得擅自处分共有财产。妇女的合法财产受到侵犯的，有权向人民法院提起诉讼，要求赔偿。人民法院应当受理。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 妇	lemma: 妇	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 共有	lemma: 共有	upos: VERB	xpos: VV	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: CCONJ	xpos: CC	feats: _
+word: 男子	lemma: 男子	upos: NOUN	xpos: NN	feats: _
+word: 平等	lemma: 平等	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 处分	lemma: 处分	upos: VERB	xpos: VV	feats: _
+word: 共有	lemma: 共有	upos: VERB	xpos: VV	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 受到	lemma: 受到	upos: VERB	xpos: VV	feats: _
+word: 侵犯	lemma: 侵犯	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 提起	lemma: 提起	upos: VERB	xpos: VV	feats: _
+word: 诉讼	lemma: 诉讼	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 赔偿	lemma: 赔偿	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十一条  农村、牧区划分责任田、口粮田、放牧草场和批准宅基地，妇女享有与男子平等的权利。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农	lemma: 农	upos: PROPN	xpos: NNP	feats: _
+word: 村	lemma: 村	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 牧	lemma: 牧	upos: NOUN	xpos: NN	feats: _
+word: 区划	lemma: 区划	upos: NOUN	xpos: NN	feats: _
+word: 分责	lemma: 分责	upos: VERB	xpos: VV	feats: _
+word: 任田	lemma: 任田	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 口	lemma: 口	upos: NOUN	xpos: NN	feats: _
+word: 粮田	lemma: 粮田	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 放牧	lemma: 放牧	upos: VERB	xpos: VV	feats: _
+word: 草场	lemma: 草场	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 批	lemma: 批	upos: NOUN	xpos: NN	feats: _
+word: 准宅	lemma: 准宅	upos: NOUN	xpos: NN	feats: _
+word: 基地	lemma: 基地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: CCONJ	xpos: CC	feats: _
+word: 男子	lemma: 男子	upos: NOUN	xpos: NN	feats: _
+word: 平等	lemma: 平等	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    农村、牧区妇女结婚、离婚的，其责任田、口粮田、放牧草场和宅基地由户口所在村予以解决。
+
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 牧区	lemma: 牧区	upos: NOUN	xpos: NN	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 结婚	lemma: 结婚	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其责	lemma: 其责	upos: NOUN	xpos: NN	feats: _
+word: 任田	lemma: 任田	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 口	lemma: 口	upos: NOUN	xpos: NN	feats: _
+word: 粮田	lemma: 粮田	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 放牧	lemma: 放牧	upos: VERB	xpos: VV	feats: _
+word: 草场	lemma: 草场	upos: NOUN	xpos: NN	feats: _
+word: 和宅	lemma: 和宅	upos: NOUN	xpos: NN	feats: _
+word: 基地	lemma: 基地	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 村予	lemma: 村予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十二条  任何单位分配住房、集资建房、出售住房，必须实行在同等条件下男女职工一律平等，不得以男职工为主或者变相地以男职工为主。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 分配	lemma: 分配	upos: VERB	xpos: VV	feats: _
+word: 住房	lemma: 住房	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 集资	lemma: 集资	upos: NOUN	xpos: NN	feats: _
+word: 建房	lemma: 建房	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出售	lemma: 出售	upos: VERB	xpos: VV	feats: _
+word: 住房	lemma: 住房	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 同等	lemma: 同等	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 下	lemma: 下	upos: ADP	xpos: IN	feats: _
+word: 男	lemma: 男	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 律	lemma: 律	upos: NOUN	xpos: NN	feats: _
+word: 平等	lemma: 平等	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 男职	lemma: 男职	upos: NOUN	xpos: NN	feats: _
+word: 工	lemma: 工	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 主	lemma: 主	upos: ADJ	xpos: JJ	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 变相	lemma: 变相	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 男职	lemma: 男职	upos: NOUN	xpos: NN	feats: _
+word: 工	lemma: 工	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 主	lemma: 主	upos: ADJ	xpos: JJ	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+entity: 一	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    三十五岁以上的单身女职工，有权分配住房、集资建房、购买住房，所在单位应给予照顾。
+
+word: 三十五	lemma: 三十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 岁	lemma: 岁	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 身	lemma: 身	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 分配	lemma: 分配	upos: VERB	xpos: VV	feats: _
+word: 住房	lemma: 住房	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 集资	lemma: 集资	upos: NOUN	xpos: NN	feats: _
+word: 建房	lemma: 建房	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 购买	lemma: 购买	upos: VERB	xpos: VV	feats: _
+word: 住房	lemma: 住房	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 应给予	lemma: 应给予	upos: VERB	xpos: VV	feats: _
+word: 照顾	lemma: 照顾	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三十五岁以上	type: DATE
+
+Sentence sentiment= 2
+
+
+第二十三条  离婚前，夫妻共同居住的房屋具有下列情形之一，夫妻享有共同承租权：
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 共同	lemma: 共同	upos: ADV	xpos: RB	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 房屋	lemma: 房屋	upos: NOUN	xpos: NN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 共同	lemma: 共同	upos: ADJ	xpos: JJ	feats: _
+word: 承租	lemma: 承租	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+entity: 一	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （一）夫妻为同一单位职工，因婚姻关系成立而取得本单位公房承租权的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 同	lemma: 同	upos: DET	xpos: DT	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 婚姻	lemma: 婚姻	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 成立	lemma: 成立	upos: VERB	xpos: VV	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 公房	lemma: 公房	upos: NOUN	xpos: NN	feats: _
+word: 承租	lemma: 承租	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)因婚姻关系成立而取得房管部门公房承租权的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 婚姻	lemma: 婚姻	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 成立	lemma: 成立	upos: VERB	xpos: VV	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 房管	lemma: 房管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 公房	lemma: 公房	upos: NOUN	xpos: NN	feats: _
+word: 承租	lemma: 承租	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）夫妻共有的私房动迁后取得公房承租权的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 共有	lemma: 共有	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 私房	lemma: 私房	upos: ADJ	xpos: JJ	feats: _
+word: 动迁	lemma: 动迁	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 公房	lemma: 公房	upos: NOUN	xpos: NN	feats: _
+word: 承租	lemma: 承租	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （四）现住房为夫妻婚后集资所取得的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 现住	lemma: 现住	upos: VERB	xpos: VV	feats: _
+word: 房	lemma: 房	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 婚	lemma: 婚	upos: PART	xpos: SFN	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 集资	lemma: 集资	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    离婚后，女方抚养子女的，由女方继续承租；双方另有书面约定的除外。
+
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 方抚	lemma: 方抚	upos: NOUN	xpos: NN	feats: _
+word: 养子	lemma: 养子	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 承租	lemma: 承租	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 约定	lemma: 约定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 除外	lemma: 除外	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 方抚	type: PERSON
+entity: 双	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第二十四条  离婚案件中发生的住房纠纷，人民法院应当依照有关法律和本办法的规定，坚持照顾女方和子女利益的原则，进行调解或者作出判决。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 离婚	lemma: 离婚	upos: NOUN	xpos: NN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 住房	lemma: 住房	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 坚持	lemma: 坚持	upos: VERB	xpos: VV	feats: _
+word: 照顾	lemma: 照顾	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 和子	lemma: 和子	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 判决	lemma: 判决	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第二十五条  婚姻关系存续期间，男方死亡，其亲属侵占女方和子女财产的，女方和子女有权向人民法院提起诉讼。人民法院应当受理，依法保护女方和子女的财产权益。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 婚姻	lemma: 婚姻	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 存续	lemma: 存续	upos: VERB	xpos: VV	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 死亡	lemma: 死亡	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 侵占	lemma: 侵占	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 和子	lemma: 和子	upos: PROPN	xpos: NNP	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 和子	lemma: 和子	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: NOUN	xpos: NN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 提起	lemma: 提起	upos: VERB	xpos: VV	feats: _
+word: 诉讼	lemma: 诉讼	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 子女	lemma: 子女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第二十六条  妇女的生命健康权受法律保护。禁止以任何方式逼迫、诱骗、教唆妇女自杀。违者，依法追究刑事责任。
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 妇	lemma: 妇	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 生命	lemma: 生命	upos: NOUN	xpos: NN	feats: _
+word: 健康	lemma: 健康	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 受	lemma: 受	upos: VERB	xpos: VV	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 逼迫	lemma: 逼迫	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 诱骗	lemma: 诱骗	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教唆	lemma: 教唆	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 自杀	lemma: 自杀	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 违者	lemma: 违者	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十七条  婚姻关系存续期间，男方或其亲属对女方有殴打、虐待、诽谤、侮辱、限制人身自由等行为，尚不够刑事处罚的，由公安机关依照治安管理处罚条例处罚；构成犯罪的，依法追究刑事责任。
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 婚姻	lemma: 婚姻	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 存续	lemma: 存续	upos: VERB	xpos: VV	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 殴打	lemma: 殴打	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 虐待	lemma: 虐待	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 诽谤	lemma: 诽谤	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 侮辱	lemma: 侮辱	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 限制	lemma: 限制	upos: VERB	xpos: VV	feats: _
+word: 人身	lemma: 人身	upos: NOUN	xpos: NN	feats: _
+word: 自由	lemma: 自由	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 尚	lemma: 尚	upos: ADV	xpos: RB	feats: _
+word: 不够	lemma: 不够	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    由于男方或其亲属的违法、犯罪行为，给女方造成人身损害和财产损失的，应当依法承担民事责任。
+
+word: 由于	lemma: 由于	upos: ADP	xpos: IN	feats: _
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 人身	lemma: 人身	upos: NOUN	xpos: NN	feats: _
+word: 损害	lemma: 损害	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 民事	lemma: 民事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十八条  禁止任何人利用宗教、迷信限制或者侵害妇女的人身权利。违者，分别情况依法处理。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 宗教	lemma: 宗教	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 迷信	lemma: 迷信	upos: NOUN	xpos: NN	feats: _
+word: 限制	lemma: 限制	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 侵害	lemma: 侵害	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人身	lemma: 人身	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 违者	lemma: 违者	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 分别	lemma: 分别	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: ADV	xpos: RB	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十九条  以"征婚"、"恋爱"等欺骗手段玩弄妇女的，由公安机关依照治安管理处罚条例处罚；构成犯罪的，依法追究刑事责任。
+
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: "	lemma: "	upos: PUNCT	xpos: (	feats: _
+word: 征婚	lemma: 征婚	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: "	lemma: "	upos: PUNCT	xpos: EC	feats: _
+word: 恋	lemma: 恋	upos: PART	xpos: SFN	feats: _
+word: 爱"	lemma: 爱"	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 欺骗	lemma: 欺骗	upos: VERB	xpos: VV	feats: _
+word: 手段	lemma: 手段	upos: NOUN	xpos: NN	feats: _
+word: 玩弄	lemma: 玩弄	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    玩弄妇女致其身心健康受到严重损害的，除依照前款规定处罚外，并应承担经济赔偿责任。
+
+word: 玩弄	lemma: 玩弄	upos: VERB	xpos: VV	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 致	lemma: 致	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 身心	lemma: 身心	upos: NOUN	xpos: NN	feats: _
+word: 健康	lemma: 健康	upos: NOUN	xpos: NN	feats: _
+word: 受到	lemma: 受到	upos: VERB	xpos: VV	feats: _
+word: 严重	lemma: 严重	upos: ADV	xpos: RB	feats: _
+word: 损害	lemma: 损害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 除	lemma: 除	upos: VERB	xpos: VV	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 外	lemma: 外	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第三十条  离婚、终止恋爱关系、单方面追求遭到拒绝后，禁止男方对女方无理纠缠，寻衅闹事，进行骚扰。违者，由公安机关依照治安管理处罚条例处罚；构成犯罪的，依法追究刑事责任。
+
+word: 第三十	lemma: 第三十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 终止	lemma: 终止	upos: VERB	xpos: VV	feats: _
+word: 恋爱	lemma: 恋爱	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方面	lemma: 方面	upos: NOUN	xpos: NN	feats: _
+word: 追求	lemma: 追求	upos: VERB	xpos: VV	feats: _
+word: 遭到	lemma: 遭到	upos: VERB	xpos: VV	feats: _
+word: 拒绝	lemma: 拒绝	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 无理	lemma: 无理	upos: ADV	xpos: RB	feats: _
+word: 纠缠	lemma: 纠缠	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 寻衅	lemma: 寻衅	upos: VERB	xpos: VV	feats: _
+word: 闹事	lemma: 闹事	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 骚扰	lemma: 骚扰	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 违者	lemma: 违者	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十一条  禁止任何医务人员利用技术手段进行胎儿性别鉴定，违者，由卫生行政主管部门给予行政处分。
+
+word: 第三十一	lemma: 第三十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 医务	lemma: 医务	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 手段	lemma: 手段	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 胎儿	lemma: 胎儿	upos: NOUN	xpos: NN	feats: _
+word: 性别	lemma: 性别	upos: NOUN	xpos: NN	feats: _
+word: 鉴定	lemma: 鉴定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 违者	lemma: 违者	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三十二条  计划生育是夫妻双方共同的义务。哪一方实施节育手术或者绝育手术，由夫妻双方商定。
+
+word: 第三十二	lemma: 第三十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 计划	lemma: 计划	upos: NOUN	xpos: NN	feats: _
+word: 生育	lemma: 生育	upos: VERB	xpos: VV	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 共同	lemma: 共同	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 义务	lemma: 义务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 哪	lemma: 哪	upos: PRON	xpos: WP	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方实施	lemma: 方实施	upos: PROPN	xpos: NNP	feats: _
+word: 节育	lemma: 节育	upos: NOUN	xpos: NN	feats: _
+word: 手术	lemma: 手术	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 绝育	lemma: 绝育	upos: NOUN	xpos: NN	feats: _
+word: 手术	lemma: 手术	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 商定	lemma: 商定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三十三条  离婚后，子女由女方抚养的，男方应负担的抚育费数额按下列情形执行：
+
+word: 第三十三	lemma: 第三十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 子	lemma: 子	upos: NOUN	xpos: NN	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 抚养	lemma: 抚养	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 男	lemma: 男	upos: NOUN	xpos: NN	feats: _
+word: 方应	lemma: 方应	upos: VERB	xpos: VV	feats: _
+word: 负担	lemma: 负担	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 抚育	lemma: 抚育	upos: NOUN	xpos: NN	feats: _
+word: 费数	lemma: 费数	upos: NOUN	xpos: NN	feats: _
+word: 额	lemma: 额	upos: PART	xpos: SFN	feats: _
+word: 按下列	lemma: 按下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第三十三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    （一）有固定收入的，一般可按其月总收入的２０至３０％的比例给付。负担两个以上子女的，比例可适当提高，但一般不超过月总收入的５０％。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 固定	lemma: 固定	upos: ADJ	xpos: JJ	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 一般	lemma: 一般	upos: ADV	xpos: RB	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 其月	lemma: 其月	upos: NOUN	xpos: NN	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: ２０	lemma: ２０	upos: NOUN	xpos: NN	feats: _
+word: 至	lemma: 至	upos: CCONJ	xpos: CC	feats: _
+word: ３０	lemma: ３０	upos: NOUN	xpos: NN	feats: _
+word: ％	lemma: ％	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 比例	lemma: 比例	upos: NOUN	xpos: NN	feats: _
+word: 给付	lemma: 给付	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 负担	lemma: 负担	upos: VERB	xpos: VV	feats: _
+word: 两	lemma: 两	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 子女	lemma: 子女	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 比例	lemma: 比例	upos: NOUN	xpos: NN	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 适当	lemma: 适当	upos: ADV	xpos: RB	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 一般	lemma: 一般	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 超	lemma: 超	upos: ADJ	xpos: JJ	feats: _
+word: 过	lemma: 过	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: ５０	lemma: ５０	upos: NOUN	xpos: NN	feats: _
+word: ％	lemma: ％	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: ２０至３０	type: PERCENT
+entity: 两	type: CARDINAL
+entity: ５０	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    (二)无固定收入的，可依据当年总收入或者同行业平均收入，参照上述比例确定。
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 无	lemma: 无	upos: VERB	xpos: VV	feats: _
+word: 固定	lemma: 固定	upos: ADJ	xpos: JJ	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 依据	lemma: 依据	upos: ADP	xpos: IN	feats: _
+word: 当年	lemma: 当年	upos: NOUN	xpos: NN	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 同	lemma: 同	upos: DET	xpos: DT	feats: _
+word: 行业	lemma: 行业	upos: NOUN	xpos: NN	feats: _
+word: 平均	lemma: 平均	upos: ADJ	xpos: JJ	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 参照	lemma: 参照	upos: VERB	xpos: VV	feats: _
+word: 上述	lemma: 上述	upos: NOUN	xpos: NN	feats: _
+word: 比例	lemma: 比例	upos: NOUN	xpos: NN	feats: _
+word: 确定	lemma: 确定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    有特殊情况的，可适当提高或者降低上述比例。
+
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 适当	lemma: 适当	upos: ADV	xpos: RB	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 降低	lemma: 降低	upos: VERB	xpos: VV	feats: _
+word: 上述	lemma: 上述	upos: NOUN	xpos: NN	feats: _
+word: 比例	lemma: 比例	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第三十四条  夫妻离婚后，子女由男方抚养的，女方依法享有探视权。男方或其亲属妨碍女方行使探视权的，女方有权向人民法院提起诉讼，人民法院应当受理。
+
+word: 第三十四	lemma: 第三十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 夫妻	lemma: 夫妻	upos: NOUN	xpos: NN	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 子女	lemma: 子女	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 抚养	lemma: 抚养	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 探视	lemma: 探视	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 男方	lemma: 男方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 妨碍	lemma: 妨碍	upos: VERB	xpos: VV	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 行使	lemma: 行使	upos: VERB	xpos: VV	feats: _
+word: 探视	lemma: 探视	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 女方	lemma: 女方	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 提起	lemma: 提起	upos: VERB	xpos: VV	feats: _
+word: 诉讼	lemma: 诉讼	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十四	type: ORDINAL
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第三十五条  干涉丧偶或者离婚的中老年妇女再婚的，由所在单位（有关部门）给予批评教育或者行政处分；构成犯罪的，依法追究刑事责任。
+
+word: 第三十五	lemma: 第三十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 干涉	lemma: 干涉	upos: VERB	xpos: VV	feats: _
+word: 丧偶	lemma: 丧偶	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 中	lemma: 中	upos: NOUN	xpos: NN	feats: _
+word: 老	lemma: 老	upos: PART	xpos: PFA	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 再婚	lemma: 再婚	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 批评	lemma: 批评	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三十六条  本办法自公布之日起施行。
+
+word: 第三十六	lemma: 第三十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+

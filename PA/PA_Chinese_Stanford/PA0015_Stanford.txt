@@ -1,0 +1,4811 @@
+PA015-XUAR Mineral Resources Law of the PRC-C
+新疆维吾尔自治区矿产资源管理条例
+
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 新疆	type: GPE
+entity: 维吾尔	type: GPE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+（１９９５年１月１３日新疆维吾尔自治区第八届人民代表大会常务委员会第十二次会议通过  根据１９９７年１０月１１日新疆维吾尔自治区第八届人民代表大会常务委员会第二十九次会议《关于修改〈新疆维吾尔自治区矿产资源管理条例〉的决定》修正 ）
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: １９９５	lemma: １９９５	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １３	lemma: １３	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: １９９７	lemma: １９９７	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １０	lemma: １０	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １１	lemma: １１	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 修改	lemma: 修改	upos: VERB	xpos: VV	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 修正	lemma: 修正	upos: VERB	xpos: VV	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+entity: １９９５年	type: DATE
+entity: １月１３日	type: DATE
+entity: 新疆维吾尔自治区第八届人民代表大会常务委员会第十二次会议	type: EVENT
+entity: １９９７年	type: DATE
+entity: １０月１１日新疆维吾尔自治区第八届人民代表大会常务委员会第二十九次会议	type: EVENT
+entity: 新疆维吾尔自治区矿产资源管理条例	type: LAW
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+          第一章  总  则
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 则	lemma: 则	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第一条  为加速矿产资源勘查、开发利用，加强矿产资源保护和管理，促进自治区矿业经济发展，根据中华人民共和国《矿产资源法》、《矿产资源法实施细则》和《民族区域自治法》的有关规定，结合自治区实际，制定本条例。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 加速	lemma: 加速	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开发	lemma: 开发	upos: NOUN	xpos: NN	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿业	lemma: 矿业	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: .	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 法实	lemma: 法实	upos: NOUN	xpos: NN	feats: _
+word: 施	lemma: 施	upos: PROPN	xpos: NNP	feats: _
+word: 细则	lemma: 细则	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: CCONJ	xpos: CC	feats: _
+word: 治法	lemma: 治法	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和国	type: ORG
+entity: 矿产资源法	type: LAW
+entity: 矿产资源法实施细则	type: LAW
+entity: 民族区域自治法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二条  凡在自治区境内进行矿产资源勘查、开采等矿业经济活动，应当遵守本条例。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 境内	lemma: 境内	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 矿业	lemma: 矿业	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三条  矿产资源属于国家所有，地表或者地下矿产资源的国家所有权，不因其所依附土地的所有权或者使用权的不同而改变。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产	lemma: 产	upos: PART	xpos: SFN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 属	lemma: 属	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 地表	lemma: 地表	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 地下	lemma: 地下	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 依附	lemma: 依附	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 不同	lemma: 不同	upos: ADJ	xpos: JJ	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 改变	lemma: 改变	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第四条  矿产资源的勘查、开发实行统一规划、合理布局、综合勘查、合理开采和综合利用的方针。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产	lemma: 产	upos: PART	xpos: SFN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开发	lemma: 开发	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 统一	lemma: 统一	upos: NOUN	xpos: NN	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合理	lemma: 合理	upos: ADJ	xpos: JJ	feats: _
+word: 布局	lemma: 布局	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合理	lemma: 合理	upos: ADJ	xpos: JJ	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 方针	lemma: 方针	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    自治区对本行政区域内的矿产资源，可以优先开发利用。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 优先	lemma: 优先	upos: ADV	xpos: RB	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第五条  勘查、开采矿产资源，应当加强水土保持、土地复垦和环境保护工作，加强地质环境保护、监测和地质灾害的整治工作。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 复垦	lemma: 复垦	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 监测	lemma: 监测	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 灾害	lemma: 灾害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 整治	lemma: 整治	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第六条  勘查、开采矿产资源，应当依照国家和自治区有关规定申请登记，依法取得探矿权或者采矿权。探矿权人和采矿权人的合法权益受法律保护。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 权益受	lemma: 权益受	upos: PROPN	xpos: NNP	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    从事矿产资源勘查、开采活动，必须具备相应的资质条件。
+
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 具备	lemma: 具备	upos: VERB	xpos: VV	feats: _
+word: 相应	lemma: 相应	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 资质	lemma: 资质	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    探矿权、采矿权实行有偿取得制度并可以依法转让。禁止在他人已取得探矿权、采矿权的勘查作业区或者矿区范围内设置新的探矿权、采矿权；禁止将探矿权、采矿权倒卖牟利。
+
+word: 探矿权	lemma: 探矿权	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 有偿	lemma: 有偿	upos: NOUN	xpos: NN	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 设置	lemma: 设置	upos: VERB	xpos: VV	feats: _
+word: 新	lemma: 新	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 倒卖	lemma: 倒卖	upos: VERB	xpos: VV	feats: _
+word: 牟利	lemma: 牟利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第七条  各级人民政府保障国有矿业经济的巩固和发展，对集体矿山企业和个体采矿实行积极扶持、合理规划、正确引导、加强管理的方针，鼓励国内外投资者依法进行矿产资源勘查和开办矿山企业，保护探矿权人和采矿权人的合法权益不受侵犯，维护依法划定的勘查作业区和矿山企业矿区范围内正常的工作、生产秩序。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 国有	lemma: 国有	upos: NOUN	xpos: NN	feats: _
+word: 矿业	lemma: 矿业	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 巩固	lemma: 巩固	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个体	lemma: 个体	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 积极	lemma: 积极	upos: ADJ	xpos: JJ	feats: _
+word: 扶持	lemma: 扶持	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合理	lemma: 合理	upos: ADV	xpos: RB	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 正确	lemma: 正确	upos: ADJ	xpos: JJ	feats: _
+word: 引导	lemma: 引导	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 方针	lemma: 方针	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 鼓励	lemma: 鼓励	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 国内	lemma: 国内	upos: NOUN	xpos: NN	feats: _
+word: 外投	lemma: 外投	upos: VERB	xpos: VV	feats: _
+word: 资者	lemma: 资者	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: NOUN	xpos: NN	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 不受	lemma: 不受	upos: VERB	xpos: VV	feats: _
+word: 侵犯	lemma: 侵犯	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 划定	lemma: 划定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 正常	lemma: 正常	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 秩序	lemma: 秩序	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+第八条  自治区实行资源有偿开采制度。开采矿产资源应当按国家和自治区有关规定交纳资源税和资源补偿费。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 偿开	lemma: 偿开	upos: VERB	xpos: VV	feats: _
+word: 采制	lemma: 采制	upos: VERB	xpos: VV	feats: _
+word: 度	lemma: 度	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 交纳	lemma: 交纳	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 税	lemma: 税	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 补偿	lemma: 补偿	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    自治区实行地质成果有偿转让制度。有偿转让的地质成果，应当经国有资产评估部门进行资产评估。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 成果	lemma: 成果	upos: NOUN	xpos: NN	feats: _
+word: 有偿	lemma: 有偿	upos: VERB	xpos: VV	feats: _
+word: 转让	lemma: 转让	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 有偿	lemma: 有偿	upos: VERB	xpos: VV	feats: _
+word: 转	lemma: 转	upos: VERB	xpos: VV	feats: _
+word: 让	lemma: 让	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 成果	lemma: 成果	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当经	lemma: 当经	upos: VERB	xpos: VV	feats: _
+word: 国有	lemma: 国有	upos: NOUN	xpos: NN	feats: _
+word: 资产	lemma: 资产	upos: NOUN	xpos: NN	feats: _
+word: 评估	lemma: 评估	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 资产	lemma: 资产	upos: NOUN	xpos: NN	feats: _
+word: 评估	lemma: 评估	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第九条  自治区地质矿产主管部门是自治区人民政府的职能部门。其主要职责是：
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 职能	lemma: 职能	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 主要	lemma: 主要	upos: ADJ	xpos: JJ	feats: _
+word: 职责	lemma: 职责	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）负责自治区矿产资源管理，维护矿产资源的国家所有权；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)对矿产资源开发进行监督管理；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）负责地质环境的保护管理；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （四）负责地质勘查的行业管理；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 行业	lemma: 行业	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （五）依法对自治区矿产资源进行规划，并对矿产资源分配实施统一管理；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 分配	lemma: 分配	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 统一	lemma: 统一	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （六）协同水行政主管部门管理本行政区域地下水资源。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 协同	lemma: 协同	upos: VERB	xpos: VV	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 下水	lemma: 下水	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十条  州（地）、市、县地质矿产主管部门是同级人民政府的职能部门，负责本行政区域内的矿产资源勘查监督管理、采矿登记管理、开采与保护监督管理和地质环境保护管理等工作。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 州	lemma: 州	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 地	lemma: 地	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 职能	lemma: 职能	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 与	lemma: 与	upos: CCONJ	xpos: CC	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十一条  各级人民政府有关主管部门协助同级地质矿产主管部门对矿产资源勘查、开采进行监督管理。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十二条  自治区对保护、节约、合理利用矿产资源等方面作出贡献的单位和个人给予表彰和奖励。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 节约	lemma: 节约	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合理	lemma: 合理	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方面	lemma: 方面	upos: NOUN	xpos: NN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 贡献	lemma: 贡献	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 表彰	lemma: 表彰	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 奖励	lemma: 奖励	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二章  矿产资源勘查
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产	lemma: 产	upos: PART	xpos: SFN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第十三条  矿产资源的勘查，依照国务院有关规定实行区块登记管理。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 区块	lemma: 区块	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十四条  探矿权的申请，由矿产资源勘查出资人提出；国家出资勘查的，由受委托承担勘查工作的单位提出；合资、合作勘查的，由合同约定的合资、合作人提出。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿权	lemma: 矿权	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 资人	lemma: 资人	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 出资	lemma: 出资	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由受	lemma: 由受	upos: PROPN	xpos: NNP	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 合资	lemma: 合资	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合作	lemma: 合作	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: VERB	xpos: VV	feats: _
+word: 约定	lemma: 约定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 合资	lemma: 合资	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合作	lemma: 合作	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    申请探矿权应当具有与勘查项目相适应的资质，或者有与具有相应资质的勘查单位签订的勘查合同，并须符合国家和自治区规定的其他条件。
+
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 项目	lemma: 项目	upos: NOUN	xpos: NN	feats: _
+word: 相	lemma: 相	upos: ADV	xpos: RB	feats: _
+word: 适应	lemma: 适应	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 资质	lemma: 资质	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 相应	lemma: 相应	upos: ADJ	xpos: JJ	feats: _
+word: 资质	lemma: 资质	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十五条  申请进行下列地质矿产勘查的，由自治区地质矿产主管部门办理勘查登记、颁发勘查许可征。国家另有规定的除外。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申	lemma: 申	upos: PROPN	xpos: NNP	feats: _
+word: 请	lemma: 请	upos: AUX	xpos: MD	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可征	lemma: 可征	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: DET	xpos: DT	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 除外	lemma: 除外	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）１：２５万和大于１：２５万比例尺的区域地质调查。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: １	lemma: １	upos: NOUN	xpos: NNB	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+word: ２５万	lemma: ２５万	upos: X	xpos: FW	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 大	lemma: 大	upos: ADJ	xpos: JJ	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+word: ２５万	lemma: ２５万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 比	lemma: 比	upos: CCONJ	xpos: CC	feats: _
+word: 例尺	lemma: 例尺	upos: PROPN	xpos: NNP	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: １	type: CARDINAL
+entity: ２５万	type: CARDINAL
+entity: １	type: CARDINAL
+entity: ２５万	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    (二)金属矿产、非金属矿产、能源矿产勘查；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 金属	lemma: 金属	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 非	lemma: 非	upos: PART	xpos: PFA	feats: _
+word: 金属	lemma: 金属	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 能源	lemma: 能源	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）地下水、地热、矿泉水资源的勘查；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 地	lemma: 地	upos: NOUN	xpos: NN	feats: _
+word: 下水	lemma: 下水	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地热	lemma: 地热	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 矿泉	lemma: 矿泉	upos: NOUN	xpos: NN	feats: _
+word: 水	lemma: 水	upos: PART	xpos: SFN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （四）矿产的地球物理、地球化学勘查；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 地球	lemma: 地球	upos: NOUN	xpos: NN	feats: _
+word: 物理	lemma: 物理	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地球	lemma: 地球	upos: NOUN	xpos: NN	feats: _
+word: 化学	lemma: 化学	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （五）航空物探、航空遥感地质调查；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 航空	lemma: 航空	upos: NOUN	xpos: NN	feats: _
+word: 物探	lemma: 物探	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 航空	lemma: 航空	upos: NOUN	xpos: NN	feats: _
+word: 遥感	lemma: 遥感	upos: PROPN	xpos: NNP	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （六）国家、自治区规定的其他勘查。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十六条  探矿权人应当在领取勘查许可证后的六个月内实施勘查作业。逾期未实施勘查作业的，按自动放弃探矿权处理，由自治区地质矿产主管部门注销其勘查许可证。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PROPN	xpos: NNP	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 证	lemma: 证	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月内	lemma: 月内	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 自动	lemma: 自动	upos: ADV	xpos: RB	feats: _
+word: 放弃	lemma: 放弃	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 注销	lemma: 注销	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+entity: 六个月内	type: DATE
+
+Sentence sentiment= 1
+
+
+    勘查许可证有效期满，需要延长勘查工作时间的，应当在勘查许可证有效期满前三个月内办理延续登记手续。
+
+word: 勘查许	lemma: 勘查许	upos: PROPN	xpos: NNP	feats: _
+word: 可证	lemma: 可证	upos: NOUN	xpos: NN	feats: _
+word: 有效	lemma: 有效	upos: ADV	xpos: RB	feats: _
+word: 期满	lemma: 期满	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 延长	lemma: 延长	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 时间	lemma: 时间	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可证	lemma: 可证	upos: NOUN	xpos: NN	feats: _
+word: 有效	lemma: 有效	upos: ADV	xpos: RB	feats: _
+word: 期满	lemma: 期满	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: DET	xpos: DT	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 延续	lemma: 延续	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三个月	type: DATE
+
+Sentence sentiment= 2
+
+
+    探矿权人必须接受勘查作业区所在地的地质矿产主管部门的监督管理。
+
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 作业	lemma: 作业	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十七条  探矿权人有下列情况之一的，应当向自治区地质矿产主管部门办理变更勘查登记手续：
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当向	lemma: 应当向	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十七	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）变更勘查工作范围的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)变更勘查工作对象的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 对象	lemma: 对象	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）变更勘查工作阶段的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 阶段	lemma: 阶段	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （四）转让探矿权或者变更探矿权人名称的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 转	lemma: 转	upos: VERB	xpos: VV	feats: _
+word: 让	lemma: 让	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第十八条  勘查施工作业不得阻碍灌溉、防洪等活动，不得损害灌溉、防洪设施和其他生产设施。勘查作业结束后，应当采取措施，防止水土流失，保护生态环境。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 施工	lemma: 施工	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 阻碍	lemma: 阻碍	upos: VERB	xpos: VV	feats: _
+word: 灌溉	lemma: 灌溉	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 防洪	lemma: 防洪	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 损害	lemma: 损害	upos: VERB	xpos: VV	feats: _
+word: 灌溉	lemma: 灌溉	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 防洪	lemma: 防洪	upos: NOUN	xpos: NN	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: NOUN	xpos: NN	feats: _
+word: 结束	lemma: 结束	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 生态	lemma: 生态	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    探矿权人在勘查过程中给他人造成生产资料和其他财产损害的，依法予以补偿。
+
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 损害	lemma: 损害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十九条  探矿权人和采矿权人应当按照国家和自治区有关规定，填报矿产储量表，进行储量登记。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 填报	lemma: 填报	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 产储	lemma: 产储	upos: NOUN	xpos: NN	feats: _
+word: 量表	lemma: 量表	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    探矿权人探明的矿产储量、采矿权申请人拟占用的矿产储量、建设工程拟压覆或者建设工程压覆的在目前经济技术条件下无法采出的矿产储量，按前款规定进行矿产储量登记。
+
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 探明	lemma: 探明	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人拟	lemma: 人拟	upos: NOUN	xpos: NN	feats: _
+word: 占用	lemma: 占用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: 拟压	lemma: 拟压	upos: NOUN	xpos: NN	feats: _
+word: 覆或	lemma: 覆或	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: 压覆	lemma: 压覆	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 目前	lemma: 目前	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 下	lemma: 下	upos: ADP	xpos: IN	feats: _
+word: 无法	lemma: 无法	upos: VERB	xpos: VV	feats: _
+word: 采出	lemma: 采出	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十条  供矿山建设设计使用的矿产资源勘探报告，须依法经国务院或者自治区矿产储量审批机构审查批准；未经审查批准的，不得作为矿山建设设计的依据。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 供	lemma: 供	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 山	lemma: 山	upos: PART	xpos: SFN	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 设计	lemma: 设计	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 勘探	lemma: 勘探	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 依	lemma: 依	upos: VERB	xpos: VV	feats: _
+word: 法经	lemma: 法经	upos: PROPN	xpos: NNP	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 审查	lemma: 审查	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 未经	lemma: 未经	upos: VERB	xpos: VV	feats: _
+word: 审查	lemma: 审查	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 依据	lemma: 依据	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    自治区矿产储量审批机构可以在其法定权限内，委托州（地）、市地质矿产主管部门组织审批前款规定的勘探报告。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产储	lemma: 产储	upos: VERB	xpos: VV	feats: _
+word: 量	lemma: 量	upos: PART	xpos: SFN	feats: _
+word: 审批	lemma: 审批	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 权限	lemma: 权限	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 州	lemma: 州	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 地	lemma: 地	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 勘探	lemma: 勘探	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十一条  探矿权人应当按国家和自治区有关规定，向自治区地质资料管理机构汇交地质勘查报告和其他地质资料。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: NOUN	xpos: NN	feats: _
+word: 矿权	lemma: 矿权	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 汇交	lemma: 汇交	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+        自治区地质资料管理机构应当保护勘查成果汇交单位的合法权益，对勘查单位汇交的地质勘查报告和其他地质资料，按照国家和自治区的有关规定提供借阅或利用，不得进行封锁或者将其转让、盈利。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 成果	lemma: 成果	upos: NOUN	xpos: NN	feats: _
+word: 汇交	lemma: 汇交	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 汇交	lemma: 汇交	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 借阅	lemma: 借阅	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 封锁	lemma: 封锁	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 盈利	lemma: 盈利	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十二条  探矿权人之间因勘查权属发生争议的，由当事人协商解决；当事人不愿协商或者协商不成的，由自治区地质矿产主管部门裁决。法律、法规另有规定的除外。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 之间	lemma: 之间	upos: ADP	xpos: IN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 权属	lemma: 权属	upos: NOUN	xpos: NN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 争议	lemma: 争议	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 不愿	lemma: 不愿	upos: AUX	xpos: MD	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 不成	lemma: 不成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 裁决	lemma: 裁决	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: DET	xpos: DT	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 除外	lemma: 除外	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三章  采矿权审批
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    第二十三条  审批采矿权应当遵守国家和自治区矿产资源开发规划。
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 审	lemma: 审	upos: NUM	xpos: CD	feats: NumType=Card
+word: 批	lemma: 批	upos: PART	xpos: SFN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    自治区计划行政主管部门、地质矿产主管部门对不符合自治区矿产资源开发规划的州（地）、市矿产资源开发规划，应当予以纠正。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 州	lemma: 州	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 地	lemma: 地	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: NOUN	xpos: NN	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当予	lemma: 当予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 纠正	lemma: 纠正	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十四条  设立矿山企业，应当依照法律、法规的规定，向地质矿产主管部门提交矿区范围申请报告、矿产资源综合利用方案和矿山地质环境保护方案。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 设立	lemma: 设立	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    申请采矿权必须符合下列条件：
+
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （一）有经批准的可行性研究报告、采矿设计或者开采方案；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 有经	lemma: 有经	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 行性	lemma: 行性	upos: NOUN	xpos: NN	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)矿区范围已经审核批准；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 已经	lemma: 已经	upos: ADV	xpos: RB	feats: _
+word: 审核	lemma: 审核	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）有与开采矿种和开采规模相适应的资金、技术装备；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿种	lemma: 矿种	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 规模	lemma: 规模	upos: NOUN	xpos: NN	feats: _
+word: 相适	lemma: 相适	upos: ADJ	xpos: JJ	feats: _
+word: 应	lemma: 应	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 资金	lemma: 资金	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 装备	lemma: 装备	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    （四）国家和自治区规定的其他条件。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第二十五条  鼓励集体矿山企业开采国家和自治区指定范围内的矿产资源，允许个人采挖零星分散资源和只能用作普通建筑材料的砂、石、粘土以及为生活自用采挖少量矿产。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 鼓励	lemma: 鼓励	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 指定	lemma: 指定	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 允许	lemma: 允许	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 采挖	lemma: 采挖	upos: VERB	xpos: VV	feats: _
+word: 零星	lemma: 零星	upos: ADJ	xpos: JJ	feats: _
+word: 分散	lemma: 分散	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 只能	lemma: 只能	upos: AUX	xpos: MD	feats: _
+word: 用作	lemma: 用作	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 建筑	lemma: 建筑	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 砂	lemma: 砂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 石	lemma: 石	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 粘土	lemma: 粘土	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 自用	lemma: 自用	upos: VERB	xpos: VV	feats: _
+word: 采挖	lemma: 采挖	upos: VERB	xpos: VV	feats: _
+word: 少量	lemma: 少量	upos: ADJ	xpos: JJ	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    地质矿产主管部门及其他有关部门应当指导、帮助集体矿山企业加强技术改造，提高资源回收率，改善经营管理，提高经济效益。
+
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 指导	lemma: 指导	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 帮助	lemma: 帮助	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 改造	lemma: 改造	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 回收	lemma: 回收	upos: VERB	xpos: VV	feats: _
+word: 率	lemma: 率	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 改善	lemma: 改善	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 效益	lemma: 效益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    地质矿产主管部门、地质勘查单位、国有矿山企业和有关科研机构，应当按照积极支持、有偿互惠的原则向集体矿山企业和个体采矿者提供地质资料和技术业务。
+
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 国有	lemma: 国有	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 科研	lemma: 科研	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 积极	lemma: 积极	upos: ADV	xpos: RB	feats: _
+word: 支持	lemma: 支持	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 有偿	lemma: 有偿	upos: VERB	xpos: VV	feats: _
+word: 互惠	lemma: 互惠	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个体	lemma: 个体	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十六条  申请开采下列矿产资源的，由自治区地质矿产主管部门审批并颁发采矿许可征；法律、法规另有规定的，从其规定：
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可征	lemma: 可征	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: DET	xpos: DT	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）煤和贵重金属；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 煤	lemma: 煤	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 贵重	lemma: 贵重	upos: NOUN	xpos: NN	feats: _
+word: 金属	lemma: 金属	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)储量规模为中、小型的有色金属和特种非金属；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 规模	lemma: 规模	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 中	lemma: 中	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 小型	lemma: 小型	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有色	lemma: 有色	upos: ADJ	xpos: JJ	feats: _
+word: 金属	lemma: 金属	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 特种	lemma: 特种	upos: ADJ	xpos: JJ	feats: _
+word: 非	lemma: 非	upos: PART	xpos: PFA	feats: _
+word: 金属	lemma: 金属	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）储量规模为中型的其他矿产。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 规模	lemma: 规模	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 中型	lemma: 中型	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    申请开采前款规定以外矿产资源的，由资源所在地的县（市）地质矿产主管部门审批并颁发采矿许可征。资源跨行政区域的，由其共同的上一级地质矿产主管部门审批并颁发采矿许可证。
+
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 以外	lemma: 以外	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可征	lemma: 可征	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 跨	lemma: 跨	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 共同	lemma: 共同	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 上	lemma: 上	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    矿产储量规模的划分标准，按照国务院矿产储量审批机构的规定执行。
+
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产储量	lemma: 产储量	upos: NOUN	xpos: NN	feats: _
+word: 规模	lemma: 规模	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 划分	lemma: 划分	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: VERB	xpos: VV	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 矿产储量	lemma: 矿产储量	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    地质矿产主管部门应当自受理采矿权申请之日起３０个工作日内，作出批准或者不予批准颁发采矿许可征的决定并通知申请人；决定批准颁发采矿许可证的，应当及时向有关部门通报，并定期向社会公告。
+
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿权	lemma: 矿权	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: ３０	lemma: ３０	upos: NOUN	xpos: NN	feats: _
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 日内	lemma: 日内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 不予	lemma: 不予	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可征	lemma: 可征	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时向	lemma: 时向	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 通报	lemma: 通报	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 定期	lemma: 定期	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: ３０	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第二十七条  探矿权人可以对适宜边探边采的复杂类型矿床进行开采，但应向原颁发勘查许可证的机关、矿产资源储量审批机构提交论证材料，经其审核同意后，办理采矿登记，领取采矿许可证。
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿权	lemma: 矿权	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 适宜	lemma: 适宜	upos: ADJ	xpos: JJ	feats: _
+word: 边探	lemma: 边探	upos: NOUN	xpos: NN	feats: _
+word: 边采	lemma: 边采	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 复杂	lemma: 复杂	upos: ADJ	xpos: JJ	feats: _
+word: 类型	lemma: 类型	upos: NOUN	xpos: NN	feats: _
+word: 矿床	lemma: 矿床	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 应向	lemma: 应向	upos: NOUN	xpos: NN	feats: _
+word: 原颁	lemma: 原颁	upos: ADV	xpos: RB	feats: _
+word: 发勘	lemma: 发勘	upos: VERB	xpos: VV	feats: _
+word: 查许	lemma: 查许	upos: PROPN	xpos: NNP	feats: _
+word: 可证	lemma: 可证	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 审批	lemma: 审批	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 论证	lemma: 论证	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 审核	lemma: 审核	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第二十八条  采矿权人应当在领取采矿许可证后一年内实施建设。逾期不实施建设的，按自动放弃采矿权处理，由原颁发采矿许可征的地质矿产主管部门注销采矿许可证。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 证	lemma: 证	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 自动	lemma: 自动	upos: ADV	xpos: RB	feats: _
+word: 放弃	lemma: 放弃	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 原颁	lemma: 原颁	upos: NOUN	xpos: NN	feats: _
+word: 发采	lemma: 发采	upos: VERB	xpos: VV	feats: _
+word: 矿许	lemma: 矿许	upos: NOUN	xpos: NN	feats: _
+word: 可征	lemma: 可征	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 注销	lemma: 注销	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+entity: 一年	type: DATE
+
+Sentence sentiment= 0
+
+
+    探矿权人有权优先取得勘查作业区内矿产资源的采矿权。其优先取得采矿权的保护期限为二年，自勘查许可证注销之日起计算。
+
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 优先	lemma: 优先	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 优先	lemma: 优先	upos: NOUN	xpos: NN	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PROPN	xpos: NNP	feats: _
+word: 可证	lemma: 可证	upos: NOUN	xpos: NN	feats: _
+word: 注销	lemma: 注销	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 计算	lemma: 计算	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 二年	type: DATE
+
+Sentence sentiment= 2
+
+
+    采矿许可证有效期满，需要延长采矿年限的，应当在有效期满三个月前向原颁发采矿许可证的地质矿产主管部门申请办理延续登记手续，逾期不申请的，按关闭矿山或者停办矿山处理。
+
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿许	lemma: 矿许	upos: NOUN	xpos: NN	feats: _
+word: 可证	lemma: 可证	upos: NOUN	xpos: NN	feats: _
+word: 有效	lemma: 有效	upos: ADV	xpos: RB	feats: _
+word: 期满	lemma: 期满	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 延长	lemma: 延长	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 年限	lemma: 年限	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 有效	lemma: 有效	upos: VERB	xpos: VV	feats: _
+word: 期	lemma: 期	upos: PART	xpos: SFN	feats: _
+word: 满	lemma: 满	upos: VERB	xpos: VV	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 原颁	lemma: 原颁	upos: NOUN	xpos: NN	feats: _
+word: 发采	lemma: 发采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 延续	lemma: 延续	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: NOUN	xpos: NN	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 关闭	lemma: 关闭	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 停办	lemma: 停办	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三个月前	type: DATE
+
+Sentence sentiment= 2
+
+
+第二十九条  采矿权人长期达不到申请采矿登记有关资料中所确定的设计年产量的，原颁发采矿许可证的地质矿产主管部门可以按有关规定核减其矿区范围和开采范围。
+
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 长期达	lemma: 长期达	upos: NOUN	xpos: NN	feats: _
+word: 不到	lemma: 不到	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 确定	lemma: 确定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 设计	lemma: 设计	upos: VERB	xpos: VV	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NN	feats: _
+word: 产量	lemma: 产量	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 原颁	lemma: 原颁	upos: VERB	xpos: VV	feats: _
+word: 发采	lemma: 发采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 核	lemma: 核	upos: PART	xpos: SFN	feats: _
+word: 减其	lemma: 减其	upos: VERB	xpos: VV	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十条  采矿权人有下列情况之一的，应当向原颁发采矿许可证的地质矿产主管部门提交有关主管部门批准的文件，申请办理变更登记手续，换领采矿许可证。
+
+word: 第三十	lemma: 第三十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 原颁	lemma: 原颁	upos: NOUN	xpos: NN	feats: _
+word: 发采	lemma: 发采	upos: VERB	xpos: VV	feats: _
+word: 矿许可证	lemma: 矿许可证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 文件	lemma: 文件	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 变	lemma: 变	upos: NOUN	xpos: NN	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 换领	lemma: 换领	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    （一）变更开采范围或者矿区范围的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    (二)变更开采矿种或者开采方式的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿种	lemma: 矿种	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    （三）变更企业名称的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （四）转让采矿权或者变更采矿权人名称的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 转	lemma: 转	upos: VERB	xpos: VV	feats: _
+word: 让	lemma: 让	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权人	lemma: 权人	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第三十一条  国家或者自治区按规划新建国有矿山企业，在其矿区范围内原获取采矿权的矿山企业或者个体采矿者必须撤出，已领取的采矿许可证，由原颁发采矿许可证的地质矿产主管部门予以收回并公告。因此造成损失的，由矿山建设单位按国家有关规定予以补偿。
+
+word: 第三十一	lemma: 第三十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 新	lemma: 新	upos: PART	xpos: PFA	feats: _
+word: 建国	lemma: 建国	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内原	lemma: 内原	upos: NOUN	xpos: NN	feats: _
+word: 获取	lemma: 获取	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 个体	lemma: 个体	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 撤出	lemma: 撤出	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 原颁	lemma: 原颁	upos: NOUN	xpos: NN	feats: _
+word: 发采	lemma: 发采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 收回	lemma: 收回	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: CCONJ	xpos: CC	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 此	lemma: 此	upos: PRON	xpos: PRD	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十二条  发生采矿权属或者矿界纠纷，由颁发采矿许可证的地质矿产主管部门会同有关部门协调解决，协调不成的，由地质矿产主管部门依法裁决。
+
+word: 第三十二	lemma: 第三十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 属	lemma: 属	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 矿界	lemma: 矿界	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 同	lemma: 同	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 协调	lemma: 协调	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 协调	lemma: 协调	upos: VERB	xpos: VV	feats: _
+word: 不成	lemma: 不成	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 裁决	lemma: 裁决	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    一方为中直、统配矿山企业的，由自治区地质矿产主管部门会同同级有关主管部门协调解决，协调不成的，报国务院地质矿产主管部门处理。
+
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 中直	lemma: 中直	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 统配	lemma: 统配	upos: PROPN	xpos: NNP	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 同	lemma: 同	upos: ADP	xpos: IN	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 协调	lemma: 协调	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 协调	lemma: 协调	upos: VERB	xpos: VV	feats: _
+word: 不成	lemma: 不成	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 报国	lemma: 报国	upos: VERB	xpos: VV	feats: _
+word: 务院	lemma: 务院	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第四章  采矿监督
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    第三十三条  矿山建设必须根据批准的矿山设计，按照基本建设程序进行，并应当严格执行施工验收制度。有关主管部门组织矿山建设施工验收时，应当有同级地质矿产主管部门参加并对资源综合利用和矿山地质环境保护情况签署意见。
+
+word: 第三十三	lemma: 第三十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 程序	lemma: 程序	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 严格	lemma: 严格	upos: ADV	xpos: RB	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 施工	lemma: 施工	upos: NOUN	xpos: NN	feats: _
+word: 验收	lemma: 验收	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 施	lemma: 施	upos: PROPN	xpos: NNP	feats: _
+word: 工验收	lemma: 工验收	upos: PROPN	xpos: NNP	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当有	lemma: 当有	upos: VERB	xpos: VV	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 并对	lemma: 并对	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 综合	lemma: 综合	upos: NOUN	xpos: NN	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 签署	lemma: 签署	upos: VERB	xpos: VV	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    开采零星分散的矿产资源和建筑材料用砂、石、粘土的，可以不编写采矿设计，但应编制开采方案。
+
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 零星	lemma: 零星	upos: ADJ	xpos: JJ	feats: _
+word: 分散	lemma: 分散	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 建筑	lemma: 建筑	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 砂	lemma: 砂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 石	lemma: 石	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 粘土	lemma: 粘土	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 编写	lemma: 编写	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 编制	lemma: 编制	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第三十四条  矿山企业必须根据批准的矿山设计实施开采矿产资源，不得采富弃贫、采厚弃薄，对具有工业价值的共生或者伴生矿产应当进行综合开采、综合利用；对暂时不能综合开采、综合利用的矿产以及含有有用组分的尾矿，应当采取有效保护措施，防止损失、破坏和浪费。
+
+word: 第三十四	lemma: 第三十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 采富	lemma: 采富	upos: VERB	xpos: VV	feats: _
+word: 弃贫	lemma: 弃贫	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采厚	lemma: 采厚	upos: ADJ	xpos: JJ	feats: _
+word: 弃	lemma: 弃	upos: VERB	xpos: VV	feats: _
+word: 薄	lemma: 薄	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 工业	lemma: 工业	upos: NOUN	xpos: NN	feats: _
+word: 价值	lemma: 价值	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 共生	lemma: 共生	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 伴生	lemma: 伴生	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 暂时	lemma: 暂时	upos: ADV	xpos: RB	feats: _
+word: 不能	lemma: 不能	upos: AUX	xpos: MD	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 含有	lemma: 含有	upos: VERB	xpos: VV	feats: _
+word: 有用	lemma: 有用	upos: ADJ	xpos: JJ	feats: _
+word: 组分	lemma: 组分	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 尾矿	lemma: 尾矿	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: ADJ	xpos: JJ	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 破坏	lemma: 破坏	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 浪费	lemma: 浪费	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十五条  开采矿产资源，必须遵守国家、自治区土地、草原、森林、环保、文物保护、水法等法律、法规。
+
+word: 第三十五	lemma: 第三十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 草原	lemma: 草原	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 森林	lemma: 森林	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 环保	lemma: 环保	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 文物	lemma: 文物	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 水法	lemma: 水法	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    开采矿产资源造成矿山地质环境、生态环境破坏的，应当治理恢复；给他人生产、生活造成损害的，依法予以补偿，并采取必要的补救措施。
+
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 生态	lemma: 生态	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 破坏	lemma: 破坏	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 损害	lemma: 损害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 补偿	lemma: 补偿	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 必要	lemma: 必要	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 补救	lemma: 补救	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第三十六条  自治区实行矿山企业矿产开发监督管理年度检查制度。矿产开发监督管理年度检查，按自治区有关规定执行。
+
+word: 第三十六	lemma: 第三十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 年度	lemma: 年度	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 年度	lemma: 年度	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    矿山企业开采回采率、采矿贫化率和选矿回收率应当达到设计要求，并应建立健全年度考核制度，不断提高资源利用率。
+
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 开	lemma: 开	upos: VERB	xpos: VV	feats: _
+word: 采回	lemma: 采回	upos: VERB	xpos: VV	feats: _
+word: 采率	lemma: 采率	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 贫化	lemma: 贫化	upos: VERB	xpos: VV	feats: _
+word: 率	lemma: 率	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 选矿	lemma: 选矿	upos: VERB	xpos: VV	feats: _
+word: 回收	lemma: 回收	upos: VERB	xpos: VV	feats: _
+word: 率	lemma: 率	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 达到	lemma: 达到	upos: VERB	xpos: VV	feats: _
+word: 设计	lemma: 设计	upos: NOUN	xpos: NN	feats: _
+word: 要求	lemma: 要求	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 健全	lemma: 健全	upos: ADJ	xpos: JJ	feats: _
+word: 年度	lemma: 年度	upos: NOUN	xpos: NN	feats: _
+word: 考核	lemma: 考核	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不断	lemma: 不断	upos: ADV	xpos: RB	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 率	lemma: 率	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第三十七条  矿山企业在采矿过程中，对矿产储量的圈定、计算和开采必须以批准的矿产储量工业指标为依据，不得随意变动，如确需变动，应当提交论证材料，并经有关主管部门批准。
+
+word: 第三十七	lemma: 第三十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 山	lemma: 山	upos: PART	xpos: SFN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 圈定	lemma: 圈定	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 计算	lemma: 计算	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 储量	lemma: 储量	upos: NOUN	xpos: NN	feats: _
+word: 工业	lemma: 工业	upos: NOUN	xpos: NN	feats: _
+word: 指标	lemma: 指标	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 依据	lemma: 依据	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 随意	lemma: 随意	upos: ADV	xpos: RB	feats: _
+word: 变动	lemma: 变动	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 如	lemma: 如	upos: VERB	xpos: VV	feats: _
+word: 确需	lemma: 确需	upos: NOUN	xpos: NN	feats: _
+word: 变动	lemma: 变动	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 提	lemma: 提	upos: VERB	xpos: VV	feats: _
+word: 交论	lemma: 交论	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三十八条  自治区按照国家有关规定，向重点矿山企业派出矿产督察员，向矿山企业集中的地区派出巡回矿产督察员，对矿产资源开发利用依法进行监督检查。
+
+word: 第三十八	lemma: 第三十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 重点	lemma: 重点	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 派出	lemma: 派出	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 督察	lemma: 督察	upos: NOUN	xpos: NN	feats: _
+word: 员	lemma: 员	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 集中	lemma: 集中	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 派出	lemma: 派出	upos: VERB	xpos: VV	feats: _
+word: 巡回	lemma: 巡回	upos: ADJ	xpos: JJ	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 督察	lemma: 督察	upos: NOUN	xpos: NN	feats: _
+word: 员	lemma: 员	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三十九条  关闭、停办矿山企业，应当按照有关规定申请批准。未经批准，不得转让、拆除井上井下设备及其他设施。
+
+word: 第三十九	lemma: 第三十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 关闭	lemma: 关闭	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 停办	lemma: 停办	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 未经	lemma: 未经	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 拆除	lemma: 拆除	upos: VERB	xpos: VV	feats: _
+word: 井上	lemma: 井上	upos: NOUN	xpos: NN	feats: _
+word: 井下	lemma: 井下	upos: NOUN	xpos: NN	feats: _
+word: 设备	lemma: 设备	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第四十条  任何单位或者个人不得收购和销售无采矿许可证的单位或者个人开采的矿产品。
+
+word: 第四十	lemma: 第四十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 收购	lemma: 收购	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 销售	lemma: 销售	upos: VERB	xpos: VV	feats: _
+word: 无采	lemma: 无采	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    收购、销售国家规定实行保护性开采的特定矿种的矿产品，按国家、自治区有关法律、法规规定执行。
+
+word: 收购	lemma: 收购	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 销售	lemma: 销售	upos: NOUN	xpos: NN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 特定	lemma: 特定	upos: ADJ	xpos: JJ	feats: _
+word: 矿种	lemma: 矿种	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第四十一条  探矿权人、采矿权人应当按照国家和自治区有关规定，填报矿产资源统计报表，提供有关资料，不得虚报、瞒报、拒报。
+
+word: 第四十一	lemma: 第四十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 探	lemma: 探	upos: VERB	xpos: VV	feats: _
+word: 矿权	lemma: 矿权	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 填报	lemma: 填报	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 统计	lemma: 统计	upos: NOUN	xpos: NN	feats: _
+word: 报表	lemma: 报表	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 虚报	lemma: 虚报	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 瞒报	lemma: 瞒报	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 拒报	lemma: 拒报	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第五章  罚  则
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 罚	lemma: 罚	upos: VERB	xpos: VV	feats: _
+word: 则	lemma: 则	upos: ADV	xpos: RB	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    第四十二条  未取得采矿许可证擅自采矿的，责令停止开采，赔偿损失，没收采出的矿产品和违法所得，可以并处采出的矿产品价值５０％以下罚款；拒不停止开采，造成矿产资源破坏的，对直接责任人员依法追究刑事责任。
+
+word: 第四十二	lemma: 第四十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: NOUN	xpos: NN	feats: _
+word: 证擅	lemma: 证擅	upos: VERB	xpos: VV	feats: _
+word: 自	lemma: 自	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 赔偿	lemma: 赔偿	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 没收	lemma: 没收	upos: VERB	xpos: VV	feats: _
+word: 采出	lemma: 采出	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 所得	lemma: 所得	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 并处	lemma: 并处	upos: VERB	xpos: VV	feats: _
+word: 采出	lemma: 采出	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 价值	lemma: 价值	upos: NOUN	xpos: NN	feats: _
+word: ５０	lemma: ５０	upos: VERB	xpos: VV	feats: _
+word: ％	lemma: ％	upos: PART	xpos: SFN	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 拒不	lemma: 拒不	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 直接	lemma: 直接	upos: ADJ	xpos: JJ	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十二	type: ORDINAL
+entity: ５０	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    超越批准的矿区范围采矿的，以及进入他人依法设立的矿山企业矿区范围内采矿的，适用前款规定处罚。
+
+word: 超越	lemma: 超越	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 进入	lemma: 进入	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 设立	lemma: 设立	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第四十三条  有下列行为之一的，依照治安管理处罚条例有关规定予以处罚；构成犯罪的，依法追究刑事责任：
+
+word: 第四十三	lemma: 第四十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第四十三	type: ORDINAL
+entity: 治安管理处罚条例	type: LAW
+
+Sentence sentiment= 0
+
+
+    （一）盗窃、抢夺矿山企业和勘查单位矿产品或者其他财物的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 盗窃	lemma: 盗窃	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 抢夺	lemma: 抢夺	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 矿	lemma: 矿	upos: PART	xpos: SFN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 财物	lemma: 财物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    (二)破坏采矿、勘查设施的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）扰乱他人已取得探矿权的勘查作业区或者已取得采矿权的矿区生产、工作秩序的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 扰乱	lemma: 扰乱	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 作业	lemma: 作业	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 矿区	lemma: 矿区	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 秩序	lemma: 秩序	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第四十四条  采取采富弃贫、采厚弃薄或者其他破坏性开采方法开采矿产资源，造成资源损失浪费的，处以相当于资源损失价值５０％以下罚款，可以吊销采矿许可证。
+
+word: 第四十四	lemma: 第四十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 采	lemma: 采	upos: VERB	xpos: VV	feats: _
+word: 取采	lemma: 取采	upos: VERB	xpos: VV	feats: _
+word: 富弃	lemma: 富弃	upos: NOUN	xpos: NN	feats: _
+word: 贫	lemma: 贫	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采厚	lemma: 采厚	upos: ADV	xpos: RB	feats: _
+word: 弃	lemma: 弃	upos: VERB	xpos: VV	feats: _
+word: 薄	lemma: 薄	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 浪费	lemma: 浪费	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 相当	lemma: 相当	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 价值	lemma: 价值	upos: NOUN	xpos: NN	feats: _
+word: ５０	lemma: ５０	upos: VERB	xpos: VV	feats: _
+word: ％	lemma: ％	upos: PART	xpos: SFN	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 吊销	lemma: 吊销	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十四	type: ORDINAL
+entity: ５０	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+        采取破坏性开采方法开采矿产资源，造成矿山地质环境破坏的，责令限期治理恢复。逾期未治理恢复的，处１０万元以下罚款，可以吊销采矿许可证；造成生态环境破坏的，依照资源、环境保护有关法律、法规处罚。
+
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 开采	lemma: 开采	upos: NOUN	xpos: NN	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: １０万	lemma: １０万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 吊销	lemma: 吊销	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 生态	lemma: 生态	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: １０万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+第四十五条  有下列行为之一的，没收违法所得，并处违法所得５０％以下罚款；无违法所得的，处５万元以下罚款。巳取得探矿权、采矿权的，吊销勘查许可证、采矿许可证：
+
+word: 第四十五	lemma: 第四十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 没收	lemma: 没收	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 所得	lemma: 所得	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: ５０	lemma: ５０	upos: NOUN	xpos: NN	feats: _
+word: ％	lemma: ％	upos: PART	xpos: SFN	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 无	lemma: 无	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: ５万	lemma: ５万	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 巳	lemma: 巳	upos: PROPN	xpos: NNP	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 吊销	lemma: 吊销	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: VERB	xpos: VV	feats: _
+word: 许	lemma: 许	upos: PART	xpos: SFN	feats: _
+word: 可证	lemma: 可证	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第四十五	type: ORDINAL
+entity: ５０	type: CARDINAL
+entity: ５万元	type: MONEY
+
+Sentence sentiment= 2
+
+
+    （一）买卖、出租或者以其他形式转让矿户资源的
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 买卖	lemma: 买卖	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出租	lemma: 出租	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 矿户	lemma: 矿户	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)将探矿权、采矿权倒卖牟利的。
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 探矿	lemma: 探矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 倒卖	lemma: 倒卖	upos: VERB	xpos: VV	feats: _
+word: 牟利	lemma: 牟利	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第四十六条  擅自购销由国家统一购销的矿产品的，没收矿产品和违法所得，可并处违法所得一倍以下罚款，构成犯罪的，依法追究刑事责任。
+
+word: 第四十六	lemma: 第四十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 购销	lemma: 购销	upos: VERB	xpos: VV	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 购销	lemma: 购销	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 没收	lemma: 没收	upos: VERB	xpos: VV	feats: _
+word: 矿	lemma: 矿	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 所得	lemma: 所得	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 倍	lemma: 倍	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十六	type: ORDINAL
+entity: 一倍	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第四十七条  本务例第四十三条规定的行政处罚、由公安机关决定；第四十六条规定的行政处罚，由县级以上人民政府工商行政管理部门决定；其他行政处罚，由县级以上人民政府地质矿产主管部门按照规定的权限决定。
+
+word: 第四十七	lemma: 第四十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本务例	lemma: 本务例	upos: NOUN	xpos: NN	feats: _
+word: 第四十三	lemma: 第四十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 第四十六	lemma: 第四十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权限	lemma: 权限	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十七	type: ORDINAL
+entity: 第四十三	type: ORDINAL
+entity: 第四十六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    违反本条例应当给予行政处罚的其他行为，依照《矿产资源法》和有关法律、法规的规定执行。
+
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 矿产资源法	type: LAW
+
+Sentence sentiment= 0
+
+
+第四十八条  地质矿产主管部门和其他有关管理部门工作人员，违反本条例规定，有下列行为之一的，给予行政处分；造成损失的，依法承担赔偿责任；构成犯罪的，依法追究刑事责任：
+
+word: 第四十八	lemma: 第四十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 例	lemma: 例	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第四十八	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    （一）擅自批准或者超越管理权限批准勘查、开采矿产资源和颁发勘查许可证、采矿许可证的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 超越	lemma: 超越	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 权限	lemma: 权限	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开采	lemma: 开采	upos: VERB	xpos: VV	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)对违法勘查、采矿行为不依法予以制止、处罚的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 制止	lemma: 制止	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    （三）徇私舞弊、滥用职权、玩忽职守的其他行为。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 徇	lemma: 徇	upos: VERB	xpos: VV	feats: _
+word: 私	lemma: 私	upos: PART	xpos: PFA	feats: _
+word: 舞弊	lemma: 舞弊	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 滥用	lemma: 滥用	upos: NOUN	xpos: NN	feats: _
+word: 职权	lemma: 职权	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 玩忽	lemma: 玩忽	upos: NOUN	xpos: NN	feats: _
+word: 职守	lemma: 职守	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    违反本条例规定颁发的勘查许可证、采矿许可证，上级人民政府地质矿产主管部门有权予以撤销。
+
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 勘查	lemma: 勘查	upos: NOUN	xpos: NN	feats: _
+word: 许可证	lemma: 许可证	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 许可	lemma: 许可	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 上级	lemma: 上级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 权予	lemma: 权予	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 撤销	lemma: 撤销	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第四十九条  当事人对行政处罚决定不服的，可以在收到处罚决定通知之日起十五日内，向作出处罚决定的机关的上一级机关申请复议；当事人也可以自接到处罚决定通知之日起十五日内直接向人民法院起诉。
+
+word: 第四十九	lemma: 第四十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 收到	lemma: 收到	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 上	lemma: 上	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 自接	lemma: 自接	upos: VERB	xpos: VV	feats: _
+word: 到	lemma: 到	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十九	type: ORDINAL
+entity: 十五日	type: DATE
+entity: 十五日	type: DATE
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+    当事人逾期不申请复议也不向人民法院起诉，又不履行行政处罚决定的，由作出处罚决定的机关申请人民法院强制执行。
+
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 不向	lemma: 不向	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 又	lemma: 又	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第六章  附  则
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 附	lemma: 附	upos: VERB	xpos: VV	feats: _
+word: 则	lemma: 则	upos: ADV	xpos: RB	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    第五十条  本条例具体应用中的问题由自治区地质矿产主管部门负责解释。
+
+word: 第五十	lemma: 第五十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 例具	lemma: 例具	upos: VERB	xpos: VV	feats: _
+word: 体	lemma: 体	upos: PART	xpos: SFN	feats: _
+word: 应用	lemma: 应用	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 问题	lemma: 问题	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 地质	lemma: 地质	upos: NOUN	xpos: NN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 解释	lemma: 解释	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五十	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第五十一条  本条例自公布之日起施行。
+
+word: 第五十一	lemma: 第五十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 例	lemma: 例	upos: VERB	xpos: VV	feats: _
+word: 自	lemma: 自	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五十一	type: ORDINAL
+
+Sentence sentiment= 2
+
+

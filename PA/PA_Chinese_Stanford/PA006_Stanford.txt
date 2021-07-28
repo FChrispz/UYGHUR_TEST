@@ -1,0 +1,2977 @@
+PA006-XUAR Land Contract in Rural Areas of the PRC-C
+新疆维吾尔自治区第十届人民代表大会常务委员会公告（第24号） 
+
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 公告	lemma: 公告	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 第24	lemma: 第24	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 号	lemma: 号	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+entity: 新疆维吾尔自治区第十届人民代表大会	type: EVENT
+entity: 第24	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+　　《新疆维吾尔自治区实施〈中华人民共和国农村土地承包法〉办法》，于2005年7月29日经新疆维吾尔自治区第十届人民代表大会常务委员会第十八次会议审议通过。现予公布。
+
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 于	lemma: 于	upos: ADP	xpos: IN	feats: _
+word: 2005	lemma: 2005	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 7	lemma: 7	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 29	lemma: 29	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 审议	lemma: 审议	upos: VERB	xpos: VV	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 现予	lemma: 现予	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 新疆维吾尔自治区实施〈中华人民共和国农村土地承包法	type: LAW
+entity: 2005年7月29日	type: DATE
+entity: 新疆维吾尔自治区第十届人民代表大会常务委员会第十八次会议	type: EVENT
+
+Sentence sentiment= 2
+
+
+　                                                                             　特此公告
+
+word: 特此	lemma: 特此	upos: ADV	xpos: RB	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+                                                                                2005年7月29日
+
+word: 2005	lemma: 2005	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 7	lemma: 7	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 29	lemma: 29	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+
+
+entity: 7月29日	type: DATE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　　第一条　根据《中华人民共和国农村土地承包法》（以下简称《农村土地承包法》），结合自治区实际，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 简称	lemma: 简称	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和国农村土地承包法	type: LAW
+entity: 农村土地承包法	type: LAW
+
+Sentence sentiment= 1
+
+
+第二条　本办法所称农村土地，是指农牧民集体所有和国家所有依法由农牧民集体使用的耕地、林地、草地以及其他依法用于农业的土地。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 指	lemma: 指	upos: VERB	xpos: VV	feats: _
+word: 农牧民	lemma: 农牧民	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 农牧	lemma: 农牧	upos: NOUN	xpos: NN	feats: _
+word: 民集	lemma: 民集	upos: NOUN	xpos: NN	feats: _
+word: 体	lemma: 体	upos: PART	xpos: SFN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 林地	lemma: 林地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 草地	lemma: 草地	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 依法	lemma: 依法	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三条　在自治区行政区域内从事农村土地承包活动的单位和个人，必须遵守本办法。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第四条　县级以上人民政府农业行政主管部门负责本行政区域内农村土地承包及承包合同的管理，具体工作由农村合作经济管理机构负责。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: 级	lemma: 级	upos: PART	xpos: SFN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具体	lemma: 具体	upos: ADJ	xpos: JJ	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 合作	lemma: 合作	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+　　林业、畜牧行政主管部门分别依照各自职责，负责林地、草地的承包及承包合同的管理。乡（镇）人民政府负责本行政区域内农村土地承包及承包合同管理。
+
+word: 林业	lemma: 林业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 畜牧	lemma: 畜牧	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 分别	lemma: 分别	upos: ADV	xpos: RB	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 各自	lemma: 各自	upos: PRON	xpos: PRD	feats: _
+word: 职责	lemma: 职责	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 林地	lemma: 林地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 草地	lemma: 草地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 镇	lemma: 镇	upos: PROPN	xpos: NNP	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+第五条　农村土地承包合同管理工作经费由同级人民政府财政给予保障，不得向农民收取。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 经费	lemma: 经费	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 财政	lemma: 财政	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 保障	lemma: 保障	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 收取	lemma: 收取	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第六条　农村土地承包采取农村集体经济组织内部的家庭承包方式。不宜采取家庭承包方式的荒山、荒沟、荒丘、荒滩、养殖水面等农村土地，可以采取招标、拍卖、公开协商等其他方式承包。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 不宜	lemma: 不宜	upos: ADV	xpos: RB	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 荒山	lemma: 荒山	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒沟	lemma: 荒沟	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒丘	lemma: 荒丘	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒滩	lemma: 荒滩	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 养殖	lemma: 养殖	upos: NOUN	xpos: NN	feats: _
+word: 水面	lemma: 水面	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 招标	lemma: 招标	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 拍卖	lemma: 拍卖	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公开	lemma: 公开	upos: ADJ	xpos: JJ	feats: _
+word: 协商	lemma: 协商	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第七条　农村集体经济组织成员有权依法承包本集体经济组织发包的农村土地。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+　　本集体经济组织成员为户籍关系在本村的常住人员。
+
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 户籍	lemma: 户籍	upos: NOUN	xpos: NN	feats: _
+word: 关系	lemma: 关系	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 常住	lemma: 常住	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第八条　农村土地承包方案应当向全体村民公示，公示时间不得少于15日。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 全体	lemma: 全体	upos: DET	xpos: DT	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 公示	lemma: 公示	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公示	lemma: 公示	upos: NOUN	xpos: NN	feats: _
+word: 时间	lemma: 时间	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 得少	lemma: 得少	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 15	lemma: 15	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+entity: 15日	type: DATE
+
+Sentence sentiment= 0
+
+
+　　承包方案包括下列内容：承包土地的名称、坐落、面积、用途、承包方式、承包主体范围、承包期限、起止日期、双方权利义务、违约责任、支付方式以及其他应当注明的事项。
+
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 包括	lemma: 包括	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 坐落	lemma: 坐落	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 面积	lemma: 面积	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 用途	lemma: 用途	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 主体	lemma: 主体	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 起止	lemma: 起止	upos: NOUN	xpos: NN	feats: _
+word: 日期	lemma: 日期	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 义务	lemma: 义务	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 违约	lemma: 违约	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 支付	lemma: 支付	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 注明	lemma: 注明	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第九条　任何单位或个人不得擅自占用基本农田或者改变其用途。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 占用	lemma: 占用	upos: VERB	xpos: VV	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 农田	lemma: 农田	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 改变	lemma: 改变	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 用途	lemma: 用途	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+　　基本农田应落实到地块和农户，并在农村土地承包经营权证书中予以注明。符合法定条件，确需占用基本农田或改变其用途的，必须按规定报国务院批准。
+
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 农田	lemma: 农田	upos: NOUN	xpos: NN	feats: _
+word: 应落	lemma: 应落	upos: VERB	xpos: VV	feats: _
+word: 实到	lemma: 实到	upos: VERB	xpos: VV	feats: _
+word: 地块	lemma: 地块	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 农户	lemma: 农户	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 证书	lemma: 证书	upos: NOUN	xpos: NN	feats: _
+word: 中予	lemma: 中予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 注明	lemma: 注明	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 确需	lemma: 确需	upos: VERB	xpos: VV	feats: _
+word: 占用	lemma: 占用	upos: VERB	xpos: VV	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 农田	lemma: 农田	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 改变	lemma: 改变	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 用途	lemma: 用途	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 报	lemma: 报	upos: PART	xpos: SFN	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十条　国家因公共利益需要，征收或者征用已承包的土地的，应当依法予以补偿，保证足额和及时支付土地补偿费、安置补助费以及地上附着物和青苗补偿费，任何单位或个人不得截留或者拖欠，保证被征地农民生活水平不因征地而降低。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国	lemma: 国	upos: NOUN	xpos: NN	feats: _
+word: 家	lemma: 家	upos: PART	xpos: SFN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 征收	lemma: 征收	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 征用	lemma: 征用	upos: VERB	xpos: VV	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 依	lemma: 依	upos: ADP	xpos: IN	feats: _
+word: 法予	lemma: 法予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 补偿	lemma: 补偿	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保证	lemma: 保证	upos: VERB	xpos: VV	feats: _
+word: 足额	lemma: 足额	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 及时	lemma: 及时	upos: ADV	xpos: RB	feats: _
+word: 支付	lemma: 支付	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 补	lemma: 补	upos: VERB	xpos: VV	feats: _
+word: 偿	lemma: 偿	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 安置	lemma: 安置	upos: VERB	xpos: VV	feats: _
+word: 补助	lemma: 补助	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 地上	lemma: 地上	upos: NOUN	xpos: NN	feats: _
+word: 附着	lemma: 附着	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 青苗	lemma: 青苗	upos: NOUN	xpos: NN	feats: _
+word: 补偿	lemma: 补偿	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 截留	lemma: 截留	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 拖欠	lemma: 拖欠	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保证	lemma: 保证	upos: VERB	xpos: VV	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 水平	lemma: 水平	upos: NOUN	xpos: NN	feats: _
+word: 不因	lemma: 不因	upos: VERB	xpos: VV	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 降低	lemma: 降低	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　县级以上人民政府征地主管部门，在征地依法报批前，应当将拟征地的用途、位置、补偿标准、安置途径告知被征地的发包方和承包方。对拟征土地现状的调查结果须经被征地发包方和承包方确认。发包方或者承包方有权要求征地主管部门对征地补偿、安置方案等事项组织听证，征地主管部门应当组织听证，并将被征地一方的知情、确认材料和对补偿、安置方案的意见材料作为征地报批的必备材料。
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 报批	lemma: 报批	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 拟征	lemma: 拟征	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 用途	lemma: 用途	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 位置	lemma: 位置	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 安置	lemma: 安置	upos: NOUN	xpos: NN	feats: _
+word: 途径	lemma: 途径	upos: NOUN	xpos: NN	feats: _
+word: 告知	lemma: 告知	upos: VERB	xpos: VV	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 征地	lemma: 征地	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对拟	lemma: 对拟	upos: VERB	xpos: VV	feats: _
+word: 征土	lemma: 征土	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 现状	lemma: 现状	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: 结果	lemma: 结果	upos: NOUN	xpos: NN	feats: _
+word: 须经	lemma: 须经	upos: ADV	xpos: RB	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 确认	lemma: 确认	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 要	lemma: 要	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 求征地	lemma: 求征地	upos: VERB	xpos: VV	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 安置	lemma: 安置	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 听证	lemma: 听证	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 听证	lemma: 听证	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 将	lemma: 将	upos: ADV	xpos: RB	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 知情	lemma: 知情	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 确认	lemma: 确认	upos: VERB	xpos: VV	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 安置	lemma: 安置	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 报批	lemma: 报批	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 必备	lemma: 必备	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+　　经批准的征地事项，除特殊情况外，应当在被征地当地予以公示，公示时间不得少于15日。
+
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 除	lemma: 除	upos: ADP	xpos: IN	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 外	lemma: 外	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 公示	lemma: 公示	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公示	lemma: 公示	upos: NOUN	xpos: NN	feats: _
+word: 时间	lemma: 时间	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 得少	lemma: 得少	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 15	lemma: 15	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 15日	type: DATE
+
+Sentence sentiment= 0
+
+
+    经批准占用基本农田的，征地补偿按法定最高标准执行。
+
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 占用	lemma: 占用	upos: VERB	xpos: VV	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 农田	lemma: 农田	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 征地	lemma: 征地	upos: NOUN	xpos: NN	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 最高	lemma: 最高	upos: ADJ	xpos: JJ	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十一条　本村因建设公共设施、公益事业或者兴办企业、建设村民住宅，确需使用本集体经济组织所有的已承包的土地的，应当经本村集体经济组织成员的村民会议三分之二以上成员或者三分之二以上村民代表同意，并依法办理农用地转用审批手续。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公益	lemma: 公益	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 兴办	lemma: 兴办	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 住宅	lemma: 住宅	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 确需	lemma: 确需	upos: VERB	xpos: VV	feats: _
+word: 使	lemma: 使	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 用本	lemma: 用本	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当经	lemma: 当经	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 分	lemma: 分	upos: NOUN	xpos: NNB	feats: _
+word: 之二	lemma: 之二	upos: PART	xpos: SFN	feats: _
+word: 以上	lemma: 以上	upos: DET	xpos: DT	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 分	lemma: 分	upos: NOUN	xpos: NNB	feats: _
+word: 之二	lemma: 之二	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 农用	lemma: 农用	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 转用	lemma: 转用	upos: VERB	xpos: VV	feats: _
+word: 审批	lemma: 审批	upos: NOUN	xpos: NN	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+entity: 三分之二以上	type: CARDINAL
+entity: 三分之二以上	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　已办理农用地转用审批手续的，集体经济组织应当对原承包方予以经济补偿，也可以根据本办法第十九条的规定为原承包方调整土地。
+
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 农用	lemma: 农用	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 转用	lemma: 转用	upos: VERB	xpos: VV	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 原承	lemma: 原承	upos: NOUN	xpos: NN	feats: _
+word: 包	lemma: 包	upos: PART	xpos: SFN	feats: _
+word: 方予	lemma: 方予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 原承	lemma: 原承	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　禁止农村集体经济组织非法出让、出租集体土地用于非农建设。
+
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 非法	lemma: 非法	upos: ADV	xpos: RB	feats: _
+word: 出让	lemma: 出让	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出租	lemma: 出租	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 非农	lemma: 非农	upos: ADJ	xpos: JJ	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十二条　发包方应当与承包方签订书面承包合同，承包合同自成立之日起生效，任何一方不得随意变更或解除。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包	lemma: 包	upos: PROPN	xpos: NNP	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 成立	lemma: 成立	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 生效	lemma: 生效	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 随意	lemma: 随意	upos: ADV	xpos: RB	feats: _
+word: 变更	lemma: 变更	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　签订承包合同必须由双方当事人签字，并加盖发包方公章。承包合同一式三份，发包方、承包方各执一份，乡（镇）农村合作经济管理机构存档一份。
+
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 签字	lemma: 签字	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 加盖	lemma: 加盖	upos: VERB	xpos: VV	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 公章	lemma: 公章	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 式	lemma: 式	upos: NOUN	xpos: NN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 份	lemma: 份	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 各执	lemma: 各执	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 份	lemma: 份	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 合作	lemma: 合作	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 存档	lemma: 存档	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 份	lemma: 份	upos: NOUN	xpos: NNB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 一	type: CARDINAL
+entity: 三	type: CARDINAL
+entity: 一份	type: CARDINAL
+entity: 一份	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　承包期内，承包方家庭成员分户并要求分别签订承包合同的，发包方应当予以办理。
+
+word: 承包期	lemma: 承包期	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 分户	lemma: 分户	upos: PROPN	xpos: NNP	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 分别	lemma: 分别	upos: ADV	xpos: RB	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: NOUN	xpos: NN	feats: _
+word: 方应	lemma: 方应	upos: NOUN	xpos: NN	feats: _
+word: 当予	lemma: 当予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十三条　有下列情形之一的，承包合同无效：
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 无效	lemma: 无效	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+　　（一）一方采取欺诈、胁迫的手段订立合同，损害对方利益的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 欺诈	lemma: 欺诈	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 胁迫	lemma: 胁迫	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 手段	lemma: 手段	upos: NOUN	xpos: NN	feats: _
+word: 订立	lemma: 订立	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 损害	lemma: 损害	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+　　（二）恶意串通，损害国家、集体或者第三方利益的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 恶意	lemma: 恶意	upos: NOUN	xpos: NN	feats: _
+word: 串通	lemma: 串通	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 损害	lemma: 损害	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+　　（三）损害社会公共利益的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 损害	lemma: 损害	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　（四）违反土地承包原则和程序订立的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 程序	lemma: 程序	upos: NOUN	xpos: NN	feats: _
+word: 订立	lemma: 订立	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十四条　有下列情形之一的，当事人可以依法解除承包合同：
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　（一）因不可抗力，致使承包合同无法履行的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 抗力	lemma: 抗力	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 致	lemma: 致	upos: ADV	xpos: RB	feats: _
+word: 使	lemma: 使	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 无法	lemma: 无法	upos: VERB	xpos: VV	feats: _
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+　　（二）承包方违约，致使承包合同无法履行的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 违约	lemma: 违约	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 致使	lemma: 致使	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 无法	lemma: 无法	upos: VERB	xpos: VV	feats: _
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+　　（三）承包方在承包土地上建房、建窑、建坟、采矿等改变土地农业用途的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: 建房	lemma: 建房	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 建窑	lemma: 建窑	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 建坟	lemma: 建坟	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 改变	lemma: 改变	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 用途	lemma: 用途	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　（四）承包土地全部被国家征用或者征收的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 全部	lemma: 全部	upos: ADV	xpos: RB	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 征用	lemma: 征用	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 征收	lemma: 征收	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　（五）发包方依法收回承包土地的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包	lemma: 包	upos: PROPN	xpos: NNP	feats: _
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 收回	lemma: 收回	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+　　（六）承包方自愿将承包土地交回发包方的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 自愿	lemma: 自愿	upos: ADV	xpos: RB	feats: _
+word: 将	lemma: 将	upos: ADV	xpos: RB	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 交回	lemma: 交回	upos: VERB	xpos: VV	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十五条　农村土地承包合同生效后，承包方即取得土地承包经营权。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 生效	lemma: 生效	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 即	lemma: 即	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　农村土地承包经营权证由乡（镇）人民政府向县级人民政府统一领取，并于领取之日起30日内发给承包方。
+
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 乡	lemma: 乡	upos: PROPN	xpos: NNP	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 镇	lemma: 镇	upos: PROPN	xpos: NNP	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 于	lemma: 于	upos: ADP	xpos: IN	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 30	lemma: 30	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 发给	lemma: 发给	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+entity: 30日	type: DATE
+
+Sentence sentiment= 1
+
+
+　　农村土地承包经营权证由自治区农业行政主管部门统一印制，其工本费标准由自治区价格、财政部门核定。
+
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 印制	lemma: 印制	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其工	lemma: 其工	upos: NOUN	xpos: NN	feats: _
+word: 本费	lemma: 本费	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 价格	lemma: 价格	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 财政	lemma: 财政	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 核定	lemma: 核定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十六条　承包期内，因土地承包内容发生变化需要变更农村土地承包经营权证的，承包方应当征得发包方同意，并向有关行政主管部门申请变更，因耕地、林地、草地相互变换用途的，承包方还应当到原发证机关办理注销手续。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包期	lemma: 包期	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 变化	lemma: 变化	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方应	lemma: 方应	upos: NOUN	xpos: NN	feats: _
+word: 当征	lemma: 当征	upos: VERB	xpos: VV	feats: _
+word: 得发	lemma: 得发	upos: VERB	xpos: VV	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 变更	lemma: 变更	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 林地	lemma: 林地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 草地	lemma: 草地	upos: NOUN	xpos: NN	feats: _
+word: 相互	lemma: 相互	upos: ADV	xpos: RB	feats: _
+word: 变换	lemma: 变换	upos: VERB	xpos: VV	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 途	lemma: 途	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当到	lemma: 当到	upos: VERB	xpos: VV	feats: _
+word: 原发	lemma: 原发	upos: NOUN	xpos: NN	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 注销	lemma: 注销	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　对同一块承包土地，有关行政主管部门不得重复发证。
+
+word: 对同	lemma: 对同	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 块	lemma: 块	upos: NOUN	xpos: NNB	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 重复	lemma: 重复	upos: VERB	xpos: VV	feats: _
+word: 发证	lemma: 发证	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十七条　农村土地承包经营权证损毁、遗失的，县级人民政府应当根据承包方的申请，及时换发或者补发。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 损毁	lemma: 损毁	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 遗失	lemma: 遗失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 时换发	lemma: 时换发	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 补发	lemma: 补发	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十八条　承包期内，发包方不得调整承包土地。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: PART	xpos: PFA	feats: _
+word: 包	lemma: 包	upos: VERB	xpos: VV	feats: _
+word: 期	lemma: 期	upos: PART	xpos: SFN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包方	lemma: 发包方	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+　　承包期内，对因土地征用而失去耕地，放弃补偿费用，要求继续承包耕地的农户，或者因自然灾害严重毁损承包地等特殊情况失去耕地的农户，发包方可以根据公平合理的原则，依照法定程序在本办法第十九条规定的土地范围内调整承包土地。
+
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 期内	lemma: 期内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 征用	lemma: 征用	upos: VERB	xpos: VV	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 失去	lemma: 失去	upos: VERB	xpos: VV	feats: _
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 放弃	lemma: 放弃	upos: VERB	xpos: VV	feats: _
+word: 补偿	lemma: 补偿	upos: NOUN	xpos: NN	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 农户	lemma: 农户	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 自然	lemma: 自然	upos: NOUN	xpos: NN	feats: _
+word: 灾害	lemma: 灾害	upos: NOUN	xpos: NN	feats: _
+word: 严重	lemma: 严重	upos: ADV	xpos: RB	feats: _
+word: 毁	lemma: 毁	upos: VERB	xpos: VV	feats: _
+word: 损承	lemma: 损承	upos: NOUN	xpos: NN	feats: _
+word: 包地	lemma: 包地	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 失去	lemma: 失去	upos: VERB	xpos: VV	feats: _
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 农户	lemma: 农户	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 公平	lemma: 公平	upos: ADJ	xpos: JJ	feats: _
+word: 合理	lemma: 合理	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 程序	lemma: 程序	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十九条　下列土地应当用于调整承包土地或者承包给新增的人口：
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 下列土	lemma: 下列土	upos: PROPN	xpos: NNP	feats: _
+word: 地应	lemma: 地应	upos: NOUN	xpos: NN	feats: _
+word: 当用	lemma: 当用	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 新增	lemma: 新增	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人口	lemma: 人口	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+　　（一）集体经济组织依法预留的机动地；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 预留	lemma: 预留	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机动	lemma: 机动	upos: ADJ	xpos: JJ	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+　　（二）通过依法开垦等方式增加的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 通过	lemma: 通过	upos: ADP	xpos: IN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 增加	lemma: 增加	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+　　（三）承包方依法、自愿交回的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自愿	lemma: 自愿	upos: ADV	xpos: RB	feats: _
+word: 交回	lemma: 交回	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+　　（四）依法收回的其他土地。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 收回	lemma: 收回	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+　　前款所列土地在调整之前，应当采取招标、公开协商等方式承包，承包期不得超过3年，承包费归本集体经济组织所有。
+
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 列土	lemma: 列土	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 之前	lemma: 之前	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 招标	lemma: 招标	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公开	lemma: 公开	upos: ADJ	xpos: JJ	feats: _
+word: 协商	lemma: 协商	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 期	lemma: 期	upos: PART	xpos: SFN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 3	lemma: 3	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 归本	lemma: 归本	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 3年	type: DATE
+
+Sentence sentiment= 0
+
+
+第二十条　承包期内，承包方家庭成员升学、服兵役、外出经商务工、服刑的，其承包的土地予以保留。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包	lemma: 包	upos: PROPN	xpos: NNP	feats: _
+word: 期	lemma: 期	upos: PART	xpos: SFN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 升学	lemma: 升学	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 服	lemma: 服	upos: VERB	xpos: VV	feats: _
+word: 兵役	lemma: 兵役	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 外出	lemma: 外出	upos: VERB	xpos: VV	feats: _
+word: 经商	lemma: 经商	upos: NOUN	xpos: NN	feats: _
+word: 务工	lemma: 务工	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 服刑	lemma: 服刑	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 保留	lemma: 保留	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+　　承包期内，妇女结婚，在新居住地未取得承包土地的，发包方不得收回其原承包土地；妇女离婚或者丧偶，仍在原居住地生活或者不在原居住地生活但在新居住地未取得承包土地的，发包方不得收回其原承包土地。
+
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 期内	lemma: 期内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 结婚	lemma: 结婚	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 新	lemma: 新	upos: PART	xpos: PFA	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 收回	lemma: 收回	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 原承	lemma: 原承	upos: NOUN	xpos: NN	feats: _
+word: 包土地	lemma: 包土地	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 离婚	lemma: 离婚	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 丧偶	lemma: 丧偶	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 仍	lemma: 仍	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 原居住	lemma: 原居住	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 生活	lemma: 生活	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 原居	lemma: 原居	upos: NOUN	xpos: NN	feats: _
+word: 住地	lemma: 住地	upos: NOUN	xpos: NN	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 新	lemma: 新	upos: PART	xpos: PFA	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 收回	lemma: 收回	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 原承包	lemma: 原承包	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十一条　承包方无正当理由，弃耕承包土地的，发包方可以组织代耕，代耕期间由代耕方享受权利，并履行相应义务。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包方无	lemma: 包方无	upos: VERB	xpos: VV	feats: _
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 弃	lemma: 弃	upos: VERB	xpos: VV	feats: _
+word: 耕承	lemma: 耕承	upos: PROPN	xpos: NNP	feats: _
+word: 包土	lemma: 包土	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包方	lemma: 发包方	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 代耕	lemma: 代耕	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 代耕	lemma: 代耕	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: 由代	lemma: 由代	upos: PROPN	xpos: NNP	feats: _
+word: 耕方	lemma: 耕方	upos: PROPN	xpos: NNP	feats: _
+word: 享受	lemma: 享受	upos: VERB	xpos: VV	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 相应	lemma: 相应	upos: ADJ	xpos: JJ	feats: _
+word: 义务	lemma: 义务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　代耕期间，承包方要求继续承包土地的，应当提前半年通知发包方，发包方可根据作物生长周期适时终止代耕，将承包地交由承包方经营。
+
+word: 代耕	lemma: 代耕	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 提前	lemma: 提前	upos: VERB	xpos: VV	feats: _
+word: 半	lemma: 半	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 通	lemma: 通	upos: PART	xpos: SFN	feats: _
+word: 知发	lemma: 知发	upos: VERB	xpos: VV	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 作物	lemma: 作物	upos: NOUN	xpos: NN	feats: _
+word: 生长	lemma: 生长	upos: NOUN	xpos: NN	feats: _
+word: 周期	lemma: 周期	upos: NOUN	xpos: NN	feats: _
+word: 适时	lemma: 适时	upos: ADV	xpos: RB	feats: _
+word: 终止	lemma: 终止	upos: VERB	xpos: VV	feats: _
+word: 代耕	lemma: 代耕	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 地交	lemma: 地交	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 半年	type: DATE
+
+Sentence sentiment= 2
+
+
+第二十二条　发包方依照《农村土地承包法》第四十八条规定将不宜采取家庭承包方式的农村土地发包给本集体经济组织以外的单位或者个人承包的，发包方应当对承包方的资信情况和经营能力进行审查，经审查符合条件和具备经营能力的，方可签订土地承包合同。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 发	lemma: 发	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 第四十八	lemma: 第四十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 将	lemma: 将	upos: ADV	xpos: RB	feats: _
+word: 不宜	lemma: 不宜	upos: ADV	xpos: RB	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 给本	lemma: 给本	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 以外	lemma: 以外	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方应	lemma: 方应	upos: VERB	xpos: VV	feats: _
+word: 当对	lemma: 当对	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 资信	lemma: 资信	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 能力	lemma: 能力	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 审查	lemma: 审查	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 审查	lemma: 审查	upos: VERB	xpos: VV	feats: _
+word: 符合	lemma: 符合	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 具备	lemma: 具备	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 能力	lemma: 能力	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方可	lemma: 方可	upos: VERB	xpos: VV	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+entity: 农村土地承包法	type: LAW
+entity: 第四十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十三条　通过家庭承包取得的土地承包经营权可以依法采取转包、出租、互换、转让、代耕等方式流转。
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 转包	lemma: 转包	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出租	lemma: 出租	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 互换	lemma: 互换	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 代耕	lemma: 代耕	upos: VERB	xpos: VV	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+　　不宜采取家庭承包方式的荒山、荒沟、荒丘、荒滩等农村土地，通过招标、拍卖、公开协商等方式取得的承包经营权，可以依法采取抵押、入股等方式流转。
+
+word: 不宜	lemma: 不宜	upos: ADV	xpos: RB	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 荒山	lemma: 荒山	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒沟	lemma: 荒沟	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒丘	lemma: 荒丘	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒滩	lemma: 荒滩	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 通过	lemma: 通过	upos: ADP	xpos: IN	feats: _
+word: 招标	lemma: 招标	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 拍卖	lemma: 拍卖	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公开	lemma: 公开	upos: VERB	xpos: VV	feats: _
+word: 协商	lemma: 协商	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 抵押	lemma: 抵押	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 入股	lemma: 入股	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+　　承包方流转农村土地承包经营权，应当与受让方在协商一致的基础上签订书面流转合同。承包方将土地交由他人代耕不超过一年的，可以不签订书面合同。
+
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方流	lemma: 方流	upos: VERB	xpos: VV	feats: _
+word: 转农	lemma: 转农	upos: VERB	xpos: VV	feats: _
+word: 村	lemma: 村	upos: PART	xpos: SFN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 受让	lemma: 受让	upos: PROPN	xpos: NNP	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 一致	lemma: 一致	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 基础	lemma: 基础	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 土	lemma: 土	upos: NOUN	xpos: NN	feats: _
+word: 地交	lemma: 地交	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人代	lemma: 人代	upos: NOUN	xpos: NN	feats: _
+word: 耕不	lemma: 耕不	upos: PROPN	xpos: NNP	feats: _
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 一年	type: DATE
+
+Sentence sentiment= 2
+
+
+第二十四条　承包方采取转让方式流转土地承包经营权的，应当征得发包方同意，由发包方在转让合同上签署意见并加盖公章。发包方不同意的，应当于七日内向承包方书面说明理由。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 转让	lemma: 转让	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当征	lemma: 当征	upos: VERB	xpos: VV	feats: _
+word: 得发	lemma: 得发	upos: VERB	xpos: VV	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: 签署	lemma: 签署	upos: VERB	xpos: VV	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: CCONJ	xpos: CC	feats: _
+word: 加盖	lemma: 加盖	upos: VERB	xpos: VV	feats: _
+word: 公章	lemma: 公章	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 于	lemma: 于	upos: ADP	xpos: IN	feats: _
+word: 七	lemma: 七	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 说明	lemma: 说明	upos: VERB	xpos: VV	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+entity: 七日	type: DATE
+
+Sentence sentiment= 2
+
+
+　　承包方采取转包、出租、互换等其他方式流转的，应当自流转合同签订之日起30日内，报发包方备案。
+
+word: 承	lemma: 承	upos: PROPN	xpos: NNP	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 转包	lemma: 转包	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出租	lemma: 出租	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 互换	lemma: 互换	upos: VERB	xpos: VV	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 流	lemma: 流	upos: NOUN	xpos: NN	feats: _
+word: 转	lemma: 转	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 30	lemma: 30	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 报发	lemma: 报发	upos: VERB	xpos: VV	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 30日	type: DATE
+
+Sentence sentiment= 1
+
+
+第二十五条　承包方或者第三方要求发包方在农村土地承包经营权流转过程中提供协助的，发包方应当提供协助，也可以指导承包方进行农村土地承包经营权流转。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 承	lemma: 承	upos: NOUN	xpos: NN	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 流转	lemma: 流转	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 协助	lemma: 协助	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发包	lemma: 发包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 协助	lemma: 协助	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 指导	lemma: 指导	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 承包方	lemma: 承包方	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 流转	lemma: 流转	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十六条　因土地承包经营发生纠纷或者权利争议的，双方当事人可以请求村民委员会、乡（镇）人民政府等调解解决或者向农村土地承包仲裁机构申请仲裁，也可以直接向人民法院起诉。
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 土	lemma: 土	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 争议	lemma: 争议	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 请求	lemma: 请求	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 仲裁	lemma: 仲裁	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 仲裁	lemma: 仲裁	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第二十七条　国家机关及其工作人员有下列行为之一的，由其所在单位或者上级主管部门依法给予行政处分；给当事人造成损失的，依法承担赔偿责任；构成犯罪的，依法追究刑事责任：
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 上级	lemma: 上级	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+　　（一）不按规定发放农村土地承包经营权证书的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 发放	lemma: 发放	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 证书	lemma: 证书	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+　　（二）违反法律、法规规定征收、征用农村集体所有的土地的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 二	lemma: 二	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 征收	lemma: 征收	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 征用	lemma: 征用	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+　　（三）颁发土地承包经营权证非法收取费用的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 土	lemma: 土	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 非法	lemma: 非法	upos: ADV	xpos: RB	feats: _
+word: 收取	lemma: 收取	upos: VERB	xpos: VV	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+　　（四）干预承包方依法享有的生产经营自主权的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 干	lemma: 干	upos: NOUN	xpos: NN	feats: _
+word: 预承	lemma: 预承	upos: VERB	xpos: VV	feats: _
+word: 包方	lemma: 包方	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 享有	lemma: 享有	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 主权	lemma: 主权	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+　　（五）玩忽职守、滥用职权、徇私舞弊，侵害农民土地承包权益的其他行为。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 玩忽	lemma: 玩忽	upos: NOUN	xpos: NN	feats: _
+word: 职守	lemma: 职守	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 滥用	lemma: 滥用	upos: VERB	xpos: VV	feats: _
+word: 职权	lemma: 职权	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 徇私	lemma: 徇私	upos: NOUN	xpos: NN	feats: _
+word: 舞弊	lemma: 舞弊	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 侵害	lemma: 侵害	upos: VERB	xpos: VV	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第二十八条　违反本办法应当给予处罚的其他行为，依照《农村土地承包法》及有关法律、法规予以处罚。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+entity: 农村土地承包法	type: LAW
+
+Sentence sentiment= 0
+
+
+第二十九条　本办法实施前签订的承包合同继续有效，但合同中关于承包期限或者收回、调整承包地的条款等与《农村土地承包法》或本办法不一致的，应当按照《农村土地承包法》和本办法执行。
+
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 收回	lemma: 收回	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 条款	lemma: 条款	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 一致	lemma: 一致	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十九	type: ORDINAL
+entity: 农村土地承包法	type: LAW
+entity: 农村土地承包法	type: LAW
+
+Sentence sentiment= 2
+
+
+第三十条　本办法实施前颁发的土地承包经营权证继续有效，但证书上未加盖县级以上人民政府印章的，县级以上人民政府应当为承包方加盖印章；未向承包方颁发土地承包经营权证的，应当自本办法实施之日起六个月内，依照本办法规定予以补发证书。
+
+word: 第三十	lemma: 第三十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: 颁发	lemma: 颁发	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 证书	lemma: 证书	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 加盖	lemma: 加盖	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 印章	lemma: 印章	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 加盖	lemma: 加盖	upos: VERB	xpos: VV	feats: _
+word: 印章	lemma: 印章	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 未向	lemma: 未向	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 方颁	lemma: 方颁	upos: VERB	xpos: VV	feats: _
+word: 发土	lemma: 发土	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 权证	lemma: 权证	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 自本	lemma: 自本	upos: VERB	xpos: VV	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: NOUN	xpos: NN	feats: _
+word: 起	lemma: 起	upos: VERB	xpos: VV	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 本办	lemma: 本办	upos: NOUN	xpos: NN	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 定	lemma: 定	upos: VERB	xpos: VV	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 补发	lemma: 补发	upos: NOUN	xpos: NN	feats: _
+word: 证书	lemma: 证书	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十	type: ORDINAL
+entity: 六个月	type: DATE
+
+Sentence sentiment= 2
+
+
+第三十一条　本办法自2005年10月1日起施行。
+
+word: 第三十一	lemma: 第三十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 2005	lemma: 2005	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 10	lemma: 10	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十一	type: ORDINAL
+entity: 2005年10月1日	type: DATE
+
+Sentence sentiment= 0
+
+

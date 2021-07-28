@@ -1,0 +1,632 @@
+PA016-Nationality Law of the People_s Republic of China-U
+جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ تەۋەلىك قانۇنى
+
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەۋەلىك	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: _
+word: قانۇنى	lemma: None	upos: PUNCT	xpos: Y	feats: _
+
+
+(1980 - يىلى   9   - ئاينىڭ 10 - كۈنى   5   - نۆۋەتلىك خەلق قۇرۇلتىيىنىڭ   3   - يىغىنىدا ماقۇللاندى،1980 - يىلى   9   - ئاينىڭ 10 - كۈنى مەملىكەتلىك خەلق قۇرۇلتىيى دائىمىي كومىتېتى باشلىقىنىڭ   8   - نومۇرلۇق پەرمانى بىلەن ئېلان قىلىندى)
+
+word: (1980	lemma: (1980	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىلى	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئاينىڭ	lemma: ئاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: 10	lemma: 10	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: كۈنى	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: 5	lemma: 5	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: نۆۋەتلىك	lemma: نۆۋەتلىك	upos: ADJ	xpos: Q	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلتىيىنىڭ	lemma: قۇرۇلتىي	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىغىنىدا	lemma: يى	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ماقۇللاندى،1980	lemma: None	upos: VERB	xpos: V	feats: _
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىلى	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئاينىڭ	lemma: ئاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: 10	lemma: 10	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: كۈنى	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەملىكەتلىك	lemma: مەملىكەتلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلتىيى	lemma: قۇرۇلتىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: دائىمىي	lemma: دائىمىي	upos: NOUN	xpos: N	feats: _
+word: كومىتېتى	lemma: كومىتېت	upos: ADJ	xpos: N	feats: _
+word: باشلىقىنىڭ	lemma: باشلىق	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: 8	lemma: 8	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: نومۇرلۇق	lemma: نومۇرلۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: پەرمانى	lemma: پەرما	upos: NOUN	xpos: N	feats: _
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: ئېلان	lemma: ئېلان	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىندى	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+word: )	lemma: )	upos: PUNCT	xpos: Y	feats: _
+
+
+  1   - ماددا بۇ قانۇن جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ تەۋەلىكىگە ئىگە بولۇشقىمۇ ،ئۇنىڭدىن قېپقېلىشقىمۇ ،ئۇنى ئەسلىگە كەلتۈرۈشكىمۇ تەتبىق قىلىنىدۇ.
+
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولۇشقىمۇ	lemma: بول	upos: VERB	xpos: V	feats: _
+word: ،ئۇنىڭدىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قېپقېلىشقىمۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،ئۇنى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئەسلىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كەلتۈرۈشكىمۇ	lemma: كەلتۈر	upos: VERB	xpos: V	feats: _
+word: تەتبىق	lemma: تەتبىق	upos: NOUN	xpos: N	feats: _
+word: قىلىنىدۇ	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  2   - ماددا جۇڭخۇا خەلق جۇمھۇرىيىتى كۆپ مىللەتلىك بىر پۈتۈن دۆلەت ،ھەر مىللەت كىشىلىرىنىڭ ھەممىسى جۇڭگو تەۋەلىكىگە ئىگە.
+
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتى	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: كۆپ	lemma: كۆپ	upos: ADJ	xpos: A	feats: _
+word: مىللەتلىك	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: پۈتۈن	lemma: پۈتۈن	upos: ADJ	xpos: A	feats: _
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،ھەر	lemma: ،ھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: مىللەت	lemma: مىللەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: كىشىلىرىنىڭ	lemma: كىشى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ھەممىسى	lemma: ھەممىسى	upos: PRON	xpos: P	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  3   - ماددا جۇڭخۇا خەلق جۇمھۇرىيىتى جۇڭگو پۇقرالىرىنىڭ ئىككى دۆلەت تەۋەلىكىدە بولۇشىنى ئېتىراپ قىلمايدۇ.
+
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتى	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقرالىرىنىڭ	lemma: پۇقرا	upos: NOUN	xpos: N	feats: _
+word: ئىككى	lemma: ئىككى	upos: NUM	xpos: M	feats: _
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولۇشىنى	lemma: بول	upos: VERB	xpos: V	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ئېتىراپ	lemma: ئېتىراپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلمايدۇ	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  4   - ماددا ئاتا - ئانىسى ياكى ئۇلاردىن بىرى جۇڭگو پۇقراسى بولۇپ،ئۆزى جۇڭگودا تۇغۇلغانلار جۇڭگو تەۋەلىكىدە بولىدۇ.
+
+word: 4	lemma: 4	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىسى	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلاردىن	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Abl|Number=Plur|Person=3|PronType=Prs
+word: بىرى	lemma: بىر	upos: NUM	xpos: M	feats: Case=Nom|NumType=Ord|Number[psor]=Plur,Sing|Person[psor]=3
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقراسى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بولۇپ	lemma: بول	upos: AUX	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،ئۆزى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جۇڭگودا	lemma: None	upos: NOUN	xpos: N	feats: Case=Loc
+word: تۇغۇلغانلار	lemma: تۇغۇلغان	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  5   - ماددا ئاتا  - ئانىسى ياكى ئۇلاردىن بىر جۇڭگو پۇقراسى بولۇپ،ئۆزى چەت ئەلدە تۇغۇلغانلار جۇڭگو تەۋەلىكىدە بولىدۇ؛لېكىن ئاتا - ئانىسى ياكى ئۇلاردىن بىرى جۇڭگو پۇقراسى بولۇپ،چەت ئەلدە ئولتۇراقلىشىپ قالغان،ئۆزى تۇغۇلغان ۋاقىتتىلا چەت ئەل تەۋەلىكىگە ئىگە بولغانلار جۇڭگو تەۋەلىكىدە بولمايدۇ.
+
+word: 5	lemma: 5	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىسى	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلاردىن	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Abl|Number=Plur|Person=3|PronType=Prs
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقراسى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بولۇپ	lemma: بول	upos: AUX	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،ئۆزى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەلدە	lemma: ئەلدە	upos: NOUN	xpos: N	feats: Case=Loc
+word: تۇغۇلغانلار	lemma: تۇغۇلغان	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛لېكىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىسى	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلاردىن	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Abl|Number=Plur|Person=3|PronType=Prs
+word: بىرى	lemma: بىر	upos: NUM	xpos: M	feats: Case=Nom|NumType=Ord|Number[psor]=Plur,Sing|Person[psor]=3
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقراسى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بولۇپ	lemma: بول	upos: AUX	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،چەت	lemma: ،چەت	upos: NOUN	xpos: N	feats: _
+word: ئەلدە	lemma: ئەلدە	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئولتۇراقلىشىپ	lemma: ئولتۇراقلاش	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قالغان	lemma: قال	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: ،ئۆزى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تۇغۇلغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ۋاقىتتىلا	lemma: ۋاقىتتىل	upos: NOUN	xpos: N	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەل	lemma: ئەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: _
+word: بولمايدۇ	lemma: بول	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  6   - ماددا ئاتا - ئانىسىنىڭ دۆلەت تەۋەلىكى يوق ياكى دۆلەت تەۋەلىكى نامەلۇم ،ئولتۇراقلىشىشى جۇڭگودا بولۇپ ،ئۆزى جۇڭگودا تۇغۇلغانلار جۇڭگو تەۋەلىكىدە بولىدۇ.
+
+word: 6	lemma: 6	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىسىنىڭ	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: يوق	lemma: يوق	upos: ADJ	xpos: A	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: نامەلۇم	lemma: نامەلۇم	upos: ADJ	xpos: A	feats: _
+word: ،ئولتۇراقلىشىشى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جۇڭگودا	lemma: None	upos: NOUN	xpos: N	feats: Case=Loc
+word: بولۇپ	lemma: بول	upos: AUX	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئۆزى	lemma: ئۆز	upos: PRON	xpos: P	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Reflex=Yes
+word: جۇڭگودا	lemma: None	upos: NOUN	xpos: N	feats: Case=Loc
+word: تۇغۇلغانلار	lemma: تۇغۇلغان	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  7   - ماددا چەت ئەللىكلەر ياكى دۆلەت تەۋەلىكى يوقلاردىن جۇڭگونىڭ ئاساسىي قانۇنغا ۋە قانۇنلىرىغا رىئايە قىلىشنى خالايدىغان ھەمدە تۆۋەندىكى شەرتلەرنىڭ بىرىگە ئىگە بولغانلار ئىلتىماس قىلىپ تەستىقلانغاندىن كېيىن جۇڭگو تەۋەلىكىگە كىرسە بولىدۇ:
+
+word: 7	lemma: 7	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەللىكلەر	lemma: ئەللىكلەر	upos: NOUN	xpos: N	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: يوقلاردىن	lemma: يوق	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur
+word: جۇڭگونىڭ	lemma: None	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئاساسىي	lemma: ئاساسىي	upos: ADJ	xpos: A	feats: _
+word: قانۇنغا	lemma: قانۇن	upos: NOUN	xpos: N	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: قانۇنلىرىغا	lemma: قانۇن	upos: NOUN	xpos: N	feats: _
+word: رىئايە	lemma: رىئايە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشنى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Acc|VerbForm=Ger
+word: خالايدىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: تۆۋەندىكى	lemma: تۆۋەن	upos: NOUN	xpos: A	feats: Case=Nom
+word: شەرتلەرنىڭ	lemma: شەرت	upos: NOUN	xpos: N	feats: _
+word: بىرىگە	lemma: بىرىگە	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: تەستىقلانغاندىن	lemma: None	upos: VERB	xpos: V	feats: _
+word: كېيىن	lemma: كېيىن	upos: NOUN	xpos: D	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرسە	lemma: كىرسە	upos: VERB	xpos: V	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: :	lemma: :	upos: PUNCT	xpos: Y	feats: _
+
+
+  1  .جۇڭگولۇقىنىڭ يېقىن تۇغقانلىرى ؛
+
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: جۇڭگولۇقىنىڭ	lemma: None	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: يېقىن	lemma: يېقىن	upos: ADJ	xpos: A	feats: _
+word: تۇغقانلىرى	lemma: تۇغقان	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+  2  .جۇڭگودا ئولتۇراقلىشىپ قالغانلار؛
+
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: N	feats: _
+word: جۇڭگودا	lemma: None	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئولتۇراقلىشىپ	lemma: ئولتۇراقلاش	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قالغانلار	lemma: قال	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+  3  .باشقا ئورۇنلۇق سەۋەبلىرى بولغانلار.
+
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: ئورۇنلۇق	lemma: ئورۇنلۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سەۋەبلىرى	lemma: سەۋەب	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  8   - ماددا جۇڭگو تەۋەلىكىگە كىرىشنى ئىلتىماس قىلىپ تەستىقلانغانلار  جۇڭگو تەۋەلىكىگە ئىگە بولىدۇ؛جۇڭگو تەۋەلىكىگە كىرىشى تەستىقلانغانلار چەت ئەل تەۋەلىكىنى ساقلاپ قالسا بولمايدۇ.
+
+word: 8	lemma: 8	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرىشنى	lemma: كىر	upos: VERB	xpos: N	feats: Case=Acc|VerbForm=Ger
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: تەستىقلانغانلار	lemma: تەستىقلانغان	upos: NOUN	xpos: N	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرىشى	lemma: كىر	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: تەستىقلانغانلار	lemma: تەستىقلانغان	upos: NOUN	xpos: N	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەل	lemma: ئەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىنى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ساقلاپ	lemma: ساقلاپ	upos: VERB	xpos: V	feats: _
+word: قالسا	lemma: قال	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولمايدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  9   - ماددا چەت ئەلدە ئولتۇراقلىشىپ قالغان جۇڭگو پۇقرالىرىدىن ئۆز ئىختىيارى بىلەن چەت ئەل تەۋەلىكىگە كىرگەن ياكى چەت ئەل تەۋەلىكىگە ئىگە بولغانلار جۇڭگو تەۋەلىكىدىن ئۆزلىكىدىن قېپقالىدۇ.
+
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەلدە	lemma: ئەلدە	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئولتۇراقلىشىپ	lemma: ئولتۇراقلاش	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قالغان	lemma: قال	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقرالىرىدىن	lemma: پۇقرا	upos: NOUN	xpos: N	feats: _
+word: ئۆز	lemma: ئۆز	upos: PRON	xpos: P	feats: Case=Nom|Reflex=Yes
+word: ئىختىيارى	lemma: ئىختىيارى	upos: NOUN	xpos: N	feats: _
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەل	lemma: ئەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرگەن	lemma: كىرگەن	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەل	lemma: ئەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆزلىكىدىن	lemma: ئۆزلىك	upos: PRON	xpos: P	feats: _
+word: قېپقالىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+10 - ماددا جۇڭگو پۇقرالىرىدىن تۆۋەندىكى شەرتلەرنىڭ بىرىگە ئىگە بولغانلار ئىلتىماس قىلىپ تەستىقلانغاندىن كېيىن جۇڭگو تەۋەلىكىدىن چىقىپ كەتسە بولىدۇ:
+
+word: 10	lemma: 10	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: پۇقرالىرىدىن	lemma: پۇقرا	upos: NOUN	xpos: N	feats: _
+word: تۆۋەندىكى	lemma: تۆۋەن	upos: NOUN	xpos: A	feats: Case=Nom
+word: شەرتلەرنىڭ	lemma: شەرت	upos: NOUN	xpos: N	feats: _
+word: بىرىگە	lemma: بىرىگە	upos: NUM	xpos: M	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: AUX	xpos: V	feats: _
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: تەستىقلانغاندىن	lemma: None	upos: VERB	xpos: V	feats: _
+word: كېيىن	lemma: كېيىن	upos: NOUN	xpos: D	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: چىقىپ	lemma: چىق	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: كەتسە	lemma: كەت	upos: AUX	xpos: V	feats: Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: :	lemma: :	upos: PUNCT	xpos: Y	feats: _
+
+
+  1  .چەت ئەللىكنىڭ يېقىن تۇغقانلىرى؛
+
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەللىكنىڭ	lemma: ئەللىك	upos: NOUN	xpos: N	feats: Case=Gen
+word: يېقىن	lemma: يېقىن	upos: ADJ	xpos: A	feats: _
+word: تۇغقانلىرى	lemma: تۇغقان	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+  2  .چەت ئەلدە ئولتۇراقلىشىپ قالغانلار ؛
+
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەلدە	lemma: ئەلدە	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئولتۇراقلىشىپ	lemma: ئولتۇراقلاش	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قالغانلار	lemma: قال	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+  3  .باشقا ئورۇنلۇق سەۋەبلىرى بولغانلار
+
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: ئورۇنلۇق	lemma: ئورۇنلۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سەۋەبلىرى	lemma: سەۋەب	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+
+
+11 - ماددا جۇڭگو تەۋەلىكىدىن چىقىپ كېتىشنى ئىلتىماس قىلىپ تەستىقلانغانلار جۇڭگو تەۋەلىكىدىن قېپقالىدۇ.
+
+word: 11	lemma: 11	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: چىقىپ	lemma: چىق	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: كېتىشنى	lemma: كەت	upos: VERB	xpos: V	feats: Case=Acc|VerbForm=Ger
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: تەستىقلانغانلار	lemma: تەستىقلان	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: قېپقالىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+12 - ماددا دۆلەت خادىملىرى ۋە رەسمىي خىزمەتتىكى ھەربىيلەر جۇڭگو تەۋەلىكىدىن چىقىپ كەتسە بولمايدۇ.
+
+word: 12	lemma: 12	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: خادىملىرى	lemma: خادىم	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: رەسمىي	lemma: رەسمىي	upos: ADJ	xpos: A	feats: _
+word: خىزمەتتىكى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەربىيلەر	lemma: None	upos: NUM	xpos: M	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: چىقىپ	lemma: چىق	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: كەتسە	lemma: كەت	upos: AUX	xpos: V	feats: Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+word: بولمايدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+13 - ماددا ئىلگىرى جۇڭگو تەۋەلىكىدە بولغان چەت ئەللىكلەردىن ئورۇنلۇق سەۋەبلىرى بولغانلار جۇڭگو تەۋەلىكىنى ئەسلىگە كەلتۈرۈشنى ئىلتىماس سىقىلسا بولىدۇ؛جۇڭگو تەۋەلىكىنىڭ ئەسلىگە كەلتۈرۈلۈشى تەستىقلانغانلار چەت ئەل تەۋەلىكىنى ساقلاپ قالسا بولمايدۇ.
+
+word: 13	lemma: 13	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىلگىرى	lemma: ئىلگىرى	upos: NOUN	xpos: D	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدە	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولغان	lemma: بول	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەللىكلەردىن	lemma: ئەللىك	upos: NOUN	xpos: N	feats: _
+word: ئورۇنلۇق	lemma: ئورۇنلۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سەۋەبلىرى	lemma: سەۋەب	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولغانلار	lemma: بول	upos: VERB	xpos: V	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىنى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئەسلىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كەلتۈرۈشنى	lemma: كەلتۈر	upos: VERB	xpos: V	feats: Case=Acc|VerbForm=Ger
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: سىقىلسا	lemma: None	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىنىڭ	lemma: تەۋەلىكى	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئەسلىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كەلتۈرۈلۈشى	lemma: None	upos: VERB	xpos: V	feats: _
+word: تەستىقلانغانلار	lemma: تەستىقلانغان	upos: NOUN	xpos: N	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەل	lemma: ئەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىنى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ساقلاپ	lemma: ساقلاپ	upos: VERB	xpos: V	feats: _
+word: قالسا	lemma: قال	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولمايدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+14 - ماددا جۇڭگو تەۋەلىكىگە ئىگە بولغانلار ،ئۇنىڭدىن قېپقالىدىغانلار ۋە ئۇنى ئەسلىگە كەلتۈرىدىغانلار   9   - ماددىدا بەلگىلەنگەنلىرىنى ھېسابقا ئالمىغاندا ،ئىلتىماس قىلىش رەسمىيىتىنى بېجىرىشى كېرەك.18ياشقا توشمىغانلارنىڭ ئىلتىماس قىلىش رەسمىيىتىنى ئاتا - ئانىسى ياكى باشقا قانۇنىي ۋاكالەتچىسى بېجىرىپ بەرسە بولىدۇ.
+
+word: 14	lemma: 14	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: AUX	xpos: V	feats: _
+word: ،ئۇنىڭدىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قېپقالىدىغانلار	lemma: None	upos: VERB	xpos: V	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئۇنى	lemma: ئۇ	upos: PRON	xpos: P	feats: Case=Acc|Number=Sing|Person=3|PronType=Prs
+word: ئەسلىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كەلتۈرىدىغانلار	lemma: كەلتۈرىدىن	upos: VERB	xpos: V	feats: _
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددىدا	lemma: ماددا	upos: NOUN	xpos: N	feats: Case=Loc
+word: بەلگىلەنگەنلىرىنى	lemma: None	upos: VERB	xpos: V	feats: _
+word: ھېسابقا	lemma: ھېسابقا	upos: NOUN	xpos: N	feats: _
+word: ئالمىغاندا	lemma: ئالمىغاندا	upos: VERB	xpos: V	feats: _
+word: ،ئىلتىماس	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: رەسمىيىتىنى	lemma: رەسمىيەت	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: بېجىرىشى	lemma: بېجىر	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .18ياشقا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat
+word: توشمىغانلارنىڭ	lemma: توشمىغان	upos: NOUN	xpos: N	feats: _
+word: ئىلتىماس	lemma: ئىلتىماس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: رەسمىيىتىنى	lemma: رەسمىيەت	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىسى	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: Case=Nom
+word: قانۇنىي	lemma: قانۇنىي	upos: ADJ	xpos: A	feats: _
+word: ۋاكالەتچىسى	lemma: ۋاكالەتچى	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بېجىرىپ	lemma: بېجىر	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: بەرسە	lemma: بەر	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+15 - ماددا دۆلەت تەۋەلىكى توغرىسىدىكى ئىلتىماسنى قوبۇل قىلىپ بىر تەرەپ قىلغۇچى ئورگانلار مەملىكەت ئىچىدە شۇ جايدىكى شەھەرلىك ،ناھىيىلىك جامائەت خەۋپسىزلىكى دىپلوماتىك ۋاكالەت ئورگانلىرى ۋە كونسۇلخانىلىرىدۇر.
+
+word: 15	lemma: 15	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەۋەلىكى	lemma: تەۋەلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: توغرىسىدىكى	lemma: توغرا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئىلتىماسنى	lemma: None	upos: NOUN	xpos: N	feats: Case=Acc
+word: قوبۇل	lemma: قوبۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: تەرەپ	lemma: تەرەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغۇچى	lemma: قىلغۇچى	upos: VERB	xpos: V	feats: _
+word: ئورگانلار	lemma: ئورگان	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: مەملىكەت	lemma: مەملىكەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىچىدە	lemma: ئىچ	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: شەھەرلىك	lemma: شەھەرلىك	upos: ADJ	xpos: A	feats: _
+word: ،ناھىيىلىك	lemma: ،ناھىيىلىك	upos: ADJ	xpos: A	feats: _
+word: جامائەت	lemma: جامائەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: خەۋپسىزلىكى	lemma: خەۋپسىزلىك	upos: ADJ	xpos: A	feats: _
+word: دىپلوماتىك	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ۋاكالەت	lemma: ۋاكالەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئورگانلىرى	lemma: ئورگان	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: كونسۇلخانىلىرىدۇر	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+16 - ماددا جۇڭگو تەۋەلىكىگە كىرىش،ئۇنىڭدىن چىقىپ كېتىش ۋە ئۇنى ئەسلىگە كەلتۈرۈش توغرىسىدىكى ئىلتىماسلارنى جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ جامائەت خەۋپسىزلىكى مىنىستىرلىقى تەكشۈرۈپ تەستىقلايدۇ.تەستىقلانغانلىرىغا جامائەت خەۋپسىزلىكى مىنىستىرلىقى گۇۋاھنامە بېرىدۇ.
+
+word: 16	lemma: 16	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرىش،ئۇنىڭدىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: چىقىپ	lemma: چىق	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: كېتىش	lemma: كەت	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئۇنى	lemma: ئۇ	upos: PRON	xpos: P	feats: Case=Acc|Number=Sing|Person=3|PronType=Prs
+word: ئەسلىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كەلتۈرۈش	lemma: كەلتۈر	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: توغرىسىدىكى	lemma: توغرا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئىلتىماسلارنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: جامائەت	lemma: جامائەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: خەۋپسىزلىكى	lemma: خەۋپسىزلىك	upos: ADJ	xpos: A	feats: _
+word: مىنىستىرلىقى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تەكشۈرۈپ	lemma: تەكشۈرۈپ	upos: VERB	xpos: V	feats: _
+word: تەستىقلايدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: تەستىقلانغانلىرىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جامائەت	lemma: جامائەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: خەۋپسىزلىكى	lemma: خەۋپسىزلىك	upos: NOUN	xpos: N	feats: _
+word: مىنىستىرلىقى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: گۇۋاھنامە	lemma: گۇۋاھنامە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىدۇ	lemma: بار	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+17 - ماددا بۇ قانۇن ئېلان قىلىنىشتىن بۇرۇن جۇڭگو تەۋەلىكىگە ئىگە بولغانلار ياكى جۇڭگو تەۋەلىكىدىن قېپقالغانلار داۋاملىق ھېسابقا ئېلىنىدۇ.
+
+word: 17	lemma: 17	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئېلان	lemma: ئېلان	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىنىشتىن	lemma: قىل	upos: VERB	xpos: V	feats: Case=Abl|VerbForm=Ger
+word: بۇرۇن	lemma: بۇرۇن	upos: NOUN	xpos: D	feats: Case=Nom
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىگە	lemma: ئىگە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغانلار	lemma: بول	upos: AUX	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: جۇڭگو	lemma: جۇڭگو	upos: PROPN	xpos: N	feats: Case=Nom
+word: تەۋەلىكىدىن	lemma: تەۋەلىكا	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: قېپقالغانلار	lemma: None	upos: VERB	xpos: V	feats: _
+word: داۋاملىق	lemma: داۋاملىق	upos: ADJ	xpos: A	feats: _
+word: ھېسابقا	lemma: ھېسابقا	upos: NOUN	xpos: N	feats: _
+word: ئېلىنىدۇ	lemma: ئال	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+18 - ماددا بۇ قانۇن ئېلان قىلىنغان كۈندىن باشلاپ يولغا قويۇلىدۇ.
+
+word: 18	lemma: 18	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئېلان	lemma: ئېلان	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىنغان	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: كۈندىن	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Abl
+word: باشلاپ	lemma: باشلاپ	upos: NOUN	xpos: V	feats: Case=Nom
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+

@@ -1,0 +1,815 @@
+PA016-Nationality Law of the People_s Republic of China-C
+中华人民共和国国籍法
+
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+
+
+entity: 中华人民共和	type: GPE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+                 （一九八０年九月十日第五届全国人民代表大会第三次会议通过）
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一九八０	lemma: 一九八０	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 九	lemma: 九	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 十	lemma: 十	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+entity: 一九八０年九月十日第五届全国人民代表大会	type: EVENT
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+          
+
+
+
+Sentence sentiment= 1
+
+
+    第一条  中华人民共和国国籍的取得、丧失和恢复，都适用本法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 取得	lemma: 取得	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 丧失	lemma: 丧失	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 恢复	lemma: 恢复	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和	type: GPE
+
+Sentence sentiment= 0
+
+
+第二条  中华人民共和国是统一的多民族的国家，各民族的人都具有中国国籍。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 多	lemma: 多	upos: NUM	xpos: CD	feats: NumType=Card
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+entity: 中华人民共和	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第三条  中华人民共和国不承认中国公民具有双重国籍。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 承认	lemma: 承认	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 重	lemma: 重	upos: NOUN	xpos: NNB	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+entity: 中华人民共和	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 0
+
+
+第四条  父母双方或一方为中国公民，本人出生在中国，具有中国国籍。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 父母	lemma: 父母	upos: NOUN	xpos: NN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 出生	lemma: 出生	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+entity: 中国	type: NORP
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第五条  父母双方或一方为中国公民，本人出生在外国，具有中国国籍；但父母双方或一方为中国公民并定居在外国，本人出生时即具有外国国籍的，不具有中国国籍。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 父母	lemma: 父母	upos: NOUN	xpos: NN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 出生	lemma: 出生	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 父母	lemma: 父母	upos: NOUN	xpos: NN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: Voice=Pass
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 定居	lemma: 定居	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 出生	lemma: 出生	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 即	lemma: 即	upos: VERB	xpos: VC	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+entity: 中国	type: NORP
+entity: 中国	type: GPE
+entity: 中国	type: NORP
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第六条  父母无国籍或国籍不明，定居在中国，本人出生在中国，具有中国国籍。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 父母	lemma: 父母	upos: NOUN	xpos: NN	feats: _
+word: 无	lemma: 无	upos: VERB	xpos: VV	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 不明	lemma: 不明	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 定居	lemma: 定居	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 出生	lemma: 出生	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第七条  外国人或无国籍人，愿意遵守中国宪法和法律，并具有下列条件之一的，可以经申请批准加入中国国籍：
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 外	lemma: 外	upos: PART	xpos: PFA	feats: _
+word: 国	lemma: 国	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 无国	lemma: 无国	upos: NOUN	xpos: NN	feats: _
+word: 籍人	lemma: 籍人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 愿意	lemma: 愿意	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 加入	lemma: 加入	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第七	type: ORDINAL
+entity: 中国宪法	type: LAW
+entity: 中国	type: GPE
+
+Sentence sentiment= 2
+
+
+    一、中国人的近亲属；
+
+word: 一	lemma: 一	upos: NUM	xpos: LS	feats: NumType=Card
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 近亲	lemma: 近亲	upos: NOUN	xpos: NN	feats: _
+word: 属	lemma: 属	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 中国	type: NORP
+
+Sentence sentiment= 2
+
+
+    二、定居在中国的；
+
+word: 二	lemma: 二	upos: NUM	xpos: LS	feats: NumType=Card
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 定居	lemma: 定居	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+    三、有其它正当理由。
+
+word: 三	lemma: 三	upos: NUM	xpos: LS	feats: NumType=Ord
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 其它	lemma: 其它	upos: DET	xpos: DT	feats: _
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第八条  申请加入中国国籍获得批准的，即取得中国国籍；被批准加入中国国籍的，不得再保留外国国籍。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: 加入	lemma: 加入	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 获得	lemma: 获得	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 即	lemma: 即	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 加入	lemma: 加入	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 再	lemma: 再	upos: ADV	xpos: RB	feats: _
+word: 保留	lemma: 保留	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 2
+
+
+第九条  定居外国的中国公民，自愿加入或取得外国国籍的，即自动丧失中国国籍。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 定	lemma: 定	upos: VERB	xpos: VV	feats: _
+word: 居外	lemma: 居外	upos: VERB	xpos: VV	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自愿	lemma: 自愿	upos: ADV	xpos: RB	feats: _
+word: 加入	lemma: 加入	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 即	lemma: 即	upos: ADV	xpos: RB	feats: _
+word: 自动	lemma: 自动	upos: ADV	xpos: RB	feats: _
+word: 丧失	lemma: 丧失	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+entity: 中国	type: NORP
+entity: 中国	type: GPE
+
+Sentence sentiment= 0
+
+
+第十条  中国公民具有下列条件之一的，可以经申请批准退出中国国籍：
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 退出	lemma: 退出	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十	type: ORDINAL
+entity: 中国	type: NORP
+entity: 中国	type: GPE
+
+Sentence sentiment= 2
+
+
+    一、外国人的近亲属；
+
+word: 一	lemma: 一	upos: NUM	xpos: LS	feats: NumType=Card
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 近亲	lemma: 近亲	upos: NOUN	xpos: NN	feats: _
+word: 属	lemma: 属	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    二、定居在外国的；
+
+word: 二	lemma: 二	upos: NUM	xpos: LS	feats: NumType=Card
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 定居	lemma: 定居	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 二	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    三、有其它正当理由。
+
+word: 三	lemma: 三	upos: NUM	xpos: LS	feats: NumType=Ord
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 其它	lemma: 其它	upos: DET	xpos: DT	feats: _
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第十一条  申请退出中国国籍获得批准的，即丧失中国国籍。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申	lemma: 申	upos: PROPN	xpos: NNP	feats: _
+word: 请	lemma: 请	upos: AUX	xpos: MD	feats: _
+word: 退出	lemma: 退出	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 获得	lemma: 获得	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 即	lemma: 即	upos: ADV	xpos: RB	feats: _
+word: 丧失	lemma: 丧失	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 0
+
+
+第十二条  国家工作人员和现役军人，不得退出中国国籍。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 现役	lemma: 现役	upos: NOUN	xpos: NN	feats: _
+word: 军人	lemma: 军人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 退出	lemma: 退出	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第十三条  曾有过中国国籍的外国人，具有正当理由，可以申请恢复中国国籍；被批准恢复中国国籍的，不得再保留外国国籍。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 曾	lemma: 曾	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 过	lemma: 过	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 再	lemma: 再	upos: ADV	xpos: RB	feats: _
+word: 保留	lemma: 保留	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第十四条  中国国籍的取得、丧失和恢复，除第九条规定的以外，必须办理申请手续。未满十八周岁的人，可由其父母或其他法定代理人代为办理申请。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 丧失	lemma: 丧失	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 除	lemma: 除	upos: ADP	xpos: IN	feats: _
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 以外	lemma: 以外	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 未满	lemma: 未满	upos: VERB	xpos: VV	feats: _
+word: 十八	lemma: 十八	upos: NUM	xpos: CD	feats: NumType=Card
+word: 周岁	lemma: 周岁	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可由	lemma: 可由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 父母	lemma: 父母	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 代理	lemma: 代理	upos: VERB	xpos: VV	feats: _
+word: 人代	lemma: 人代	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+entity: 中国	type: GPE
+entity: 第九	type: ORDINAL
+entity: 十八周岁	type: DATE
+
+Sentence sentiment= 1
+
+
+第十五条  受理国籍申请的机关，在国内为当地市、县公安局，在国外为中国外交代表机关和领事机关。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 国内	lemma: 国内	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 国外	lemma: 国外	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 外交	lemma: 外交	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 领事	lemma: 领事	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 中国	type: GPE
+
+Sentence sentiment= 1
+
+
+第十六条  加入、退出和恢复中国国籍的申请，由中华人民共和国公安部审批。经批准的，由公安部发给证书。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 加入	lemma: 加入	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 退出	lemma: 退出	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 审批	lemma: 审批	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 发给	lemma: 发给	upos: VERB	xpos: VV	feats: _
+word: 证书	lemma: 证书	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中华人民共和国公安部	type: ORG
+entity: 公安部	type: ORG
+
+Sentence sentiment= 1
+
+
+第十七条  本法公布前，已经取得中国国籍的或已经丧失中国国籍的，继续有效。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 已经	lemma: 已经	upos: ADV	xpos: RB	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 已经	lemma: 已经	upos: ADV	xpos: RB	feats: _
+word: 丧失	lemma: 丧失	upos: VERB	xpos: VV	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 国籍	lemma: 国籍	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+
+Sentence sentiment= 0
+
+
+第十八条  本法自公布之日起施行。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+

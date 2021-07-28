@@ -1,0 +1,1177 @@
+PA011-MA of Public Security in the hospitality industry-C
+旅馆业治安管理办法
+
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第一条  为了保障旅馆业的正常经营和旅客的生命财物安全，维护社会治安，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 正常	lemma: 正常	upos: ADJ	xpos: JJ	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 生命	lemma: 生命	upos: NOUN	xpos: NN	feats: _
+word: 财物	lemma: 财物	upos: NOUN	xpos: NN	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二条  凡经营接待旅客住宿的旅馆、饭店、宾馆、招待所、客货栈、车马店、浴池等（以下统称旅馆），不论是国营、集体经营，还是合伙经营、个体经营、中外合资、中外合作经营，不论是专营还是兼营，不论是常年经营，还是季节性经营，都必须遵守本办法。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 接待	lemma: 接待	upos: VERB	xpos: VV	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 住宿	lemma: 住宿	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 饭店	lemma: 饭店	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 宾馆	lemma: 宾馆	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 招待	lemma: 招待	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 客货	lemma: 客货	upos: NOUN	xpos: NN	feats: _
+word: 栈	lemma: 栈	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 车马	lemma: 车马	upos: NOUN	xpos: NN	feats: _
+word: 店	lemma: 店	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 浴池	lemma: 浴池	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 统称	lemma: 统称	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不论	lemma: 不论	upos: ADP	xpos: IN	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 国营	lemma: 国营	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 还是	lemma: 还是	upos: ADV	xpos: RB	feats: _
+word: 合伙	lemma: 合伙	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 个体	lemma: 个体	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 中外	lemma: 中外	upos: NOUN	xpos: NN	feats: _
+word: 合资	lemma: 合资	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 中外	lemma: 中外	upos: NOUN	xpos: NN	feats: _
+word: 合作	lemma: 合作	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不论	lemma: 不论	upos: ADP	xpos: IN	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 专营	lemma: 专营	upos: VERB	xpos: VV	feats: _
+word: 还是	lemma: 还是	upos: ADV	xpos: RB	feats: _
+word: 兼营	lemma: 兼营	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不论	lemma: 不论	upos: ADP	xpos: IN	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 常年	lemma: 常年	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 还是	lemma: 还是	upos: CCONJ	xpos: CC	feats: _
+word: 季节	lemma: 季节	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三条  开办旅馆，其房屋建二、消防设备、出入口和通道等，必须符合《中华人民共和国消防条例》等有关规定，并且要具备必要的防盗安全设施。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 开	lemma: 开	upos: VERB	xpos: VV	feats: _
+word: 办旅	lemma: 办旅	upos: VERB	xpos: VV	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 房屋	lemma: 房屋	upos: NOUN	xpos: NN	feats: _
+word: 建二	lemma: 建二	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 消防	lemma: 消防	upos: NOUN	xpos: NN	feats: _
+word: 设备	lemma: 设备	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 出入	lemma: 出入	upos: VERB	xpos: VV	feats: _
+word: 口	lemma: 口	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 通道	lemma: 通道	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 消防	lemma: 消防	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并且	lemma: 并且	upos: ADV	xpos: RB	feats: _
+word: 要	lemma: 要	upos: AUX	xpos: MD	feats: _
+word: 具备	lemma: 具备	upos: VERB	xpos: VV	feats: _
+word: 必要	lemma: 必要	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 防盗	lemma: 防盗	upos: NOUN	xpos: NN	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+entity: 建二	type: CARDINAL
+entity: 中华人民共和国消防条例	type: LAW
+
+Sentence sentiment= 2
+
+
+第四条  申请开办旅馆，应经主管部门审查批准，经当地公安机关签署意见，向工商行政管理部门申请登记，领取营业执照后，方准开业。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申	lemma: 申	upos: PROPN	xpos: NNP	feats: _
+word: 请	lemma: 请	upos: VERB	xpos: VV	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应经	lemma: 应经	upos: VERB	xpos: VV	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 审查	lemma: 审查	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 签署	lemma: 签署	upos: VERB	xpos: VV	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 营业	lemma: 营业	upos: NOUN	xpos: NN	feats: _
+word: 执照	lemma: 执照	upos: NOUN	xpos: NN	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方准	lemma: 方准	upos: NOUN	xpos: NN	feats: _
+word: 开业	lemma: 开业	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    经批准开业的旅馆，如有歇业、转业、合并、迁移、改变名称等情况，应当在工商行政管理部门办理变更登记后三日内，向当地的县、市公安局、公安分局备案。
+
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 开业	lemma: 开业	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 如	lemma: 如	upos: VERB	xpos: VV	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 歇业	lemma: 歇业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 转业	lemma: 转业	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 合并	lemma: 合并	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 迁移	lemma: 迁移	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 改变	lemma: 改变	upos: VERB	xpos: VV	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 变	lemma: 变	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: DET	xpos: DT	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 市	lemma: 市	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 分局	lemma: 分局	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三日	type: DATE
+entity: 公安分局	type: ORG
+
+Sentence sentiment= 1
+
+
+第五条  经营旅馆，必须遵守国家的法律，建立各项安全管理制度，设置治安保卫组织或者指定安全保卫人员。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 旅	lemma: 旅	upos: PART	xpos: SFN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 各项	lemma: 各项	upos: DET	xpos: DT	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 设置	lemma: 设置	upos: VERB	xpos: VV	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 保卫	lemma: 保卫	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 指定	lemma: 指定	upos: VERB	xpos: VV	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 保卫	lemma: 保卫	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第六条  旅馆接待旅客住宿必须登记。登记时，应当查验旅客的身份证件，按规定的项目如实登记。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 接待	lemma: 接待	upos: VERB	xpos: VV	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 住宿	lemma: 住宿	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 查验	lemma: 查验	upos: VERB	xpos: VV	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 身份	lemma: 身份	upos: NOUN	xpos: NN	feats: _
+word: 证件	lemma: 证件	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 项目	lemma: 项目	upos: NOUN	xpos: NN	feats: _
+word: 如实	lemma: 如实	upos: ADV	xpos: RB	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    接待境外旅客住宿，还应当在二十四小时内向当地公安机关报送住宿登记表。
+
+word: 接待	lemma: 接待	upos: VERB	xpos: VV	feats: _
+word: 境外	lemma: 境外	upos: NOUN	xpos: NN	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 住宿	lemma: 住宿	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 二十四	lemma: 二十四	upos: NUM	xpos: CD	feats: NumType=Card
+word: 小时	lemma: 小时	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 报送	lemma: 报送	upos: VERB	xpos: VV	feats: _
+word: 住	lemma: 住	upos: VERB	xpos: VV	feats: _
+word: 宿登	lemma: 宿登	upos: PROPN	xpos: NNP	feats: _
+word: 记表	lemma: 记表	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 二十四小时	type: TIME
+
+Sentence sentiment= 1
+
+
+第七条  旅馆应当设置旅客财物保管箱、柜或者保管室、保险柜，指定专人负责保管工作。对旅客寄存的财物，要建立登记、领取和交接制度。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 设置	lemma: 设置	upos: VERB	xpos: VV	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 财物	lemma: 财物	upos: NOUN	xpos: NN	feats: _
+word: 保管	lemma: 保管	upos: VERB	xpos: VV	feats: _
+word: 箱	lemma: 箱	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 柜	lemma: 柜	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 保管	lemma: 保管	upos: VERB	xpos: VV	feats: _
+word: 室	lemma: 室	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 保险	lemma: 保险	upos: NOUN	xpos: NN	feats: _
+word: 柜	lemma: 柜	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 指定	lemma: 指定	upos: VERB	xpos: VV	feats: _
+word: 专人	lemma: 专人	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 保管	lemma: 保管	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 寄存	lemma: 寄存	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 财物	lemma: 财物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 要	lemma: 要	upos: AUX	xpos: MD	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 交接	lemma: 交接	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第八条  旅馆对旅客遗留的物品，应当妥为保管，设法归还原主或揭示招领；经招领三个月后无人认领的，要登记造册，送当地公安机关按拾遗物品处理。对违禁物品和可疑物品，应当及时报告公安机关处理。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 遗留	lemma: 遗留	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 物品	lemma: 物品	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 妥	lemma: 妥	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 保管	lemma: 保管	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 设法	lemma: 设法	upos: VERB	xpos: VV	feats: _
+word: 归	lemma: 归	upos: VERB	xpos: VV	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 原主	lemma: 原主	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 揭示	lemma: 揭示	upos: VERB	xpos: VV	feats: _
+word: 招领	lemma: 招领	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 招领	lemma: 招领	upos: VERB	xpos: VV	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 无人	lemma: 无人	upos: VERB	xpos: VV	feats: _
+word: 认领	lemma: 认领	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 要	lemma: 要	upos: AUX	xpos: MD	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 造册	lemma: 造册	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 送当	lemma: 送当	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 按拾	lemma: 按拾	upos: VERB	xpos: VV	feats: _
+word: 遗物	lemma: 遗物	upos: NOUN	xpos: NN	feats: _
+word: 品	lemma: 品	upos: PART	xpos: SFN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 违禁	lemma: 违禁	upos: NOUN	xpos: NN	feats: _
+word: 物品	lemma: 物品	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 疑物品	lemma: 疑物品	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 报告	lemma: 报告	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+entity: 三个月	type: DATE
+
+Sentence sentiment= 1
+
+
+第九条  旅馆工作人员发现违法犯罪分子，行迹可疑的人员和被公安机关通辑的罪犯，应当立即向当地公安机关报告，不得知情不报或隐瞒包庇。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 发现	lemma: 发现	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 分子	lemma: 分子	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 行迹	lemma: 行迹	upos: NOUN	xpos: NN	feats: _
+word: 可疑	lemma: 可疑	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 通辑	lemma: 通辑	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 罪犯	lemma: 罪犯	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 立即	lemma: 立即	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 知情	lemma: 知情	upos: VERB	xpos: VV	feats: _
+word: 不报	lemma: 不报	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 隐瞒	lemma: 隐瞒	upos: VERB	xpos: VV	feats: _
+word: 包庇	lemma: 包庇	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十条  在旅馆内开办舞厅、音乐茶座等娱乐、业务场所的，除执行本办法有关规定外，还应当按照国家和当地政府的有关规定管理。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 开办舞	lemma: 开办舞	upos: VERB	xpos: VV	feats: _
+word: 厅	lemma: 厅	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 音乐	lemma: 音乐	upos: NOUN	xpos: NN	feats: _
+word: 茶座	lemma: 茶座	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 娱乐	lemma: 娱乐	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 场所	lemma: 场所	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 除	lemma: 除	upos: ADP	xpos: IN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 外	lemma: 外	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十一条  严禁旅客将易燃、易爆、剧毒、腐蚀性和放射性等危险物品带入旅馆。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 严禁	lemma: 严禁	upos: ADJ	xpos: JJ	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 易燃	lemma: 易燃	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 易爆	lemma: 易爆	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 剧毒	lemma: 剧毒	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 腐蚀	lemma: 腐蚀	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 放射	lemma: 放射	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 危险	lemma: 危险	upos: ADJ	xpos: JJ	feats: _
+word: 物品	lemma: 物品	upos: NOUN	xpos: NN	feats: _
+word: 带入	lemma: 带入	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十二条  旅馆内，严禁卖淫、嫖宿、赌博、吸毒、传播淫秽物品等违法犯罪活动。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 严禁	lemma: 严禁	upos: ADJ	xpos: JJ	feats: _
+word: 卖淫	lemma: 卖淫	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 嫖宿	lemma: 嫖宿	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 赌博	lemma: 赌博	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 吸毒	lemma: 吸毒	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 传播	lemma: 传播	upos: VERB	xpos: VV	feats: _
+word: 淫秽	lemma: 淫秽	upos: NOUN	xpos: NN	feats: _
+word: 物品	lemma: 物品	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十三条  旅馆内，不得酗酒滋事、大声喧哗，影响他人休息，旅客不得私自留客住宿或者转让床位。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 酗酒	lemma: 酗酒	upos: VERB	xpos: VV	feats: _
+word: 滋事	lemma: 滋事	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 大声	lemma: 大声	upos: VERB	xpos: VV	feats: _
+word: 喧哗	lemma: 喧哗	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 影响	lemma: 影响	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 休息	lemma: 休息	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 私自	lemma: 私自	upos: ADV	xpos: RB	feats: _
+word: 留客	lemma: 留客	upos: VERB	xpos: VV	feats: _
+word: 住宿	lemma: 住宿	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 转让	lemma: 转让	upos: VERB	xpos: VV	feats: _
+word: 床位	lemma: 床位	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十四条  公安机关对旅馆治安管理的职责是，指导、监督旅馆建立各项安全管理制度和落实安全防范措施，协助旅馆对工作人员进行安全业务知识的培训，依法惩办侵犯旅馆和旅客合法权益的违法犯罪分子。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 职责	lemma: 职责	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 指导	lemma: 指导	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 各项	lemma: 各项	upos: DET	xpos: DT	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 落实	lemma: 落实	upos: VERB	xpos: VV	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 防范	lemma: 防范	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 知识	lemma: 知识	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 培训	lemma: 培训	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 惩办	lemma: 惩办	upos: VERB	xpos: VV	feats: _
+word: 侵犯	lemma: 侵犯	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 合法	lemma: 合法	upos: NOUN	xpos: NN	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 分子	lemma: 分子	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    公安人员到旅馆执行公务时，应当出示证件，严格依法办事，要文明礼貌待人，维护旅馆的正常经营和旅客的合法权益。旅馆工作人员和旅客应当予以协助。
+
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 到	lemma: 到	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 公务	lemma: 公务	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 出示	lemma: 出示	upos: VERB	xpos: VV	feats: _
+word: 证件	lemma: 证件	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 严格	lemma: 严格	upos: ADV	xpos: RB	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 办事	lemma: 办事	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 要	lemma: 要	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 礼貌	lemma: 礼貌	upos: NOUN	xpos: NN	feats: _
+word: 待人	lemma: 待人	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 正常	lemma: 正常	upos: ADJ	xpos: JJ	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 旅客	lemma: 旅客	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当予	lemma: 当予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 协助	lemma: 协助	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十五条  违反本办法第四条规定开办旅馆的，公安机关可以酌情给予警造或者处以二百元以下罚款；未经登记，私自开业的，公安机关应当协助工商行政管理部门依法处理。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 酌情	lemma: 酌情	upos: VERB	xpos: VV	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 警造	lemma: 警造	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 二百	lemma: 二百	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 未经	lemma: 未经	upos: VERB	xpos: VV	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 私自	lemma: 私自	upos: ADV	xpos: RB	feats: _
+word: 开业	lemma: 开业	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 第四	type: ORDINAL
+entity: 二百元	type: MONEY
+
+Sentence sentiment= 0
+
+
+第十六条  旅馆工作人员违反本办法第九条规定的，公安机关可以酌情给予警告或者处以二百元以下罚款；情节严重构成犯罪的，依法追究刑事责任。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 旅	lemma: 旅	upos: NOUN	xpos: NN	feats: _
+word: 馆	lemma: 馆	upos: PART	xpos: SFN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本办	lemma: 本办	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 酌情	lemma: 酌情	upos: VERB	xpos: VV	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 警告	lemma: 警告	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 二百	lemma: 二百	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 情节	lemma: 情节	upos: NOUN	xpos: NN	feats: _
+word: 严重	lemma: 严重	upos: ADV	xpos: RB	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+entity: 本办法	type: LAW
+entity: 第九	type: ORDINAL
+entity: 二百元	type: MONEY
+
+Sentence sentiment= 0
+
+
+    旅馆负责人参与违法犯罪活动，其所经营的旅馆已成为犯罪活动场所的，公安机关除依法追究其责任外，对该旅馆还应当会同工商行政管理部门依法处理。
+
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 参与	lemma: 参与	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 成	lemma: 成	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 场所	lemma: 场所	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 除	lemma: 除	upos: ADV	xpos: RB	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 责	lemma: 责	upos: NOUN	xpos: NN	feats: _
+word: 任外	lemma: 任外	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 该	lemma: 该	upos: DET	xpos: DT	feats: _
+word: 旅馆	lemma: 旅馆	upos: NOUN	xpos: NN	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 同	lemma: 同	upos: ADP	xpos: IN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十七条  违反本办法第六、十一、十二条规定的，依照《中华人民共和国治安管理处罚条例》有关条款的规定，处罚有关人员；发生重大事故、造成严重后果构成犯罪的，依法追究刑事责任。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 十一	lemma: 十一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 十二	lemma: 十二	upos: NUM	xpos: CD	feats: NumType=Card
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 条款	lemma: 条款	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 重大	lemma: 重大	upos: ADJ	xpos: JJ	feats: _
+word: 事故	lemma: 事故	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 严重	lemma: 严重	upos: ADJ	xpos: JJ	feats: _
+word: 后果	lemma: 后果	upos: NOUN	xpos: NN	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 第六	type: ORDINAL
+entity: 十一	type: ORDINAL
+entity: 十二条	type: CARDINAL
+entity: 中华人民共和国治安管理处罚条例	type: LAW
+
+Sentence sentiment= 0
+
+
+第十八条  当事人对公安机关的行政处罚决定不服的，按照《中华人民共和国治安管理处罚条例》第三十九条规定的程序办理。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 第三十九	lemma: 第三十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 程序	lemma: 程序	upos: NOUN	xpos: NN	feats: _
+word: 办理	lemma: 办理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+entity: 中华人民共和国治安管理处罚条例	type: LAW
+entity: 第三十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十九条  省、自治区、直辖市公安厅（局）可根据本办法制定实施细则，报请当地人民政府批准后施行，并报公安部备案。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 省	lemma: 省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 厅	lemma: 厅	upos: PART	xpos: SFN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 局	lemma: 局	upos: NOUN	xpos: NN	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本办	lemma: 本办	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 细则	lemma: 细则	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 报请	lemma: 报请	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 报公	lemma: 报公	upos: VERB	xpos: VV	feats: _
+word: 安部	lemma: 安部	upos: PROPN	xpos: NNP	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十条  本办法自公布之日起施行。１９５１年８月１５日公布的《城市旅栈业暂行管理规则》同时废止。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: １９５１	lemma: １９５１	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ８	lemma: ８	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １５	lemma: １５	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PART	xpos: SFN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 城市	lemma: 城市	upos: NOUN	xpos: NN	feats: _
+word: 旅栈	lemma: 旅栈	upos: NOUN	xpos: NN	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 暂行	lemma: 暂行	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 规则	lemma: 规则	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+entity: １９５１年	type: DATE
+entity: ８月１５日	type: DATE
+
+Sentence sentiment= 1
+
+

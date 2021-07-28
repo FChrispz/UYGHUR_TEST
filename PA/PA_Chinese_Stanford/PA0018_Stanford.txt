@@ -1,0 +1,1483 @@
+PA018-Measures for compulsory drug rehabilitation-C
+强制戒毒办法
+
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+
+
+
+
+Sentence sentiment= 0
+
+
+第一条  为了教育和帮助吸食、注射毒品成瘾人员戒毒,保护公民身心健康,维护社会治安秩序,根据《全国人民代表大会常务委员会关于禁毒的决定》,制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 帮助	lemma: 帮助	upos: VERB	xpos: VV	feats: _
+word: 吸食	lemma: 吸食	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 注射	lemma: 注射	upos: VERB	xpos: VV	feats: _
+word: 毒品	lemma: 毒品	upos: NOUN	xpos: NN	feats: _
+word: 成瘾	lemma: 成瘾	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 戒毒,	lemma: 戒毒,	upos: NUM	xpos: CD	feats: NumType=Card
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 身心	lemma: 身心	upos: NOUN	xpos: NN	feats: _
+word: 健康	lemma: 健康	upos: NOUN	xpos: NN	feats: _
+word: ,维	lemma: ,维	upos: PROPN	xpos: NNP	feats: _
+word: 护社	lemma: 护社	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 秩序,根据	lemma: 秩序,根据	upos: NOUN	xpos: NN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 禁毒	lemma: 禁毒	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ,制	lemma: ,制	upos: VERB	xpos: VV	feats: _
+word: 定本	lemma: 定本	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 全国人民代表大会	type: ORG
+
+Sentence sentiment= 0
+
+
+第二条  本办法所称强制戒毒,是指对吸食、注射毒品成瘾人员,在一定时期内通过行政措施对其强制进行药物治疗、心理治疗和法制教育、道德教育,使其戒除毒瘾。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 强	lemma: 强	upos: PART	xpos: PFA	feats: _
+word: 制戒	lemma: 制戒	upos: NOUN	xpos: NN	feats: _
+word: 毒,	lemma: 毒,	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 指	lemma: 指	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 吸食	lemma: 吸食	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 注射	lemma: 注射	upos: VERB	xpos: VV	feats: _
+word: 毒品	lemma: 毒品	upos: NOUN	xpos: NN	feats: _
+word: 成	lemma: 成	upos: VERB	xpos: VV	feats: _
+word: 瘾	lemma: 瘾	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 员,	lemma: 员,	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 一定	lemma: 一定	upos: ADJ	xpos: JJ	feats: _
+word: 时期	lemma: 时期	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 药物	lemma: 药物	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 心理	lemma: 心理	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 法制	lemma: 法制	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 道德	lemma: 道德	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: ,使	lemma: ,使	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 戒除	lemma: 戒除	upos: NOUN	xpos: NN	feats: _
+word: 毒瘾	lemma: 毒瘾	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第三条  强制戒毒工作由公安机关主管。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    县级以上地方各级人民政府卫生部门、民政部门,应当配合同级公安机关做好强制戒毒工作。
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民政	lemma: 民政	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ,应	lemma: ,应	upos: VERB	xpos: VV	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 配合	lemma: 配合	upos: VERB	xpos: VV	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 做好	lemma: 做好	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第四条  强制戒毒所的设置,由省、自治区、直辖市人民政府根据本行政区域内实施强制戒毒的实际需要统一规划,由县级以上人民政府公安机关提出方案,报同级人民政府批准。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: LS	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强	lemma: 强	upos: PART	xpos: PFA	feats: _
+word: 制戒	lemma: 制戒	upos: NOUN	xpos: NN	feats: _
+word: 毒所	lemma: 毒所	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 设置	lemma: 设置	upos: VERB	xpos: VV	feats: _
+word: ,由	lemma: ,由	upos: PROPN	xpos: NNP	feats: _
+word: 省	lemma: 省	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: ,由	lemma: ,由	upos: NUM	xpos: CD	feats: NumType=Card
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ,报	lemma: ,报	upos: PROPN	xpos: NNP	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+    县级以上地方各级人民政府计划部门、财政部门,应当将强制戒毒所的基本建设投资和所需经费,列入本级基本建设计划和财政预算。
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 计划	lemma: 计划	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 财政	lemma: 财政	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ,应	lemma: ,应	upos: VERB	xpos: VV	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 投资	lemma: 投资	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 需经	lemma: 需经	upos: VERB	xpos: VV	feats: _
+word: 费,	lemma: 费,	upos: PROPN	xpos: NNP	feats: _
+word: 列入	lemma: 列入	upos: VERB	xpos: VV	feats: _
+word: 本级	lemma: 本级	upos: NOUN	xpos: NN	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 计划	lemma: 计划	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 财政	lemma: 财政	upos: NOUN	xpos: NN	feats: _
+word: 预算	lemma: 预算	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第五条  对需要送入强制戒毒所的吸食、注射毒品成瘾人员(以下简称戒毒人员)实施强制戒毒,由县级人民政府公安机关决定。强制戒毒决定书应当于戒毒人员入所前交给本人。强制戒毒决定应当自作出决定之日起3日内通知戒毒人员的家属、所在单位和户口所在地公安派出所。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 送入	lemma: 送入	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 吸食	lemma: 吸食	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 注射	lemma: 注射	upos: VERB	xpos: VV	feats: _
+word: 毒品	lemma: 毒品	upos: NOUN	xpos: NN	feats: _
+word: 成瘾	lemma: 成瘾	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: (	lemma: (	upos: PUNCT	xpos: HYPH	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 简称	lemma: 简称	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: )	lemma: )	upos: PUNCT	xpos: HYPH	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: ,由	lemma: ,由	upos: PROPN	xpos: NNP	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 入	lemma: 入	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 前交	lemma: 前交	upos: VERB	xpos: VV	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 自作	lemma: 自作	upos: VERB	xpos: VV	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 3	lemma: 3	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地公安	lemma: 地公安	upos: PROPN	xpos: NNP	feats: _
+word: 派	lemma: 派	upos: PART	xpos: SFN	feats: _
+word: 出所	lemma: 出所	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+entity: 3日	type: DATE
+
+Sentence sentiment= 2
+
+
+第六条  强制戒毒期限为3个月至6个月,自入所之日起计算。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强	lemma: 强	upos: PART	xpos: PFA	feats: _
+word: 制戒	lemma: 制戒	upos: VERB	xpos: VV	feats: _
+word: 毒	lemma: 毒	upos: PART	xpos: SFN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 3	lemma: 3	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 至	lemma: 至	upos: CCONJ	xpos: CC	feats: _
+word: 6	lemma: 6	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月,	lemma: 月,	upos: NOUN	xpos: NN	feats: _
+word: 自入	lemma: 自入	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 计算	lemma: 计算	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+entity: 3个月	type: DATE
+
+Sentence sentiment= 2
+
+
+    对强制戒毒期满仍未戒除毒瘾的戒毒人员,强制戒毒所可以提出意见,报原作出决定的公安机关批准,延长强制戒毒期限;但是,实际执行的强制戒毒期限连续计算不超过1年。
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期满	lemma: 期满	upos: VERB	xpos: VV	feats: _
+word: 仍	lemma: 仍	upos: ADV	xpos: RB	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 戒除	lemma: 戒除	upos: VERB	xpos: VV	feats: _
+word: 毒瘾	lemma: 毒瘾	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: ,强	lemma: ,强	upos: NUM	xpos: CD	feats: NumType=Card
+word: 制	lemma: 制	upos: PART	xpos: SFN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: ,报	lemma: ,报	upos: VERB	xpos: VV	feats: _
+word: 原作	lemma: 原作	upos: NOUN	xpos: NN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ,延	lemma: ,延	upos: VERB	xpos: VV	feats: _
+word: 长	lemma: 长	upos: PART	xpos: SFN	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: ;	lemma: ;	upos: PUNCT	xpos: .	feats: _
+
+
+word: 但是	lemma: 但是	upos: ADV	xpos: RB	feats: _
+word: ,	lemma: ,	upos: PUNCT	xpos: ,	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 连续	lemma: 连续	upos: ADV	xpos: RB	feats: _
+word: 计算	lemma: 计算	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 1年	type: DATE
+
+Sentence sentiment= 0
+
+
+第七条  戒毒人员对强制戒毒决定和延长强制戒毒期限不服的,可以依照《行政复议条例》的规定申请复议;对复议决定不服的,可以依照《中华人民共和国行政诉讼法》的规定向人民法院提起诉讼。戒毒人员也可以直接向人民法院提起诉讼。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 延长	lemma: 延长	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,	lemma: ,	upos: X	xpos: FW	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: ;	lemma: ;	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,	lemma: ,	upos: X	xpos: FW	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 诉讼	lemma: 诉讼	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 提起	lemma: 提起	upos: VERB	xpos: VV	feats: _
+word: 诉讼	lemma: 诉讼	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 提起	lemma: 提起	upos: VERB	xpos: VV	feats: _
+word: 诉讼	lemma: 诉讼	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+entity: 行政复议条例	type: LAW
+entity: 中华人民共和国行政诉讼法	type: LAW
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第八条  戒毒人员进入强制戒毒所时,必须接受强制戒毒所的检查。强制戒毒所以外人员给戒毒人员的物品、信件,必须经强制戒毒所的工作人员检查。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 进入	lemma: 进入	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 时,	lemma: 时,	upos: PROPN	xpos: NNP	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所以	lemma: 所以	upos: ADV	xpos: RB	feats: _
+word: 外人	lemma: 外人	upos: NOUN	xpos: NN	feats: _
+word: 员给	lemma: 员给	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 物品	lemma: 物品	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 信件	lemma: 信件	upos: NOUN	xpos: NN	feats: _
+word: ,必	lemma: ,必	upos: ADV	xpos: RB	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒所	lemma: 戒毒所	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第九条  强制戒毒所对戒毒人员应当按照性别实行分别管理,女性戒毒人员应当由女性工作人员管理。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所对	lemma: 所对	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 性别	lemma: 性别	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 分别	lemma: 分别	upos: ADV	xpos: RB	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: ,女	lemma: ,女	upos: PROPN	xpos: NNP	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 女性	lemma: 女性	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十条  强制戒毒所工作人员实行依法管理,严禁打骂、体罚和侮辱戒毒人员。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: ,严	lemma: ,严	upos: NUM	xpos: CD	feats: NumType=Card
+word: 禁	lemma: 禁	upos: NOUN	xpos: NN	feats: _
+word: 打	lemma: 打	upos: VERB	xpos: VV	feats: _
+word: 骂	lemma: 骂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 体罚	lemma: 体罚	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 侮辱	lemma: 侮辱	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    戒毒人员必须遵守强制戒毒所的规章制度,服从管理,配合治疗,接受教育。
+
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规章	lemma: 规章	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: ,服	lemma: ,服	upos: ADV	xpos: RB	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: ,配	lemma: ,配	upos: VERB	xpos: VV	feats: _
+word: 合治	lemma: 合治	upos: VERB	xpos: VV	feats: _
+word: 疗,	lemma: 疗,	upos: NOUN	xpos: NN	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十一条  强制戒毒所对戒毒人员采取药物治疗措施,应当建立治疗档案;使用麻醉药品和精神药品,必须依照有关法律、行政法规的规定执行。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所对	lemma: 所对	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 药物	lemma: 药物	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ,应	lemma: ,应	upos: VERB	xpos: VV	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 档案	lemma: 档案	upos: NOUN	xpos: NN	feats: _
+word: ;	lemma: ;	upos: PUNCT	xpos: ,	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 麻醉	lemma: 麻醉	upos: NOUN	xpos: NN	feats: _
+word: 药品	lemma: 药品	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 药品	lemma: 药品	upos: NOUN	xpos: NN	feats: _
+word: ,必	lemma: ,必	upos: ADV	xpos: RB	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十二条  强制戒毒所对戒毒人员应当采取必要的保护措施,防止发生戒毒人员伤亡事故。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所对	lemma: 所对	upos: ADJ	xpos: JJ	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 必要	lemma: 必要	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ,防	lemma: ,防	upos: VERB	xpos: VV	feats: _
+word: 止	lemma: 止	upos: VERB	xpos: VV	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 伤亡	lemma: 伤亡	upos: NOUN	xpos: NN	feats: _
+word: 事故	lemma: 事故	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    强制戒毒所对因毒瘾发作可能发生自伤、自残或者实施其他危害行为的戒毒人员,可以采取保护性措施。
+
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所对	lemma: 所对	upos: ADV	xpos: RB	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 毒瘾	lemma: 毒瘾	upos: NOUN	xpos: NN	feats: _
+word: 发作	lemma: 发作	upos: VERB	xpos: VV	feats: _
+word: 可能	lemma: 可能	upos: AUX	xpos: MD	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 自伤	lemma: 自伤	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自残	lemma: 自残	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 员,	lemma: 员,	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十三条  强制戒毒所除对戒毒人员进行药物治疗、心理治疗和法制教育、道德教育外,可以组织戒毒人员参加适度的劳动。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 除	lemma: 除	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 药物	lemma: 药物	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 心理	lemma: 心理	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 法制	lemma: 法制	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 道德	lemma: 道德	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 外,	lemma: 外,	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 适度	lemma: 适度	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 劳动	lemma: 劳动	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十四条  强制戒毒所应当允许戒毒人员的家属或者所在单位的有关人员探访。探访人员必须遵守强制戒毒所的规定。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 允许	lemma: 允许	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 探访	lemma: 探访	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 探访	lemma: 探访	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    戒毒人员在强制戒毒期间 ,遇有直系亲属病危、死亡或者有其他正当理由需要暂时离开强制戒毒所的,由其亲属或者所在单位担保,经强制戒毒所批准,可以离所,离所期限一般不超过3日。
+
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: ,遇	lemma: ,遇	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 直系	lemma: 直系	upos: ADJ	xpos: JJ	feats: _
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 病危	lemma: 病危	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 死亡	lemma: 死亡	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 正	lemma: 正	upos: PART	xpos: PFA	feats: _
+word: 当理	lemma: 当理	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 暂时	lemma: 暂时	upos: ADV	xpos: RB	feats: _
+word: 离开	lemma: 离开	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒	lemma: 戒	upos: PART	xpos: SFN	feats: _
+word: 毒所	lemma: 毒所	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,由	lemma: ,由	upos: NUM	xpos: CD	feats: NumType=Card
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 亲属	lemma: 亲属	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 担保	lemma: 担保	upos: VERB	xpos: VV	feats: _
+word: ,经	lemma: ,经	upos: ADV	xpos: RB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 批	lemma: 批	upos: VERB	xpos: VV	feats: _
+word: 准,	lemma: 准,	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 离	lemma: 离	upos: ADP	xpos: IN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: ,离	lemma: ,离	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 一般	lemma: 一般	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 3	lemma: 3	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 3日	type: DATE
+
+Sentence sentiment= 0
+
+
+第十五条  戒毒人员在强制戒毒期间的生活费和治疗费由本人或者其家属承担。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒	lemma: 戒	upos: NOUN	xpos: NN	feats: _
+word: 毒	lemma: 毒	upos: PART	xpos: SFN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 生活	lemma: 生活	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 治疗	lemma: 治疗	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十六条  戒毒人员在强制戒毒期间死亡的,应当由公安机关组织法医或者指定医生作出死亡鉴定,经同级人民检察院检验后,填写死亡通知书,通知死者家属、所在单位和户口所在地公安派出所;家属不予认领的尸体,由公安机关拍照后处理。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: 死亡	lemma: 死亡	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,应	lemma: ,应	upos: NOUN	xpos: NN	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 法医	lemma: 法医	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 指定	lemma: 指定	upos: NOUN	xpos: NN	feats: _
+word: 医生	lemma: 医生	upos: NOUN	xpos: NN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 死亡	lemma: 死亡	upos: NOUN	xpos: NN	feats: _
+word: 鉴定	lemma: 鉴定	upos: VERB	xpos: VV	feats: _
+word: ,经	lemma: ,经	upos: NOUN	xpos: NN	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 检察	lemma: 检察	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 检验	lemma: 检验	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ,填	lemma: ,填	upos: VERB	xpos: VV	feats: _
+word: 写	lemma: 写	upos: VERB	xpos: VV	feats: _
+word: 死亡	lemma: 死亡	upos: NOUN	xpos: NN	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: ,通	lemma: ,通	upos: PUNCT	xpos: ,	feats: _
+word: 知死	lemma: 知死	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 派	lemma: 派	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: ;	lemma: ;	upos: VERB	xpos: VV	feats: _
+word: 家	lemma: 家	upos: PART	xpos: SFN	feats: _
+word: 属	lemma: 属	upos: VERB	xpos: VV	feats: _
+word: 不予	lemma: 不予	upos: VERB	xpos: VV	feats: _
+word: 认领	lemma: 认领	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 尸体	lemma: 尸体	upos: NOUN	xpos: NN	feats: _
+word: ,	lemma: ,	upos: X	xpos: FW	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 拍照	lemma: 拍照	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    公安机关应当将死亡鉴定等有关情况报上一级公安机关备案。
+
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 死亡	lemma: 死亡	upos: VERB	xpos: VV	feats: _
+word: 鉴定	lemma: 鉴定	upos: VERB	xpos: VV	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 报上	lemma: 报上	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十七条  戒毒人员有检举、揭发违法犯罪行为或者有其他立功表现的,应当给予奖励。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 检举	lemma: 检举	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 揭发	lemma: 揭发	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 立功	lemma: 立功	upos: NOUN	xpos: NN	feats: _
+word: 表现	lemma: 表现	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,应	lemma: ,应	upos: NOUN	xpos: NN	feats: _
+word: 当	lemma: 当	upos: AUX	xpos: MD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 奖励	lemma: 奖励	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    戒毒人员有其他违法犯罪行为尚未处理的,应当依照有关法律、行政法规的规定处理。
+
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 犯罪	lemma: 犯罪	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 尚	lemma: 尚	upos: ADV	xpos: RB	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,应	lemma: ,应	upos: NOUN	xpos: NN	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十八条  公安机关决定强制戒毒或者批准延长强制戒毒期限届满的,强制戒毒所应当解除强制戒毒,由原作出决定的公安机关发给解除强制戒毒证明书,并通知其家属、所在单位和户口所在地公安派出所。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 延长	lemma: 延长	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: 届满	lemma: 届满	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,强	lemma: ,强	upos: NUM	xpos: CD	feats: NumType=Card
+word: 制	lemma: 制	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: ,	lemma: ,	upos: X	xpos: FW	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 原作	lemma: 原作	upos: NOUN	xpos: NN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 发给	lemma: 发给	upos: VERB	xpos: VV	feats: _
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 证明	lemma: 证明	upos: VERB	xpos: VV	feats: _
+word: 书,	lemma: 书,	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地公安	lemma: 地公安	upos: PROPN	xpos: NNP	feats: _
+word: 派	lemma: 派	upos: PART	xpos: SFN	feats: _
+word: 出所	lemma: 出所	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十九条  戒毒人员解除强制戒毒后,在升学、就业等方面不受歧视。解除强制戒毒的戒毒人员的家属、所在单位和户口所在地公安派出所应当继续对其进行帮助、教育,防止其再次吸食、注射毒品。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 后,	lemma: 后,	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 升学	lemma: 升学	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 就业	lemma: 就业	upos: VERB	xpos: VV	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方面	lemma: 方面	upos: NOUN	xpos: NN	feats: _
+word: 不受	lemma: 不受	upos: VERB	xpos: VV	feats: _
+word: 歧视	lemma: 歧视	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 解除	lemma: 解除	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 派出	lemma: 派出	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 帮助	lemma: 帮助	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: ,防	lemma: ,防	upos: NOUN	xpos: NN	feats: _
+word: 止	lemma: 止	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 再次	lemma: 再次	upos: ADV	xpos: RB	feats: _
+word: 吸食	lemma: 吸食	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 注射	lemma: 注射	upos: VERB	xpos: VV	feats: _
+word: 毒品	lemma: 毒品	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第二十条  吸食、注射毒品成瘾人员有下列情列之一,不宜收入强制戒毒所的,应当限期在强制戒毒所外戒毒:
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 吸食	lemma: 吸食	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 注射	lemma: 注射	upos: VERB	xpos: VV	feats: _
+word: 毒品	lemma: 毒品	upos: NOUN	xpos: NN	feats: _
+word: 成瘾	lemma: 成瘾	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情列	lemma: 情列	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ,	lemma: ,	upos: X	xpos: FW	feats: _
+word: 不宜	lemma: 不宜	upos: ADJ	xpos: JJ	feats: _
+word: 收入	lemma: 收入	upos: NOUN	xpos: NN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒	lemma: 戒	upos: PART	xpos: SFN	feats: _
+word: 毒所	lemma: 毒所	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ,应当	lemma: ,应当	upos: NOUN	xpos: NN	feats: _
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADV	xpos: RB	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所外	lemma: 所外	upos: NOUN	xpos: NN	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: :	lemma: :	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    (一)患有急性传染病或者其他严重疾病的;
+
+word: (一)	lemma: (一)	upos: X	xpos: FW	feats: _
+word: 患有	lemma: 患有	upos: VERB	xpos: VV	feats: _
+word: 急性	lemma: 急性	upos: NOUN	xpos: NN	feats: _
+word: 传染	lemma: 传染	upos: VERB	xpos: VV	feats: _
+word: 病	lemma: 病	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 严重	lemma: 严重	upos: ADJ	xpos: JJ	feats: _
+word: 疾病	lemma: 疾病	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ;	lemma: ;	upos: NOUN	xpos: NN	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    (二)怀孕或者正在哺乳自己未满一周岁婴儿的;
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 怀孕	lemma: 怀孕	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 正	lemma: 正	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 哺乳	lemma: 哺乳	upos: VERB	xpos: VV	feats: _
+word: 自己	lemma: 自己	upos: PRON	xpos: PRD	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 满	lemma: 满	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 周岁	lemma: 周岁	upos: NOUN	xpos: NNB	feats: _
+word: 婴儿	lemma: 婴儿	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ;	lemma: ;	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 一周岁	type: DATE
+
+Sentence sentiment= 2
+
+
+    (三)其他不适宜在强制戒毒所戒毒的。
+
+word: (三)	lemma: (三)	upos: X	xpos: FW	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 适宜	lemma: 适宜	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    对前款所列人员由公安机关向本人和其家属发出戒毒通知书,并由其户口所在地公安派出所负责监督、管理。
+
+word: 对前款	lemma: 对前款	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: PART	xpos: SFN	feats: _
+word: 列人	lemma: 列人	upos: VERB	xpos: VV	feats: _
+word: 员	lemma: 员	upos: PART	xpos: SFN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 本人	lemma: 本人	upos: PRON	xpos: PRD	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 家属	lemma: 家属	upos: NOUN	xpos: NN	feats: _
+word: 发出	lemma: 发出	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: VERB	xpos: VV	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 书,	lemma: 书,	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 户口	lemma: 户口	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 派出	lemma: 派出	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第二十一条  医疗单位开办戒毒脱瘾治疗业务,须经省、自治区、直辖市人民政府卫生部门按照有关规定批准,并报同级公安机关备案。医疗单位开办的戒毒脱瘾治疗业务,应当接受公安机关监督。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 医疗	lemma: 医疗	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 脱瘾	lemma: 脱瘾	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: ,须	lemma: ,须	upos: PROPN	xpos: NNP	feats: _
+word: 经省	lemma: 经省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: Voice=Cau
+word: ,并	lemma: ,并	upos: VERB	xpos: VV	feats: _
+word: 报	lemma: 报	upos: PART	xpos: SFN	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 医疗	lemma: 医疗	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 脱瘾	lemma: 脱瘾	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: ,应	lemma: ,应	upos: VERB	xpos: VV	feats: _
+word: 当	lemma: 当	upos: VERB	xpos: VV	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    任何个人不得开办戒毒脱瘾治疗业务。
+
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 戒毒	lemma: 戒毒	upos: NOUN	xpos: NN	feats: _
+word: 脱瘾	lemma: 脱瘾	upos: NOUN	xpos: NN	feats: _
+word: 治疗	lemma: 治疗	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十二条  本办法自发布之日起施行。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+
+Sentence sentiment= 1
+
+

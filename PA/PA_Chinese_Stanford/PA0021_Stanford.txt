@@ -1,0 +1,2690 @@
+PA021-Organic Law of the Villagers_ Committees-C
+中华人民共和国村民委员会组织法 
+
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+
+
+entity: 中华人民共和国村民委员会组织法	type: ORG
+
+Sentence sentiment= 2
+
+
+     
+
+
+
+Sentence sentiment= 2
+
+
+《中华人民共和国村民委员会组织法》已由中华人民共和国第九届全国人民代表大会常务委员会第五次会议于１９９８年１１月４日修订通过，现将修订后的《中华人民共和国村民委员会组织法》公布，自公布之日起施行。
+
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 于	lemma: 于	upos: ADP	xpos: IN	feats: _
+word: １９９８	lemma: １９９８	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １１	lemma: １１	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ４	lemma: ４	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 修订	lemma: 修订	upos: VERB	xpos: VV	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 现将	lemma: 现将	upos: NOUN	xpos: NN	feats: _
+word: 修订	lemma: 修订	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 中华人民共和国村民委员会组织法	type: LAW
+entity: 中华人民共和国第九届全国人民代表大会常务委员会第五次会议	type: EVENT
+entity: １９９８年	type: DATE
+entity: １１月	type: DATE
+entity: ４日	type: DATE
+entity: 中华人民共和国村民委员会组织法	type: LAW
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+    第一条  为了保障农村村民实行自治，由村民群众依法办理自己的事情，发展农村基层民主，促进农村社会主义物质文明和精神文明建设，根据宪法，制定本法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 群众	lemma: 群众	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 自己	lemma: 自己	upos: PRON	xpos: PRD	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事情	lemma: 事情	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发展	lemma: 发展	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 基层	lemma: 基层	upos: NOUN	xpos: NN	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 主义	lemma: 主义	upos: NOUN	xpos: NN	feats: _
+word: 物质	lemma: 物质	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 宪法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二条  村民委员会是村民自我管理、自我教育、自我业务的基层群众性自治组织，实行民主选举、民主决策、民主管理、民主监督。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 自我	lemma: 自我	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自我	lemma: 自我	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自我	lemma: 自我	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 基层	lemma: 基层	upos: NOUN	xpos: NN	feats: _
+word: 群众	lemma: 群众	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 决策	lemma: 决策	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    村民委员会办理本村的公共事务和公益事业，调解民间纠纷，协助维护社会治安，向人民政府反映村民的意见、要求和提出建议。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 事务	lemma: 事务	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 公益	lemma: 公益	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 民间	lemma: 民间	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 反映	lemma: 反映	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 建议	lemma: 建议	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第三条  中国共产党在农村的基层组织，按照中国共产党章程进行工作，发挥领导核心作用；依照宪法和法律，支持和保障村民开展自治活动、直接行使民主权利。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 共产	lemma: 共产	upos: VERB	xpos: VV	feats: _
+word: 党	lemma: 党	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 基层	lemma: 基层	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 共产	lemma: 共产	upos: VERB	xpos: VV	feats: _
+word: 党	lemma: 党	upos: PART	xpos: SFN	feats: _
+word: 章程	lemma: 章程	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发挥	lemma: 发挥	upos: VERB	xpos: VV	feats: _
+word: 领导	lemma: 领导	upos: VERB	xpos: VV	feats: _
+word: 核心	lemma: 核心	upos: NOUN	xpos: NN	feats: _
+word: 作用	lemma: 作用	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 支持	lemma: 支持	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 开展	lemma: 开展	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 行使	lemma: 行使	upos: VERB	xpos: VV	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+entity: 中国	type: GPE
+entity: 中国	type: GPE
+entity: 宪法	type: LAW
+
+Sentence sentiment= 2
+
+
+第四条  乡、民族乡、镇的人民政府对村民委员会的工作给予指导、支持和帮助，但是不得干预依法属于村民自治范围内的事项。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 指导	lemma: 指导	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 支持	lemma: 支持	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 帮助	lemma: 帮助	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但是	lemma: 但是	upos: ADV	xpos: RB	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 干预	lemma: 干预	upos: VERB	xpos: VV	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 属	lemma: 属	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    村民委员会协助乡、民族乡、镇的人民政府开展工作。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 开展	lemma: 开展	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第五条  村民委员会应当支持和组织村民依法发展各种形式的合作经济和其他经济，承担本村生产的业务和协调工作，促进农村生产建设和社会主义市场经济的发展。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 支持	lemma: 支持	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 发展	lemma: 发展	upos: VERB	xpos: VV	feats: _
+word: 各种	lemma: 各种	upos: DET	xpos: DT	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合作	lemma: 合作	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 协调	lemma: 协调	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 主义	lemma: 主义	upos: NOUN	xpos: NN	feats: _
+word: 市场	lemma: 市场	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    村民委员会应当尊重集体经济组织依法独立进行经济活动的自主权，维护以家庭承包经营为基础、统分结合的双层经营体制，保障集体经济组织和村民、承包经营户、联户或者合伙的合法的财产权和其他合法的权利和利益。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 尊重	lemma: 尊重	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 独立	lemma: 独立	upos: ADV	xpos: RB	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 自主	lemma: 自主	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 基础	lemma: 基础	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 统分	lemma: 统分	upos: NOUN	xpos: NN	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 层	lemma: 层	upos: NOUN	xpos: NNB	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 体制	lemma: 体制	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 经	lemma: 经	upos: VERB	xpos: VV	feats: _
+word: 营户	lemma: 营户	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 联户	lemma: 联户	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 合伙	lemma: 合伙	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    村民委员会依照法律规定，管理本村属于村农民集体所有的土地和其他财产，教育村民合理利用自然资源，保护和改善生态环境。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 属	lemma: 属	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 合理	lemma: 合理	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 自然	lemma: 自然	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 改善	lemma: 改善	upos: VERB	xpos: VV	feats: _
+word: 生态	lemma: 生态	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第六条  村民委员会应当宣传宪法、法律、法规和国家的>策，教育和推动村民履行法律规定的义务，爱护公共财产，维护村民的合法的权利和利益，发展文化教育，普及科技知识，促进村和村之间的团结、互助，开展多种形式的社会主义精神文明建设活动。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 宣传	lemma: 宣传	upos: VERB	xpos: VV	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: >策	lemma: >策	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 推动	lemma: 推动	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 义务	lemma: 义务	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 爱护	lemma: 爱护	upos: VERB	xpos: VV	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发展	lemma: 发展	upos: VERB	xpos: VV	feats: _
+word: 文化	lemma: 文化	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 普及	lemma: 普及	upos: VERB	xpos: VV	feats: _
+word: 科技	lemma: 科技	upos: NOUN	xpos: NN	feats: _
+word: 知识	lemma: 知识	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 村	lemma: 村	upos: PART	xpos: SFN	feats: _
+word: 和村	lemma: 和村	upos: NOUN	xpos: NN	feats: _
+word: 之间	lemma: 之间	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 团结	lemma: 团结	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 互助	lemma: 互助	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 开展	lemma: 开展	upos: VERB	xpos: VV	feats: _
+word: 多	lemma: 多	upos: NUM	xpos: CD	feats: NumType=Card
+word: 种	lemma: 种	upos: NOUN	xpos: NNB	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 主义	lemma: 主义	upos: NOUN	xpos: NN	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+entity: 宪法	type: LAW
+
+Sentence sentiment= 2
+
+
+第七条  多民族村民居住的村，村民委员会应当教育和引导村民加强民族团结、互相尊重、互相帮助。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 多	lemma: 多	upos: NUM	xpos: CD	feats: NumType=Card
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 引导	lemma: 引导	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 团结	lemma: 团结	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 互相	lemma: 互相	upos: ADV	xpos: RB	feats: _
+word: 尊重	lemma: 尊重	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 互相	lemma: 互相	upos: ADV	xpos: RB	feats: _
+word: 帮助	lemma: 帮助	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第八条  村民委员会根据村民居住状况、人口多少，按照便于群众自治的原则设立。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 居住	lemma: 居住	upos: NOUN	xpos: NN	feats: _
+word: 状况	lemma: 状况	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 人口	lemma: 人口	upos: NOUN	xpos: NN	feats: _
+word: 多少	lemma: 多少	upos: NUM	xpos: CD	feats: NumType=Card
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 便	lemma: 便	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 群众	lemma: 群众	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 设立	lemma: 设立	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    村民委员会的设立、撤销、范围调整，由乡、民族乡、镇的人民政府提出，经村民会议讨论同意后，报县级人民政府批准。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 设立	lemma: 设立	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 撤销	lemma: 撤销	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 调整	lemma: 调整	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: PROPN	xpos: NNP	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 报	lemma: 报	upos: PROPN	xpos: NNP	feats: _
+word: 县	lemma: 县	upos: PART	xpos: SFN	feats: _
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第九条  村民委员会由主任、副主任和委员共三至七人组成。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 主任	lemma: 主任	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 副	lemma: 副	upos: PART	xpos: PFA	feats: _
+word: 主任	lemma: 主任	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 共	lemma: 共	upos: ADV	xpos: RB	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 至	lemma: 至	upos: CCONJ	xpos: CC	feats: _
+word: 七	lemma: 七	upos: NUM	xpos: CD	feats: NumType=Card
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 组成	lemma: 组成	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+entity: 三	type: CARDINAL
+entity: 七	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    村民委员会成员中，妇女应当有适当的名额，多民族村民居住的村应当有人数较少的民族的成员。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 妇女	lemma: 妇女	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 适当	lemma: 适当	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 名额	lemma: 名额	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 多	lemma: 多	upos: NUM	xpos: CD	feats: NumType=Card
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村应	lemma: 村应	upos: NOUN	xpos: NN	feats: _
+word: 当有	lemma: 当有	upos: VERB	xpos: VV	feats: _
+word: 人数	lemma: 人数	upos: NOUN	xpos: NN	feats: _
+word: 较少	lemma: 较少	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    村民委员会成员不脱离生产，根据情况，可以给予适当补贴。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 脱离	lemma: 脱离	upos: VERB	xpos: VV	feats: _
+word: 生产	lemma: 生产	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 适当	lemma: 适当	upos: ADJ	xpos: JJ	feats: _
+word: 补贴	lemma: 补贴	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十条  村民委员会可以按照村民居住状况分设若干村民小组，小组长由村民小组会议推选。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 居住	lemma: 居住	upos: NOUN	xpos: NN	feats: _
+word: 状况	lemma: 状况	upos: NOUN	xpos: NN	feats: _
+word: 分设	lemma: 分设	upos: VERB	xpos: VV	feats: _
+word: 若干	lemma: 若干	upos: NUM	xpos: CD	feats: NumType=Card
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 小组	lemma: 小组	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 小组	lemma: 小组	upos: NOUN	xpos: NN	feats: _
+word: 长	lemma: 长	upos: PART	xpos: SFN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 小组	lemma: 小组	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 推选	lemma: 推选	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十一条  村民委员会主任、副主任和委员，由村民直接选举产生。任何组织或者个人不得指定、委派或者撤换村民委员会成员。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 主任	lemma: 主任	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 副	lemma: 副	upos: PART	xpos: PFA	feats: _
+word: 主任	lemma: 主任	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 产生	lemma: 产生	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 指定	lemma: 指定	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 委派	lemma: 委派	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 撤换	lemma: 撤换	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    村民委员会每届任期三年，届满应当及时举行换届选举。村民委员会成员可以连选连任。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 每届	lemma: 每届	upos: DET	xpos: DT	feats: _
+word: 任期	lemma: 任期	upos: NOUN	xpos: NN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 届	lemma: 届	upos: PROPN	xpos: NNP	feats: _
+word: 满应	lemma: 满应	upos: PROPN	xpos: NNP	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时举	lemma: 时举	upos: NOUN	xpos: NN	feats: _
+word: 行换	lemma: 行换	upos: VERB	xpos: VV	feats: _
+word: 届	lemma: 届	upos: PART	xpos: SFN	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 连选	lemma: 连选	upos: VERB	xpos: VV	feats: _
+word: 连任	lemma: 连任	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三年	type: DATE
+
+Sentence sentiment= 2
+
+
+第十二条  年满十八周岁的村民，不分民族、种族、性别、职业、家庭出身、宗教信仰、教育程度、财产状况、居住期限，都有选举权和被选举权；但是，依照法律被剥夺政治权利的人除外。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NN	feats: _
+word: 满	lemma: 满	upos: VERB	xpos: VV	feats: _
+word: 十八	lemma: 十八	upos: NUM	xpos: CD	feats: NumType=Card
+word: 周岁	lemma: 周岁	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不分	lemma: 不分	upos: VERB	xpos: VV	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 种族	lemma: 种族	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 性别	lemma: 性别	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 职业	lemma: 职业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 家庭	lemma: 家庭	upos: NOUN	xpos: NN	feats: _
+word: 出身	lemma: 出身	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 宗教	lemma: 宗教	upos: NOUN	xpos: NN	feats: _
+word: 信仰	lemma: 信仰	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 程度	lemma: 程度	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 状况	lemma: 状况	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 居住	lemma: 居住	upos: NOUN	xpos: NN	feats: _
+word: 期限	lemma: 期限	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 但是	lemma: 但是	upos: ADV	xpos: RB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 剥夺	lemma: 剥夺	upos: VERB	xpos: VV	feats: _
+word: 政治	lemma: 政治	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 除外	lemma: 除外	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+entity: 十八周岁	type: DATE
+
+Sentence sentiment= 0
+
+
+    有选举权和被选举权的村民名单，应当在选举日的二十日以前公布。
+
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 名单	lemma: 名单	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 日	lemma: 日	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 二十	lemma: 二十	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 以前	lemma: 以前	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 二十日以前	type: DATE
+
+Sentence sentiment= 2
+
+
+第十三条  村民委员会的选举，由村民选举委员会主持。村民选举委员会成员由村民会议或者各村民小组推选产生。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 主持	lemma: 主持	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 小组	lemma: 小组	upos: NOUN	xpos: NN	feats: _
+word: 推选	lemma: 推选	upos: VERB	xpos: VV	feats: _
+word: 产生	lemma: 产生	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十四条  选举村民委员会，由本村有选举权的村民直接提名候选人。候选人的名额应当多于应选名额。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 提名	lemma: 提名	upos: VERB	xpos: VV	feats: _
+word: 候选	lemma: 候选	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 候选	lemma: 候选	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 名额	lemma: 名额	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 多	lemma: 多	upos: ADJ	xpos: JJ	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 应选	lemma: 应选	upos: NOUN	xpos: NN	feats: _
+word: 名额	lemma: 名额	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    选举村民委员会，有选举权的村民的过半数投票，选举有效；候选人获得参加投票的村民的过半数的选票，始得当选。
+
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 过	lemma: 过	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 半数	lemma: 半数	upos: NOUN	xpos: NN	feats: _
+word: 投票	lemma: 投票	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 有效	lemma: 有效	upos: ADJ	xpos: JJ	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 候选	lemma: 候选	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 获得	lemma: 获得	upos: VERB	xpos: VV	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 投票	lemma: 投票	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 过半	lemma: 过半	upos: ADJ	xpos: JJ	feats: _
+word: 数	lemma: 数	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 选票	lemma: 选票	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 始得	lemma: 始得	upos: VERB	xpos: VV	feats: _
+word: 当选	lemma: 当选	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 半数	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    选举实行无记名投票、公开计票的方法，选举结果应当当场公布。选举时，设立秘密写票处。
+
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 无	lemma: 无	upos: VERB	xpos: VV	feats: _
+word: 记名	lemma: 记名	upos: NOUN	xpos: NN	feats: _
+word: 投票	lemma: 投票	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公开	lemma: 公开	upos: ADV	xpos: RB	feats: _
+word: 计票	lemma: 计票	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 选举	lemma: 选举	upos: NOUN	xpos: NN	feats: _
+word: 结果	lemma: 结果	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 当场	lemma: 当场	upos: NOUN	xpos: NN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 设立	lemma: 设立	upos: VERB	xpos: VV	feats: _
+word: 秘密	lemma: 秘密	upos: NOUN	xpos: NN	feats: _
+word: 写票	lemma: 写票	upos: VERB	xpos: VV	feats: _
+word: 处	lemma: 处	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    具体选举办法由省、自治区、直辖市的人民代表大会常务委员会规定。
+
+word: 具	lemma: 具	upos: VERB	xpos: VV	feats: _
+word: 体选	lemma: 体选	upos: NOUN	xpos: NN	feats: _
+word: 举办	lemma: 举办	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 省	lemma: 省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 人民代表大会	type: ORG
+
+Sentence sentiment= 1
+
+
+第十五条  以>胁、贿赂、伪造选票等不正当手段，妨害村民行使选举权、被选举权，破坏村民委员会选举的，村民有权向乡、民族乡、镇的人民代表大会和人民政府或者县级人民代表大会常务委员会和人民政府及其有关主管部门举报，有关机关应当负责调查并依法处理。以>胁、贿
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: >胁	lemma: >胁	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 贿赂	lemma: 贿赂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 伪造	lemma: 伪造	upos: NOUN	xpos: NN	feats: _
+word: 选票	lemma: 选票	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 手段	lemma: 手段	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 妨害	lemma: 妨害	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 行使	lemma: 行使	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 举报	lemma: 举报	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 调查	lemma: 调查	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: >胁	lemma: >胁	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 贿	lemma: 贿	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 人民代表大会	type: ORG
+entity: 人民代表大会	type: ORG
+entity: 人民政府	type: ORG
+
+Sentence sentiment= 0
+
+
+赂、伪造选票等不正当手段当选的，其当选无效。
+
+word: 赂	lemma: 赂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 伪造	lemma: 伪造	upos: NOUN	xpos: NN	feats: _
+word: 选票	lemma: 选票	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 正当	lemma: 正当	upos: ADJ	xpos: JJ	feats: _
+word: 手段	lemma: 手段	upos: NOUN	xpos: NN	feats: _
+word: 当选	lemma: 当选	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 当选	lemma: 当选	upos: VERB	xpos: VV	feats: _
+word: 无效	lemma: 无效	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十六条  本村五分之一以上有选举权的村民联名，可以要求罢免村民委员会成员。罢免要求应当提出罢免理由。被提出罢免的村民委员会成员有权提出申辩意见。村民委员会应当及时召开村民会议，投票表决罢免要求。罢免村民委员会成员须经有选举权的村民过半数通过。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 分	lemma: 分	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 联名	lemma: 联名	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 罢免	lemma: 罢免	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 罢免	lemma: 罢免	upos: VERB	xpos: VV	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 罢免	lemma: 罢免	upos: NOUN	xpos: NN	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 罢免	lemma: 罢免	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 申辩	lemma: 申辩	upos: NOUN	xpos: NN	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 时	lemma: 时	upos: NOUN	xpos: NN	feats: _
+word: 召开	lemma: 召开	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 投票	lemma: 投票	upos: VERB	xpos: VV	feats: _
+word: 表决	lemma: 表决	upos: VERB	xpos: VV	feats: _
+word: 罢免	lemma: 罢免	upos: NOUN	xpos: NN	feats: _
+word: 要求	lemma: 要求	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 罢免	lemma: 罢免	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 选举	lemma: 选举	upos: VERB	xpos: VV	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 过	lemma: 过	upos: VERB	xpos: VV	feats: _
+word: 半数	lemma: 半数	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+entity: 五	type: CARDINAL
+entity: 半数	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第十七条  村民会议由本村十八周岁以上的村民组成。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 十八	lemma: 十八	upos: NUM	xpos: CD	feats: NumType=Card
+word: 周岁	lemma: 周岁	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 组成	lemma: 组成	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 十八周岁以上	type: DATE
+
+Sentence sentiment= 1
+
+
+    召开村民会议，应当有本村十八周岁以上村民的过半数参加，或者有本村三分之>以上的户的代表参加，所作决定应当经到会人员的过半数通过。必要的时候，可以邀请驻在本村的企业、事业单位和群众组织派代表列席村民会议。
+
+word: 召开	lemma: 召开	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当有	lemma: 当有	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 十八	lemma: 十八	upos: NUM	xpos: CD	feats: NumType=Card
+word: 周	lemma: 周	upos: NOUN	xpos: NNB	feats: _
+word: 岁	lemma: 岁	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 过	lemma: 过	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 半数	lemma: 半数	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 分	lemma: 分	upos: NOUN	xpos: NNB	feats: _
+word: 之>	lemma: 之>	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 户	lemma: 户	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 所作	lemma: 所作	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 经到	lemma: 经到	upos: VERB	xpos: VV	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 过	lemma: 过	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 半数	lemma: 半数	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 必要	lemma: 必要	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 时候	lemma: 时候	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 邀请	lemma: 邀请	upos: VERB	xpos: VV	feats: _
+word: 驻	lemma: 驻	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 群众	lemma: 群众	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 派	lemma: 派	upos: PART	xpos: SFN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 列席	lemma: 列席	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 十八周岁以上	type: DATE
+entity: 半数	type: CARDINAL
+entity: 三	type: CARDINAL
+entity: 半数	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第十八条  村民委员会向村民会议负责并报告工作。村民会议每年审议村民委员会的工作报告，并评议村民委员会成员的工作。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: CCONJ	xpos: CC	feats: _
+word: 报告	lemma: 报告	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 每年	lemma: 每年	upos: DET	xpos: DT	feats: _
+word: 审议	lemma: 审议	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 评议	lemma: 评议	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    村民会议由村民委员会召集。有十分之一以上的村民提议，应当召集村民会议。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 召集	lemma: 召集	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 十分	lemma: 十分	upos: ADV	xpos: RB	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 提议	lemma: 提议	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当召集	lemma: 当召集	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十九条  涉及村民利益的下列事项，村民委员会必须提请村民会议讨论决定，方可办理：
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 涉	lemma: 涉	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 提请	lemma: 提请	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方可	lemma: 方可	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    （一）乡统筹的收缴方法，村提留的收缴及使用；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: 统	lemma: 统	upos: VERB	xpos: VV	feats: _
+word: 筹	lemma: 筹	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 收缴	lemma: 收缴	upos: NOUN	xpos: NN	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 提留	lemma: 提留	upos: PROPN	xpos: NNP	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 收缴	lemma: 收缴	upos: VERB	xpos: VV	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    (二)本村享受误工补贴的人数及补贴标准；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 享受	lemma: 享受	upos: VERB	xpos: VV	feats: _
+word: 误工	lemma: 误工	upos: NOUN	xpos: NN	feats: _
+word: 补贴	lemma: 补贴	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人数	lemma: 人数	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 补贴	lemma: 补贴	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）从村集体经济所得收益的使用；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 从村	lemma: 从村	upos: VERB	xpos: VV	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: 收益	lemma: 收益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （四）村办学校、村建道路等村公益事业的经费筹集方案；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 村办	lemma: 村办	upos: NOUN	xpos: NN	feats: _
+word: 学校	lemma: 学校	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 村建	lemma: 村建	upos: NOUN	xpos: NN	feats: _
+word: 道路	lemma: 道路	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 公益	lemma: 公益	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 经费	lemma: 经费	upos: NOUN	xpos: NN	feats: _
+word: 筹集	lemma: 筹集	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （五）村集体经济项目的立项、承包方案及村公益事业的建设承包方案；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 项目	lemma: 项目	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 立项	lemma: 立项	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 公益	lemma: 公益	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （六）村民的承包经营方案；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 六	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （七）宅基地的使用方案；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 七	lemma: 七	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 宅	lemma: 宅	upos: NOUN	xpos: NN	feats: _
+word: 基地	lemma: 基地	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 七	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （八）村民会议认为应当由村民会议讨论决定的涉及村民利益的其他事项。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 八	lemma: 八	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 认为	lemma: 认为	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEV	feats: _
+word: 涉及	lemma: 涉及	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 八	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第二十条  村民会议可以制定和修改村民自治章程、村规民约，并报乡、民族乡、镇的人民政府备案。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 修改	lemma: 修改	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 章程	lemma: 章程	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 村规	lemma: 村规	upos: NOUN	xpos: NN	feats: _
+word: 民约	lemma: 民约	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 报乡	lemma: 报乡	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    村民自治章程、村规民约以及村民会议或者村民代表讨论决定的事项不得与宪法、法律、法规和国家的>策相抵触，不得有侵犯村民的人身权利、民主权利和合法财产权利的内容。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 章程	lemma: 章程	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 规民	lemma: 规民	upos: NOUN	xpos: NN	feats: _
+word: 约	lemma: 约	upos: ADV	xpos: RB	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: >策	lemma: >策	upos: NOUN	xpos: NN	feats: _
+word: 相	lemma: 相	upos: ADV	xpos: RB	feats: _
+word: 抵触	lemma: 抵触	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 侵犯	lemma: 侵犯	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人身	lemma: 人身	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 合法	lemma: 合法	upos: NOUN	xpos: NN	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 宪法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二十一条  人数较多或者居住分散的村，可以推选产生村民代表，由村民委员会召集村民代表开会，讨论决定村民会议授权的事项。村民代表由村民按每五户至十五户推选一人，或者由各村民小组推选若干人。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 人数	lemma: 人数	upos: NOUN	xpos: NN	feats: _
+word: 较多	lemma: 较多	upos: ADJ	xpos: JJ	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 居住	lemma: 居住	upos: VERB	xpos: VV	feats: _
+word: 分散	lemma: 分散	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 推选	lemma: 推选	upos: VERB	xpos: VV	feats: _
+word: 产生	lemma: 产生	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 召集	lemma: 召集	upos: VERB	xpos: VV	feats: _
+word: 村	lemma: 村	upos: PART	xpos: SFN	feats: _
+word: 民代表	lemma: 民代表	upos: NOUN	xpos: NN	feats: _
+word: 开会	lemma: 开会	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 授权	lemma: 授权	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 每	lemma: 每	upos: DET	xpos: DT	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 户	lemma: 户	upos: NOUN	xpos: NNB	feats: _
+word: 至	lemma: 至	upos: CCONJ	xpos: CC	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 户	lemma: 户	upos: NOUN	xpos: NNB	feats: _
+word: 推选	lemma: 推选	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 小组	lemma: 小组	upos: NOUN	xpos: NN	feats: _
+word: 推选	lemma: 推选	upos: VERB	xpos: VV	feats: _
+word: 若	lemma: 若	upos: ADP	xpos: IN	feats: _
+word: 干人	lemma: 干人	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+entity: 五	type: CARDINAL
+entity: 十五	type: CARDINAL
+entity: 一	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第二十二条  村民委员会实行村务公开制度。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 村务	lemma: 村务	upos: NOUN	xpos: NN	feats: _
+word: 公开	lemma: 公开	upos: ADJ	xpos: JJ	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    村民委员会应当及时公布下列事项，其中涉及财务的事项至少每六个月公布一次，接受村民的监督：
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其中	lemma: 其中	upos: NOUN	xpos: NN	feats: _
+word: 涉及	lemma: 涉及	upos: VERB	xpos: VV	feats: _
+word: 财务	lemma: 财务	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 至少	lemma: 至少	upos: ADV	xpos: RB	feats: _
+word: 每	lemma: 每	upos: DET	xpos: DT	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 六个月	type: DATE
+
+Sentence sentiment= 2
+
+
+    （一）本法第十九条规定的由村民会议讨论决定的事项及其实施情况；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    (二)国家计划生育>策的落实方案；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 生育	lemma: 生育	upos: VERB	xpos: VV	feats: _
+word: >策	lemma: >策	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 落实	lemma: 落实	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    （三）救灾救济款物的发放情况；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 救灾	lemma: 救灾	upos: VERB	xpos: VV	feats: _
+word: 救济	lemma: 救济	upos: VERB	xpos: VV	feats: _
+word: 款物	lemma: 款物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 发放	lemma: 发放	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （四）水电费的收缴以及涉及本村村民利益、村民普遍关心的其他事项。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 电费	lemma: 电费	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 收缴	lemma: 收缴	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 涉及	lemma: 涉及	upos: VERB	xpos: VV	feats: _
+word: 本村	lemma: 本村	upos: NOUN	xpos: NN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 普遍	lemma: 普遍	upos: ADV	xpos: RB	feats: _
+word: 关心	lemma: 关心	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    村民委员会应当保证公布内容的真实性，并接受村民的查询。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 保证	lemma: 保证	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 真实	lemma: 真实	upos: ADJ	xpos: JJ	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 接受	lemma: 接受	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 查询	lemma: 查询	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    村民委员会不及时公布应当公布的事项或者公布的事项不真实的，村民有权向乡、民族乡、镇人民政府或者县级人民政府及其有关主管部门反映，有关政府机关应当负责调查核实，责令公布；经查证确有违法行为的，有关人员应当依法承担责任。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 不及	lemma: 不及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 真实	lemma: 真实	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 乡	lemma: 乡	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 乡	lemma: 乡	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 镇	lemma: 镇	upos: PROPN	xpos: NNP	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 民	lemma: 民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 反映	lemma: 反映	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 调查	lemma: 调查	upos: VERB	xpos: VV	feats: _
+word: 核实	lemma: 核实	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 经查	lemma: 经查	upos: NOUN	xpos: NN	feats: _
+word: 证确	lemma: 证确	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十三条  村民委员会及其成员应当遵守宪法、法律、法规和国家的>策，办事公道，廉洁奉公，热心为村民业务。
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: >策	lemma: >策	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 办事	lemma: 办事	upos: VERB	xpos: VV	feats: _
+word: 公道	lemma: 公道	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 廉洁	lemma: 廉洁	upos: ADJ	xpos: JJ	feats: _
+word: 奉公	lemma: 奉公	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 热心	lemma: 热心	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+entity: 宪法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二十四条  村民委员会决定问题，采取少数>从多数的原则。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 问题	lemma: 问题	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 少数	lemma: 少数	upos: ADV	xpos: RB	feats: _
+word: >	lemma: >	upos: VERB	xpos: VV	feats: _
+word: 从	lemma: 从	upos: ADV	xpos: RB	feats: _
+word: 多数	lemma: 多数	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    村民委员会进行工作，应当坚持群众路线，充分发扬民主，认真听取不同意见，坚持说服教育，不得强迫命令，不得打击报复。
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 坚持	lemma: 坚持	upos: VERB	xpos: VV	feats: _
+word: 群众	lemma: 群众	upos: NOUN	xpos: NN	feats: _
+word: 路线	lemma: 路线	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 充分	lemma: 充分	upos: ADV	xpos: RB	feats: _
+word: 发扬	lemma: 发扬	upos: VERB	xpos: VV	feats: _
+word: 民主	lemma: 民主	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 认真	lemma: 认真	upos: ADV	xpos: RB	feats: _
+word: 听取	lemma: 听取	upos: VERB	xpos: VV	feats: _
+word: 不同	lemma: 不同	upos: ADJ	xpos: JJ	feats: _
+word: 意见	lemma: 意见	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 坚持	lemma: 坚持	upos: VERB	xpos: VV	feats: _
+word: 说服	lemma: 说服	upos: VERB	xpos: VV	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 强迫	lemma: 强迫	upos: VERB	xpos: VV	feats: _
+word: 命令	lemma: 命令	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 打击	lemma: 打击	upos: VERB	xpos: VV	feats: _
+word: 报复	lemma: 报复	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十五条  村民委员会根据需要设人民调解、治安保卫、公共卫生等委员会。村民委员会成员可以兼任下属委员会的成员。人口少的村的村民委员会可以不设下属委员会，由村民委员会成员分工负责人民调解、治安保卫、公共卫生等工作。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 设	lemma: 设	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 保卫	lemma: 保卫	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 兼任	lemma: 兼任	upos: VERB	xpos: VV	feats: _
+word: 下属	lemma: 下属	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 口	lemma: 口	upos: PART	xpos: SFN	feats: _
+word: 少	lemma: 少	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村	lemma: 村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 不设	lemma: 不设	upos: VERB	xpos: VV	feats: _
+word: 下属	lemma: 下属	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 成员	lemma: 成员	upos: NOUN	xpos: NN	feats: _
+word: 分工	lemma: 分工	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 保卫	lemma: 保卫	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 卫生	lemma: 卫生	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十六条  村民委员会应当协助有关部门，对被依法剥夺政治权利的村民进行教育、帮助和监督。
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 协助	lemma: 协助	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 剥夺	lemma: 剥夺	upos: VERB	xpos: VV	feats: _
+word: 政治	lemma: 政治	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 帮助	lemma: 帮助	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十七条  驻在农村的机关、团体、部队、全民所有制企业、事业单位的人员不参加村民委员会组织，不属于村办的集体所有制单位的人员可以不参加村民委员会组织。但是，他们都应当遵守有关村规民约。所在地的村民委员会、村民会议或者村民代表讨论和处理同这些单位有关的
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 驻	lemma: 驻	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 农村	lemma: 农村	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 团体	lemma: 团体	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 部队	lemma: 部队	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 全民	lemma: 全民	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 制	lemma: 制	upos: PART	xpos: SFN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 属	lemma: 属	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 村办	lemma: 村办	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 制	lemma: 制	upos: PART	xpos: SFN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 但是	lemma: 但是	upos: ADV	xpos: RB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 他们	lemma: 他	upos: PRON	xpos: PRP	feats: Number=Plur|Person=3
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 村	lemma: 村	upos: PART	xpos: SFN	feats: _
+word: 规民	lemma: 规民	upos: NOUN	xpos: NN	feats: _
+word: 约	lemma: 约	upos: ADV	xpos: RB	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 同	lemma: 同	upos: DET	xpos: DT	feats: _
+word: 这些	lemma: 这些	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+问题，应当与他们协商解决。
+
+word: 问题	lemma: 问题	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 他们	lemma: 他	upos: PRON	xpos: PRP	feats: Number=Plur|Person=3
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十八条  地方各级人民代表大会和县级以上地方各级人民代表大会常务委员会在本行政区域内保证本法的实施，保障村民依法行使自治权利。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 保证	lemma: 保证	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 行使	lemma: 行使	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+entity: 人民代表大会	type: ORG
+entity: 人民代表大会	type: ORG
+
+Sentence sentiment= 2
+
+
+第二十九条  省、自治区、直辖市的人民代表大会常务委员会可以根据本法，结合本行政区域的实际情况，制定实施办法。
+
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 省	lemma: 省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十九	type: ORDINAL
+entity: 人民代表大会	type: ORG
+
+Sentence sentiment= 2
+
+
+第三十条  本法自公布之日起施行。《中华人民共和国村民委员会组织法（试行）》同时废止。
+
+word: 第三十	lemma: 第三十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 村民	lemma: 村民	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 试行	lemma: 试行	upos: VERB	xpos: VV	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十	type: ORDINAL
+entity: 中华人民共和国村民委员会组织法	type: LAW
+
+Sentence sentiment= 1
+
+

@@ -1,0 +1,2129 @@
+PA023-Law of the PRC on the Standard Spoken and Written-C
+中华人民共和国国家通用语言文字法
+
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+
+
+entity: 中华人民共和国国家通用语言文字法	type: ORG
+
+Sentence sentiment= 1
+
+
+（2000年10月31日第九届全国人民代表大会常务委员会第十八次会议通过） 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 2000	lemma: 2000	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 10	lemma: 10	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 31	lemma: 31	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+entity: 2000年10月31日第九届全国人民代表大会常务委员会第十八次会议	type: EVENT
+
+Sentence sentiment= 1
+
+
+已由中华人民共和国第九届全国人民代表大会常务委员会第十八次会议于2000年10月31日通过，现予公布，自2001年1月1日起施行。 
+
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 于	lemma: 于	upos: ADP	xpos: IN	feats: _
+word: 2000	lemma: 2000	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 10	lemma: 10	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 31	lemma: 31	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 现予	lemma: 现予	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 2001	lemma: 2001	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 中华人民共和国第九届全国人民代表大会常务委员会第十八次会议	type: EVENT
+entity: 2000年10月31日	type: DATE
+entity: 2001年1月1日	type: DATE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+                           　 中华人民共和国主席江泽民 　 2000年10月31日 
+
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 主席	lemma: 主席	upos: NOUN	xpos: NN	feats: _
+word: 江	lemma: 江	upos: PROPN	xpos: NNP	feats: _
+word: 泽民	lemma: 泽民	upos: PROPN	xpos: NNP	feats: _
+word: 2000	lemma: 2000	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 10	lemma: 10	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 31	lemma: 31	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+
+
+entity: 中华人民	type: GPE
+entity: 江	type: PERSON
+entity: 泽民	type: PERSON
+entity: 2000年10月31日	type: DATE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 第一章总则 
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 则	lemma: 则	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 第一条为推动国家通用语言文字的规范化、标准化及其健康发展，使国家通用语言文字在社会生活中更好地发挥作用，促进各民族、各地区经济文化交流，根据宪法，制定本法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 推动	lemma: 推动	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 化	lemma: 化	upos: PART	xpos: SFV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 化	lemma: 化	upos: PART	xpos: SFV	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 健康	lemma: 健康	upos: NOUN	xpos: NN	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 使	lemma: 使	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 更好	lemma: 更好	upos: ADJ	xpos: JJ	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 发挥	lemma: 发挥	upos: VERB	xpos: VV	feats: _
+word: 作用	lemma: 作用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 文化	lemma: 文化	upos: NOUN	xpos: NN	feats: _
+word: 交流	lemma: 交流	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二条本法所称的国家通用语言文字是普通话和规范汉字。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三条国家推广普通话，推行规范汉字。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 推广	lemma: 推广	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 推行	lemma: 推行	upos: VERB	xpos: VV	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 汉字	lemma: 汉字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第四条公民有学习和使用国家通用语言文字的权利。 
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 学习	lemma: 学习	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 权利	lemma: 权利	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 国家为公民学习和使用国家通用语言文字提供条件。 
+
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 学习	lemma: 学习	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 地方各级人民政府及其有关部门应当采取措施，推广普通话和推行规范汉字。
+
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 推广	lemma: 推广	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 推行	lemma: 推行	upos: VERB	xpos: VV	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 汉字	lemma: 汉字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第五条国家通用语言文字的使用应当有利于维护国家主权和民族尊严，有利于国家统一和民族团结，有利于社会主义物质文明建设和精神文明建设。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 有利	lemma: 有利	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 维护	lemma: 维护	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 主权	lemma: 主权	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 尊严	lemma: 尊严	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有利	lemma: 有利	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 统一	lemma: 统一	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 团结	lemma: 团结	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有利	lemma: 有利	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 主义	lemma: 主义	upos: NOUN	xpos: NN	feats: _
+word: 物质	lemma: 物质	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第六条国家颁布国家通用语言文字的规范和标准，管理国家通用语言文字的社会应用，支持国家通用语言文字的教学和科学研究，促进国家通用语言文字的规范、丰富和发展。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 颁布	lemma: 颁布	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 应用	lemma: 应用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 支持	lemma: 支持	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 丰富	lemma: 丰富	upos: ADJ	xpos: JJ	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第七条国家奖励为国家通用语言文字事业做出突出贡献的组织和个人。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 奖励	lemma: 奖励	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 做出	lemma: 做出	upos: VERB	xpos: VV	feats: _
+word: 突出	lemma: 突出	upos: ADJ	xpos: JJ	feats: _
+word: 贡献	lemma: 贡献	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第八条各民族都有使用和发展自己的语言文字的自由。 
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各	lemma: 各	upos: DET	xpos: DT	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 发展	lemma: 发展	upos: VERB	xpos: VV	feats: _
+word: 自己	lemma: 自己	upos: PRON	xpos: PRD	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 自由	lemma: 自由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 少数民族语言文字的使用依据宪法、民族区域自治法及其他法律的有关规定。
+
+word: 少数	lemma: 少数	upos: ADJ	xpos: JJ	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 依据	lemma: 依据	upos: ADP	xpos: IN	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 治法	lemma: 治法	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 宪法	type: LAW
+entity: 民族区域自治法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二章国家通用语言文字的使用 
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 第九条国家机关以普通话和规范汉字为公务用语用字。法律另有规定的除外。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 公务	lemma: 公务	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 语用	lemma: 语用	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: DET	xpos: DT	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 除外	lemma: 除外	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十条学校及其他教育机构以普通话和规范汉字为基本的教育教学用语用字。法律另有规定的除外。 
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 学校	lemma: 学校	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 语用	lemma: 语用	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 另	lemma: 另	upos: DET	xpos: DT	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 除外	lemma: 除外	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 学校及其他教育机构通过汉语文课程教授普通话和规范汉字。使用的汉语文教材，应当符合国家通用语言文字的规范和标准。
+
+word: 学校	lemma: 学校	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 文	lemma: 文	upos: PART	xpos: SFN	feats: _
+word: 课程	lemma: 课程	upos: NOUN	xpos: NN	feats: _
+word: 教授	lemma: 教授	upos: NOUN	xpos: NN	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 文	lemma: 文	upos: PART	xpos: SFN	feats: _
+word: 教材	lemma: 教材	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十一条汉语文出版物应当符合国家通用语言文字的规范和标准。 
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 文出	lemma: 文出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 汉语文出版物中需要使用外国语言文字的，应当用国家通用语言文字作必要的注释。
+
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 文出	lemma: 文出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当用	lemma: 当用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 必要	lemma: 必要	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 注释	lemma: 注释	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 文出	type: LANGUAGE
+
+Sentence sentiment= 1
+
+
+第十二条广播电台、电视台以普通话为基本的播音用语。 
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电台	lemma: 电台	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 台	lemma: 台	upos: PART	xpos: SFN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 播音	lemma: 播音	upos: NOUN	xpos: NN	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 需要使用外国语言为播音用语的，须经国务院广播电视部门批准。
+
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 播音	lemma: 播音	upos: NOUN	xpos: NN	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须经	lemma: 须经	upos: NOUN	xpos: NN	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 国务院广播电视部门	type: ORG
+
+Sentence sentiment= 1
+
+
+第十三条公共业务行业以规范汉字为基本的业务用字。因公共业务需要，招牌、广告、告示、标志牌等使用外国文字并同时使用中文的，应当使用规范汉字。 
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 行业	lemma: 行业	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 招牌	lemma: 招牌	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 告示	lemma: 告示	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 标志	lemma: 标志	upos: VERB	xpos: VV	feats: _
+word: 牌	lemma: 牌	upos: PART	xpos: SFN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 中文	lemma: 中文	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 汉字	lemma: 汉字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+entity: 中文	type: LANGUAGE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 提倡公共业务行业以普通话为业务用语。
+
+word: 提倡	lemma: 提倡	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 行业	lemma: 行业	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十四条下列情形，应当以国家通用语言文字为基本的用语用字： 
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当以	lemma: 当以	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （一）广播、电影、电视用语用字； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电影	lemma: 电影	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 语用	lemma: 语用	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 (二)公共场所的设施用字； 
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 场所	lemma: 场所	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （三）招牌、广告用字； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 招牌	lemma: 招牌	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （四）企业事业组织名称； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 （五）在境内销售的商品的包装、说明。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 境内	lemma: 境内	upos: NOUN	xpos: NN	feats: _
+word: 销售	lemma: 销售	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 商品	lemma: 商品	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 包装	lemma: 包装	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 说明	lemma: 说明	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十五条信息处理和信息技术产品中使用的国家通用语言文字应当符合国家的规范和标准。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 信息	lemma: 信息	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 信息	lemma: 信息	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 产品	lemma: 产品	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十六条本章有关规定中，有下列情形的，可以使用方言： 
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本章	lemma: 本章	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 方言	lemma: 方言	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （一）国家机关的工作人员执行公务时确需使用的； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 公务	lemma: 公务	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 确需	lemma: 确需	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+
+
+
+
+Sentence sentiment= 0
+
+
+　 (二)经国务院广播电视部门或省级广播电视部门批准的播音用语； 
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 省级	lemma: 省级	upos: NOUN	xpos: NN	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 播音	lemma: 播音	upos: NOUN	xpos: NN	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 国务院广播电视部门	type: ORG
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （三）戏曲、影视等艺术形式中需要使用的； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 戏曲	lemma: 戏曲	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 影视	lemma: 影视	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 艺术	lemma: 艺术	upos: NOUN	xpos: NN	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 （四）出版、教学、研究中确需使用的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 确需	lemma: 确需	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第十七条本章有关规定中，有下列情形的，可以保留或使用繁体字、异体字： 
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本章	lemma: 本章	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 保留	lemma: 保留	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 繁体	lemma: 繁体	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 异体	lemma: 异体	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十七	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 （一）文物古迹； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 文物	lemma: 文物	upos: NOUN	xpos: NN	feats: _
+word: 古迹	lemma: 古迹	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 (二)姓氏中的异体字； 
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 姓氏	lemma: 姓氏	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 异体	lemma: 异体	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （三）书法、篆刻等艺术作品； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 书法	lemma: 书法	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 篆刻	lemma: 篆刻	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 艺术	lemma: 艺术	upos: NOUN	xpos: NN	feats: _
+word: 作品	lemma: 作品	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 （四）题词和招牌的手书字； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 题词	lemma: 题词	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 招牌	lemma: 招牌	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 手书	lemma: 手书	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （五）出版、教学、研究中需要使用的； 
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 （六）经国务院有关部门批准的特殊情况。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六	type: CARDINAL
+entity: 国务院	type: ORG
+
+Sentence sentiment= 1
+
+
+第十八条国家通用语言文字以《汉语拼音方案》作为拼写和注音工具。 
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 拼音	lemma: 拼音	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 拼写	lemma: 拼写	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 注音	lemma: 注音	upos: NOUN	xpos: NN	feats: _
+word: 工具	lemma: 工具	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+entity: 汉语拼音方案	type: LAW
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 《汉语拼音方案》是中国人名、地名和中文文献罗马字母拼写法的统一规范，并用于汉字不便或不能使用的领域。 
+
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 拼音	lemma: 拼音	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 是	lemma: 是	upos: AUX	xpos: VC	feats: _
+word: 中国	lemma: 中国	upos: PROPN	xpos: NNP	feats: _
+word: 人名	lemma: 人名	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地名	lemma: 地名	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 中文	lemma: 中文	upos: PROPN	xpos: NNP	feats: _
+word: 文献	lemma: 文献	upos: NOUN	xpos: NN	feats: _
+word: 罗马	lemma: 罗马	upos: PROPN	xpos: NNP	feats: _
+word: 字母	lemma: 字母	upos: NOUN	xpos: NN	feats: _
+word: 拼写	lemma: 拼写	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 统一	lemma: 统一	upos: NOUN	xpos: NN	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 不便	lemma: 不便	upos: ADJ	xpos: JJ	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 不能	lemma: 不能	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 领域	lemma: 领域	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 汉语拼音方案	type: LAW
+entity: 中国	type: NORP
+entity: 中文	type: LANGUAGE
+entity: 文献罗马字母拼写法	type: LAW
+
+Sentence sentiment= 0
+
+
+
+
+
+
+Sentence sentiment= 0
+
+
+　 初等教育应当进行汉语拼音教学。
+
+word: 初	lemma: 初	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 拼音	lemma: 拼音	upos: NOUN	xpos: NN	feats: _
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十九条凡以普通话作为工作语言的岗位，其工作人员应当具备说普通话的能力。 
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 岗位	lemma: 岗位	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 具	lemma: 具	upos: VERB	xpos: VV	feats: _
+word: 备说	lemma: 备说	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 能力	lemma: 能力	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 以普通话作为工作语言的播音员、节目主持人和影视话剧演员、教师、国家机关工作人员的普通话水平，应当分别达到国家规定的等级标准；对尚未达到国家规定的普通话等级标准的，分别情况进行培训。
+
+word: 以普通	lemma: 以普通	upos: VERB	xpos: VV	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 作	lemma: 作	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 播音	lemma: 播音	upos: VERB	xpos: VV	feats: _
+word: 员	lemma: 员	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 节目	lemma: 节目	upos: NOUN	xpos: NN	feats: _
+word: 主持	lemma: 主持	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 影视	lemma: 影视	upos: NOUN	xpos: NN	feats: _
+word: 话剧	lemma: 话剧	upos: NOUN	xpos: NN	feats: _
+word: 演员	lemma: 演员	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 教师	lemma: 教师	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 水平	lemma: 水平	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 分别	lemma: 分别	upos: ADV	xpos: RB	feats: _
+word: 达到	lemma: 达到	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 等级	lemma: 等级	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 对尚	lemma: 对尚	upos: VERB	xpos: VV	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 达到	lemma: 达到	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 等级	lemma: 等级	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 分别	lemma: 分别	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 培训	lemma: 培训	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十条对外汉语教学应当教授普通话和规范汉字。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 对外	lemma: 对外	upos: ADJ	xpos: JJ	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 教学	lemma: 教学	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 教授	lemma: 教授	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 汉字	lemma: 汉字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+entity: 汉字	type: LANGUAGE
+
+Sentence sentiment= 2
+
+
+第三章管理和监督 
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 第二十一条国家通用语言文字工作由国务院语言文字工作部门负责规划指导、管理监督。 
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 指导	lemma: 指导	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+entity: 国务院语言文字工作部门	type: ORG
+
+Sentence sentiment= 2
+
+
+
+
+
+
+Sentence sentiment= 2
+
+
+　 国务院有关部门管理本系统的国家通用语言文字的使用。
+
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 系统	lemma: 系统	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 国务院	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十二条地方语言文字工作部门和其他有关部门，管理和监督本行政区域内的国家通用语言文字的使用。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 监督	lemma: 监督	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第二十三条县级以上各级人民政府工商行政管理部门依法对企业名称、商品名称以及广告的用语用字进行管理和监督。
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 商品	lemma: 商品	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十四条国务院语言文字工作部门颁布普通话水平测试等级标准。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 颁布	lemma: 颁布	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 水平	lemma: 水平	upos: NOUN	xpos: NN	feats: _
+word: 测试	lemma: 测试	upos: VERB	xpos: VV	feats: _
+word: 等级	lemma: 等级	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+entity: 国务院语言文字工作部门	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十五条外国人名、地名等专有名词和科学技术术语译成国家通用语言文字，由国务院语言文字工作部门或者其他有关部门组织审定。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 人名	lemma: 人名	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 地名	lemma: 地名	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 专有	lemma: 专有	upos: ADJ	xpos: JJ	feats: _
+word: 名词	lemma: 名词	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 术语	lemma: 术语	upos: NOUN	xpos: NN	feats: _
+word: 译成	lemma: 译成	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 审定	lemma: 审定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+entity: 国务院语言文字工作部门	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十六条违反本法第二章有关规定，不按照国家通用语言文字的规范和标准使用语言文字的，公民可以提出批评和建议。 
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: ADJ	xpos: JJ	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 批评	lemma: 批评	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 建议	lemma: 建议	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+entity: 本法第二章	type: LAW
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 本法第十九条第二款规定的人员用语违反本法第二章有关规定的，有关单位应当对直接责任人员进行批评教育；拒不改正的，由有关单位作出处理。 
+
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 款	lemma: 款	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 用语	lemma: 用语	upos: NOUN	xpos: NN	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 直接	lemma: 直接	upos: ADJ	xpos: JJ	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 批评	lemma: 批评	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 拒不	lemma: 拒不	upos: VERB	xpos: VV	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 处理	lemma: 处理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+entity: 第二	type: ORDINAL
+entity: 本法	type: LAW
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+
+
+
+
+Sentence sentiment= 0
+
+
+　 城市公共场所的设施和招牌、广告用字违反本法第二章有关规定的，由有关行政管理部门责令改正；拒不改正的，予以警告，并督促其限期改正。
+
+word: 城市	lemma: 城市	upos: NOUN	xpos: NN	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 场所	lemma: 场所	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 招牌	lemma: 招牌	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 拒不	lemma: 拒不	upos: VERB	xpos: VV	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 警告	lemma: 警告	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 督	lemma: 督	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 促其	lemma: 促其	upos: NOUN	xpos: NN	feats: _
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第二十七条违反本法规定，干涉他人学习和使用国家通用语言文字的，由有关行政管理部门责令限期改正，并予以警告。
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 干涉	lemma: 干涉	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 学习	lemma: 学习	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 限期	lemma: 限期	upos: VERB	xpos: VV	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 警告	lemma: 警告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第四章附则 
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 附则	lemma: 附则	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+　 第二十八条本法自2001年1月1日起施行。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 2001	lemma: 2001	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 1	lemma: 1	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+entity: 2001年1月1日	type: DATE
+
+Sentence sentiment= 1
+
+

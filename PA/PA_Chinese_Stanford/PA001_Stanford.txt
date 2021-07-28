@@ -1,0 +1,89 @@
+PA001-Provisions of the XUAR Childbirth Insurance for-C
+新疆维吾尔自治区城镇职工生育保险办法
+
+word: 新疆	lemma: 新疆	upos: PROPN	xpos: NNP	feats: _
+word: 维吾尔	lemma: 维吾尔	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 城镇	lemma: 城镇	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 生育	lemma: 生育	upos: VERB	xpos: VV	feats: _
+word: 保险	lemma: 保险	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 新疆	type: GPE
+entity: 维吾尔	type: GPE
+
+Sentence sentiment= 1
+
+
+
+
+
+
+Sentence sentiment= 1
+
+
+                                            第一章总则
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 则	lemma: 则	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+                   
+
+
+
+Sentence sentiment= 2
+
+
+第一条为了保障女职工生育期间的基本生活和医疗需要，根据国家有关法律、法规的规定，结合自治区实际，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 保障	lemma: 保障	upos: VERB	xpos: VV	feats: _
+word: 女	lemma: 女	upos: NOUN	xpos: NN	feats: _
+word: 职工	lemma: 职工	upos: NOUN	xpos: NN	feats: _
+word: 生育	lemma: 生育	upos: NOUN	xpos: NN	feats: _
+word: 期间	lemma: 期间	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 生活	lemma: 生活	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 医疗	lemma: 医疗	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+

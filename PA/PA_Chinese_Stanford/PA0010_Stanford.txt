@@ -1,0 +1,1352 @@
+PA010-Regulation on the language of advertisement and-C
+广告语言文字管理暂行规定（修正）
+
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 暂行	lemma: 暂行	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 修正	lemma: 修正	upos: VERB	xpos: VV	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+ １９９８年１月１５日中华人民共和国国家工商行政管理局令第８４号发布  根据１９９８年１２月３日发布的《国家工商行政管理局修改〈经济合同示范文本管理办法〉等３３>规章中超越〈行政处罚法〉规定处罚权限的内容》进行修改       
+
+word: １９９８	lemma: １９９８	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １５	lemma: １５	upos: VERB	xpos: VV	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 令	lemma: 令	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 第８４	lemma: 第８４	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 号	lemma: 号	upos: NOUN	xpos: NN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: １９９８	lemma: １９９８	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １２	lemma: １２	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ３	lemma: ３	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 修改	lemma: 修改	upos: NOUN	xpos: NN	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 示范	lemma: 示范	upos: NOUN	xpos: NN	feats: _
+word: 文本	lemma: 文本	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+
+
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ３３	lemma: ３３	upos: NOUN	xpos: NN	feats: _
+word: >	lemma: >	upos: VERB	xpos: VV	feats: _
+word: 规章	lemma: 规章	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 超越	lemma: 超越	upos: VERB	xpos: VV	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处	lemma: 处	upos: PART	xpos: SFN	feats: _
+word: 罚法	lemma: 罚法	upos: NOUN	xpos: NN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 权限	lemma: 权限	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 修改	lemma: 修改	upos: NOUN	xpos: NN	feats: _
+
+
+entity: １９９８年	type: DATE
+entity: １月１５	type: DATE
+entity: 日	type: GPE
+entity: 中华人民共和国国家工商行政管理局	type: ORG
+entity: 第８４	type: ORDINAL
+entity: １９９８年	type: DATE
+entity: １２月３日	type: DATE
+entity: 国家工商行政管理局	type: ORG
+entity: 行政处罚法	type: LAW
+
+Sentence sentiment= 0
+
+
+    第一条  为促进广告语言文字使用的规范化、标准化，保证广告语言文字表述清晰、准确、完整，避免误导消费者，根据《中华人民共和国广告法》和国家有关法律、法规，制定本规定。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 促进	lemma: 促进	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 规范	lemma: 规范	upos: NOUN	xpos: NN	feats: _
+word: 化	lemma: 化	upos: PART	xpos: SFV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 标准	lemma: 标准	upos: ADJ	xpos: JJ	feats: _
+word: 化	lemma: 化	upos: PART	xpos: SFV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保证	lemma: 保证	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 表述	lemma: 表述	upos: NOUN	xpos: NN	feats: _
+word: 清晰	lemma: 清晰	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 准确	lemma: 准确	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 完整	lemma: 完整	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 避免	lemma: 避免	upos: VERB	xpos: VV	feats: _
+word: 误导	lemma: 误导	upos: VERB	xpos: VV	feats: _
+word: 消费	lemma: 消费	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和国广告法	type: LAW
+
+Sentence sentiment= 2
+
+
+第二条  凡在中华人民共和国境内发布的广告中使用的语言文字，均适用本规定。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 境内	lemma: 境内	upos: NOUN	xpos: NN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 均	lemma: 均	upos: ADV	xpos: RB	feats: _
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+entity: 中华人民共和	type: ORG
+
+Sentence sentiment= 1
+
+
+    本规定中所称的语言文字，是指普通话和规范汉字、国家批准通用的少数民族语言文字，以及在中华人民共和国境内使用的外国语言文字。
+
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 指	lemma: 指	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉字	lemma: 汉字	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 通用	lemma: 通用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 少数	lemma: 少数	upos: ADJ	xpos: JJ	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 境内	lemma: 境内	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 中华人民共和	type: GPE
+
+Sentence sentiment= 1
+
+
+第三条  广告使用的语言文字，用语应当清晰、准确，用字应当规范、标准。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 语	lemma: 语	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 清晰	lemma: 清晰	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 准确	lemma: 准确	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 用字	lemma: 用字	upos: VERB	xpos: VV	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 标准	lemma: 标准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第四条  广告使用的语言文字应当符合社会主义精神文明建设的要求，不得含有不良文化内容。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 主义	lemma: 主义	upos: NOUN	xpos: NN	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 文明	lemma: 文明	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 要求	lemma: 要求	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 含有	lemma: 含有	upos: VERB	xpos: VV	feats: _
+word: 不良	lemma: 不良	upos: ADJ	xpos: JJ	feats: _
+word: 文化	lemma: 文化	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第五条  广告用语用字应当使用普通话和规范汉字。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广	lemma: 广	upos: ADV	xpos: RB	feats: _
+word: 告用	lemma: 告用	upos: VERB	xpos: VV	feats: _
+word: 语用	lemma: 语用	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    根据国家规定，广播电台、电视台可以使用方言播音的节目，其广告中可以使用方言；广播电台、电视台使用少数民族语言播音的节目，其广告应当使用少数民族语言文字。
+
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电台	lemma: 电台	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 台	lemma: 台	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 方言	lemma: 方言	upos: NOUN	xpos: NN	feats: _
+word: 播音	lemma: 播音	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 节目	lemma: 节目	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 方言	lemma: 方言	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 广播	lemma: 广播	upos: NOUN	xpos: NN	feats: _
+word: 电台	lemma: 电台	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电视	lemma: 电视	upos: NOUN	xpos: NN	feats: _
+word: 台	lemma: 台	upos: PART	xpos: SFN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 少数	lemma: 少数	upos: ADJ	xpos: JJ	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 播音	lemma: 播音	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 节目	lemma: 节目	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 少数	lemma: 少数	upos: ADJ	xpos: JJ	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    在民族自治地方，广告用语用字参照《民族自治地方语言文字单行条例》执行。
+
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 语	lemma: 语	upos: NOUN	xpos: NN	feats: _
+word: 用字	lemma: 用字	upos: NOUN	xpos: NN	feats: _
+word: 参照	lemma: 参照	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 自治	lemma: 自治	upos: NOUN	xpos: NN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 单行	lemma: 单行	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 民族自治地方语言文字单行条例	type: LAW
+
+Sentence sentiment= 1
+
+
+第六条  广告中不得单独使用汉语拼音。广告中如需使用汉语拼音时，应当正确、规范，并与规范汉字同时使用。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 单独	lemma: 单独	upos: ADV	xpos: RB	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 拼音	lemma: 拼音	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 如	lemma: 如	upos: VERB	xpos: VV	feats: _
+word: 需	lemma: 需	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 拼音	lemma: 拼音	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 正确	lemma: 正确	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: _
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第七条  广告中数字、标点符号的用法和计量单位等，应当符合国家标准和有关规定。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 数字	lemma: 数字	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 标点	lemma: 标点	upos: NOUN	xpos: NN	feats: _
+word: 符号	lemma: 符号	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 用法	lemma: 用法	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 计量	lemma: 计量	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第八条  广告中不得单独使用外国语言文字。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 单独	lemma: 单独	upos: ADV	xpos: RB	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    广告中如因特殊需要配合使用外国语言文字时，应当采用以普通话和规范汉字为主、外国语言文字为辅的形式，不得在同一广告语句中夹杂使用外国语言文字。广告中的外国语言文字所表达的意思，与中文意思不一致的，以中文意思为准。
+
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 如	lemma: 如	upos: VERB	xpos: VV	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 配合	lemma: 配合	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采用	lemma: 采用	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 普通	lemma: 普通	upos: ADJ	xpos: JJ	feats: _
+word: 话	lemma: 话	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 规范	lemma: 规范	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 汉	lemma: 汉	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 主	lemma: 主	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 辅	lemma: 辅	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 同	lemma: 同	upos: DET	xpos: DT	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 语句	lemma: 语句	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 夹杂	lemma: 夹杂	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 表达	lemma: 表达	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 意思	lemma: 意思	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 中文	lemma: 中文	upos: NOUN	xpos: NN	feats: _
+word: 意思	lemma: 意思	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 一致	lemma: 一致	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以中	lemma: 以中	upos: PROPN	xpos: NNP	feats: _
+word: 文	lemma: 文	upos: PART	xpos: SFN	feats: _
+word: 意思	lemma: 意思	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 准	lemma: 准	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 中文	type: LANGUAGE
+
+Sentence sentiment= 2
+
+
+第九条  在下列情况下，广告中使用的外国语言文字不适用第八条规定：
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 下	lemma: 下	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第九	type: ORDINAL
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    （一）商品、业务通用名称，已注册的商标，经国家有关部门认可的国际通用标志、专业技术标准等；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 商品	lemma: 商品	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 业务	lemma: 业务	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 注册	lemma: 注册	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 商标	lemma: 商标	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经国	lemma: 经国	upos: PROPN	xpos: NNP	feats: _
+word: 家	lemma: 家	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 认可	lemma: 认可	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 国际	lemma: 国际	upos: NOUN	xpos: NN	feats: _
+word: 通用	lemma: 通用	upos: NOUN	xpos: NN	feats: _
+word: 标志	lemma: 标志	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 专业	lemma: 专业	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 标准	lemma: 标准	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)经国家有关部门批准，以外国语言文字为主的媒介中的广告所使用的外国语言文字。
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 经国	lemma: 经国	upos: NOUN	xpos: NN	feats: _
+word: 家	lemma: 家	upos: PART	xpos: SFN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 主	lemma: 主	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 媒介	lemma: 媒介	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 外国	lemma: 外国	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十条  广告用语用字，不得出现下列情形：
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广	lemma: 广	upos: ADV	xpos: RB	feats: _
+word: 告用	lemma: 告用	upos: VERB	xpos: VV	feats: _
+word: 语用	lemma: 语用	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 出现	lemma: 出现	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 情形	lemma: 情形	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    （一）使用错别字；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 错别	lemma: 错别	upos: PROPN	xpos: NNP	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)违反国家法律、法规规定使用繁体字；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 繁体	lemma: 繁体	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）使用国家已废止的异体字和简化字；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 异体	lemma: 异体	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 简化	lemma: 简化	upos: VERB	xpos: VV	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （四）使用国家已废止的印刷字形；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 字形	lemma: 字形	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （五）其他不规范使用的语言文字。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 规范	lemma: 规范	upos: ADV	xpos: RB	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第十一条  广告中成语的使用必须符合国家有关规定，不得引起误导，对社会造成不良影响。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 成	lemma: 成	upos: VERB	xpos: VV	feats: _
+word: 语	lemma: 语	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 使用	lemma: 使用	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 符合	lemma: 符合	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 引起	lemma: 引起	upos: VERB	xpos: VV	feats: _
+word: 误导	lemma: 误导	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 不良	lemma: 不良	upos: ADJ	xpos: JJ	feats: _
+word: 影响	lemma: 影响	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十二条  广告中出现的注册商标定型字、文物古迹中原有的文字以及经国家有关部门认可的企业字号用字等，不适用本规定第十条规定，但应当与原形一致，不得引起误导。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 出现	lemma: 出现	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 注册	lemma: 注册	upos: VERB	xpos: VV	feats: _
+word: 商	lemma: 商	upos: PART	xpos: SFN	feats: _
+word: 标定	lemma: 标定	upos: VERB	xpos: VV	feats: _
+word: 型字	lemma: 型字	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 文物	lemma: 文物	upos: NOUN	xpos: NN	feats: _
+word: 古迹	lemma: 古迹	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 原有	lemma: 原有	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 以及	lemma: 以及	upos: CCONJ	xpos: CC	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 认可	lemma: 认可	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 字号	lemma: 字号	upos: NOUN	xpos: NN	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 字	lemma: 字	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 原形	lemma: 原形	upos: NOUN	xpos: NN	feats: _
+word: 一致	lemma: 一致	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 引起	lemma: 引起	upos: VERB	xpos: VV	feats: _
+word: 误导	lemma: 误导	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十三条  广告中因创意等需要使用的手书体字、美术字、变体字、古文字，应当易于辩认，不得引起误导。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 创意	lemma: 创意	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 需要	lemma: 需要	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 手书	lemma: 手书	upos: NOUN	xpos: NN	feats: _
+word: 体字	lemma: 体字	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 美术	lemma: 美术	upos: NOUN	xpos: NN	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 变体	lemma: 变体	upos: VERB	xpos: VV	feats: _
+word: 字	lemma: 字	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 古	lemma: 古	upos: PART	xpos: PFA	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当易	lemma: 当易	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 辩认	lemma: 辩认	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 引起	lemma: 引起	upos: VERB	xpos: VV	feats: _
+word: 误导	lemma: 误导	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十四条  违反本规定第四条的，由广告监督管理机关责令停止发布广告，对负有责任的广告主、广告经营者、广告发布者视其情节予以通报批评，处以违法所得额三倍以下的罚款，但最高不超过三万元，没有违法所得的，处以一万元以下的罚款。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 负有	lemma: 负有	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 主	lemma: 主	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 视	lemma: 视	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 情节	lemma: 情节	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 通报	lemma: 通报	upos: VERB	xpos: VV	feats: _
+word: 批评	lemma: 批评	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 得额	lemma: 得额	upos: VERB	xpos: VV	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 倍	lemma: 倍	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 最高	lemma: 最高	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 三万	lemma: 三万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 没有	lemma: 没有	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 得	lemma: 得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 一万	lemma: 一万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+entity: 第四	type: ORDINAL
+entity: 三倍	type: CARDINAL
+entity: 三万元	type: MONEY
+entity: 一万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+第十五条  违反本规定其他条款的，由广告监督管理机关责令限期改正，逾期未能改正的，对负有责任的广告主、广告经营者、广告发布者处以１万元以下罚款。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 条款	lemma: 条款	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 未能	lemma: 未能	upos: AUX	xpos: MD	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 负有	lemma: 负有	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 主	lemma: 主	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: １万	lemma: １万	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: １万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+第十六条  本规定自公布之日起施行。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 自	lemma: 自	upos: VERB	xpos: VV	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+      【注】  １９９８年１２月３日
+
+word: 【注】	lemma: 【注】	upos: PROPN	xpos: NNP	feats: _
+word: １９９８	lemma: １９９８	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １２	lemma: １２	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ３	lemma: ３	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+
+
+entity: １９９８年	type: DATE
+entity: １２	type: DATE
+entity: ３日	type: DATE
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+          
+
+
+
+Sentence sentiment= 1
+
+
+    为了贯彻《行政处罚法》和《国务院关于贯彻实施〈中华人民共和国行政处罚法〉的通知精神》，经国家工商行政管理局局务会议讨论决定，对国家工商行政管理局已颁布的《广告语言文字管理暂行规定》中超越《行政处罚法》规定处罚权限的内容集中进行了修改。
+
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 贯彻	lemma: 贯彻	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处	lemma: 处	upos: PART	xpos: SFN	feats: _
+word: 罚	lemma: 罚	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 关于	lemma: 关于	upos: ADP	xpos: IN	feats: _
+word: 贯彻	lemma: 贯彻	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 〈	lemma: 〈	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处	lemma: 处	upos: PART	xpos: SFN	feats: _
+word: 罚法	lemma: 罚法	upos: NOUN	xpos: NN	feats: _
+word: 〉	lemma: 〉	upos: PUNCT	xpos: )	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 通知	lemma: 通知	upos: NOUN	xpos: NN	feats: _
+word: 精神	lemma: 精神	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经国	lemma: 经国	upos: PROPN	xpos: NNP	feats: _
+word: 家	lemma: 家	upos: PART	xpos: SFN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 局务	lemma: 局务	upos: NOUN	xpos: NN	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 讨论	lemma: 讨论	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 工商	lemma: 工商	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 颁布	lemma: 颁布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 语言	lemma: 语言	upos: NOUN	xpos: NN	feats: _
+word: 文字	lemma: 文字	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 暂行	lemma: 暂行	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 超越	lemma: 超越	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处	lemma: 处	upos: PART	xpos: SFN	feats: _
+word: 罚法	lemma: 罚法	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 权限	lemma: 权限	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 集中	lemma: 集中	upos: ADV	xpos: RB	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 了	lemma: 了	upos: PART	xpos: AS	feats: Aspect=Perf
+word: 修改	lemma: 修改	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 行政处罚法	type: LAW
+entity: 中华人民共和国行政处罚法	type: LAW
+entity: 经国家工商行政管理局	type: ORG
+entity: 国家工商行政管理局	type: ORG
+entity: 行政处罚法	type: LAW
+
+Sentence sentiment= 2
+
+
+    第十四条改为"违反本规定第四条的，由广告监督管理机关责令停止发布广告，对负有责任的广告主、广告经营者、广告发布者视其情节予以通报批评，处以违法所得额三倍以下的罚款，但最高不超过三万元，没有违法所得的，处以一万元以下的罚款。"
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 改	lemma: 改	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: "违	lemma: "违	upos: NOUN	xpos: NN	feats: _
+word: 反本	lemma: 反本	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 负有	lemma: 负有	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 主	lemma: 主	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 经营	lemma: 经营	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 视	lemma: 视	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 情节	lemma: 情节	upos: NOUN	xpos: NN	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 通报	lemma: 通报	upos: VERB	xpos: VV	feats: _
+word: 批评	lemma: 批评	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 得额	lemma: 得额	upos: VERB	xpos: VV	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 倍	lemma: 倍	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 但	lemma: 但	upos: ADV	xpos: RB	feats: _
+word: 最高	lemma: 最高	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 三万	lemma: 三万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 没有	lemma: 没有	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 得	lemma: 得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 一万	lemma: 一万	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: "	lemma: "	upos: PUNCT	xpos: ''	feats: _
+
+
+entity: 第十四	type: ORDINAL
+entity: 第四	type: ORDINAL
+entity: 三倍	type: CARDINAL
+entity: 三万元	type: MONEY
+entity: 一万元	type: MONEY
+
+Sentence sentiment= 2
+
+
+    第十六条改为"本规定自公布之日起施行。"
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 改	lemma: 改	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: "本	lemma: "本	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: "	lemma: "	upos: PUNCT	xpos: ''	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+

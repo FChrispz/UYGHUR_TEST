@@ -1,0 +1,3318 @@
+PA035-Water and Soil Conservation Law of the PRC-C
+中华人民共和国水土保持法
+
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 法	lemma: 法	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 中华人民共和	type: GPE
+
+Sentence sentiment= 1
+
+
+１９９１年６月２９日第七届全国人民代表大会常务委员会第二十次会议通过
+
+word: １９９１	lemma: １９９１	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ６	lemma: ６	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ２９	lemma: ２９	upos: PROPN	xpos: NNP	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 届	lemma: 届	upos: NOUN	xpos: NNB	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 会议	lemma: 会议	upos: NOUN	xpos: NN	feats: _
+word: 通过	lemma: 通过	upos: VERB	xpos: VV	feats: _
+
+
+entity: １９９１年	type: DATE
+entity: ６月	type: DATE
+entity: ２９日第七届全国人民代表大会常务委员会第二十次会议	type: EVENT
+
+Sentence sentiment= 1
+
+
+ 第一章  总  则
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 总	lemma: 总	upos: PART	xpos: PFA	feats: _
+word: 则	lemma: 则	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第一条  为预防和治理水土流失，保护和合理利用水土资源，减轻水、旱、风沙灾害，改善生态环境，发展生产，制定本法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 预防	lemma: 预防	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 合理	lemma: 合理	upos: ADV	xpos: RB	feats: _
+word: 利用	lemma: 利用	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 减轻	lemma: 减轻	upos: VERB	xpos: VV	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 旱	lemma: 旱	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 风沙	lemma: 风沙	upos: NOUN	xpos: NN	feats: _
+word: 灾害	lemma: 灾害	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 改善	lemma: 改善	upos: VERB	xpos: VV	feats: _
+word: 生态	lemma: 生态	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二条  本法所称水土保持，是指对自然因素和人为活动造成水土流失所采取的预防和治理措施。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 指	lemma: 指	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 自然	lemma: 自然	upos: NOUN	xpos: NN	feats: _
+word: 因素	lemma: 因素	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 预防	lemma: 预防	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三条  一切单位和个人都有保护水土资源、防治水土流失的义务，并有权对破坏水土资源、造成水土流失的单位和个人进行检举。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 一切	lemma: 一切	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 义务	lemma: 义务	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 检举	lemma: 检举	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第四条  国家对水土保持工作实行预防为主，全面规划，综合防治，因地制宜，加强管理，注重效益的方针。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 预防	lemma: 预防	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 主	lemma: 主	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 全面	lemma: 全面	upos: ADV	xpos: RB	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 防治	lemma: 防治	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 因地	lemma: 因地	upos: NOUN	xpos: NN	feats: _
+word: 制宜	lemma: 制宜	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 注重	lemma: 注重	upos: VERB	xpos: VV	feats: _
+word: 效益	lemma: 效益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 方针	lemma: 方针	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第五条  国务院和地方人民政府应当将水土保持工作列为重要职责，采取措施做好水土流失防治工作。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 列	lemma: 列	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 重要	lemma: 重要	upos: ADJ	xpos: JJ	feats: _
+word: 职责	lemma: 职责	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 做好	lemma: 做好	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+第六条  国务院水行政主管部门主管全国的水土保持工作。县级以上地方人民政府水行政主管部门，主管本辖区的水土保持工作。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: VERB	xpos: VV	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 主管	lemma: 主管	upos: VERB	xpos: VV	feats: _
+word: 本辖	lemma: 本辖	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第七条  国务院和县级以上地方人民政府的水行政主管部门，应当在调查评价水土资源的基础上，会同有关部门编制水土保持规划。水土保持规划须经同级人民政府批准。县级以上地方人民政府批准的水土保持规划，须报上一级人民政府水行政主管部门备案。水土保持规划的修改，须
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 水行	lemma: 水行	upos: NOUN	xpos: NN	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: 评价	lemma: 评价	upos: NOUN	xpos: NN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 基础	lemma: 基础	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 会	lemma: 会	upos: AUX	xpos: MD	feats: _
+word: 同	lemma: 同	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 编制	lemma: 编制	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: VERB	xpos: VV	feats: _
+word: 须经	lemma: 须经	upos: NOUN	xpos: NN	feats: _
+word: 同级	lemma: 同级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 报上	lemma: 报上	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水	lemma: 水	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 修改	lemma: 修改	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+
+
+entity: 第七	type: ORDINAL
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+经原批准机关批准。
+
+word: 经原	lemma: 经原	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    县级以上人民政府应当将水土保持规划确定的任务，纳入国民经济和社会发展计划，安排专项资金，并组织实施。
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: 确定	lemma: 确定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 任务	lemma: 任务	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 纳入	lemma: 纳入	upos: VERB	xpos: VV	feats: _
+word: 国民	lemma: 国民	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 发展	lemma: 发展	upos: NOUN	xpos: NN	feats: _
+word: 计划	lemma: 计划	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 安排	lemma: 安排	upos: VERB	xpos: VV	feats: _
+word: 专项	lemma: 专项	upos: NOUN	xpos: NN	feats: _
+word: 资金	lemma: 资金	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+    县级以上人民政府应当依据水土流失的具体情况，划定水土流失重点防治区，进行重点防治。
+
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 依据	lemma: 依据	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 具体	lemma: 具体	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 划定	lemma: 划定	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 重点	lemma: 重点	upos: NOUN	xpos: NN	feats: _
+word: 防治	lemma: 防治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 重点	lemma: 重点	upos: NOUN	xpos: NN	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第八条  从事可能引起水土流失的生产建设活动的单位和个人，必须采取措施保护水土资源，并负责治理因生产建设活动造成的水土流失。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 可能	lemma: 可能	upos: AUX	xpos: MD	feats: _
+word: 引起	lemma: 引起	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第九条  各级人民政府应当加强水土保持的宣传教育工作，普及水土保持科学知识。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 宣传	lemma: 宣传	upos: NOUN	xpos: NN	feats: _
+word: 教育	lemma: 教育	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 普及	lemma: 普及	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 知识	lemma: 知识	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十条  国家鼓励开展水土保持科学技术研究，提高水土保持科学技术水平，推广水土保持的先进技术，有计划地培养水土保持的科学技术人才。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 鼓励	lemma: 鼓励	upos: VERB	xpos: VV	feats: _
+word: 开展	lemma: 开展	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 提高	lemma: 提高	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 水平	lemma: 水平	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 推广	lemma: 推广	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 先进	lemma: 先进	upos: ADJ	xpos: JJ	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 培养	lemma: 培养	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 科学	lemma: 科学	upos: NOUN	xpos: NN	feats: _
+word: 技术	lemma: 技术	upos: NOUN	xpos: NN	feats: _
+word: 人才	lemma: 人才	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十一条  在防治水土流失工作中成绩显著的单位和个人，由人民政府给予奖励。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 防治	lemma: 防治	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 成绩	lemma: 成绩	upos: NOUN	xpos: NN	feats: _
+word: 显著	lemma: 显著	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 奖励	lemma: 奖励	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二章  预  防
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 预	lemma: 预	upos: NOUN	xpos: NN	feats: _
+word: 防	lemma: 防	upos: VERB	xpos: VV	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第十二条  各级人民政府应当组织全民植树造林，鼓励种草，扩大森林覆盖面积，增加植被。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 全民	lemma: 全民	upos: NOUN	xpos: NN	feats: _
+word: 植树	lemma: 植树	upos: NOUN	xpos: NN	feats: _
+word: 造林	lemma: 造林	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 鼓励	lemma: 鼓励	upos: VERB	xpos: VV	feats: _
+word: 种草	lemma: 种草	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 扩大	lemma: 扩大	upos: VERB	xpos: VV	feats: _
+word: 森林	lemma: 森林	upos: NOUN	xpos: NN	feats: _
+word: 覆盖	lemma: 覆盖	upos: NOUN	xpos: NN	feats: _
+word: 面积	lemma: 面积	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 增加	lemma: 增加	upos: VERB	xpos: VV	feats: _
+word: 植被	lemma: 植被	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第十三条  各级地方人民政府应当根据当地情况，组织农业集体经济组织和国营农、林、牧场，种植薪炭林和饲草、绿肥植物，有计划地进行封山育林育草、轮封轮牧，防风固沙，保护植被。禁止毁林开荒、烧山开荒和在陡坡地、干旱地区铲草皮、挖树兜。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 国	lemma: 国	upos: NOUN	xpos: NN	feats: _
+word: 营农	lemma: 营农	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 林	lemma: 林	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 牧场	lemma: 牧场	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 种植	lemma: 种植	upos: VERB	xpos: VV	feats: _
+word: 薪炭	lemma: 薪炭	upos: NOUN	xpos: NN	feats: _
+word: 林	lemma: 林	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 饲草	lemma: 饲草	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 绿肥	lemma: 绿肥	upos: NOUN	xpos: NN	feats: _
+word: 植物	lemma: 植物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 封山	lemma: 封山	upos: VERB	xpos: VV	feats: _
+word: 育林	lemma: 育林	upos: NOUN	xpos: NN	feats: _
+word: 育草	lemma: 育草	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 轮封	lemma: 轮封	upos: VERB	xpos: VV	feats: _
+word: 轮	lemma: 轮	upos: PART	xpos: SFN	feats: _
+word: 牧	lemma: 牧	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防风	lemma: 防风	upos: NOUN	xpos: NN	feats: _
+word: 固沙	lemma: 固沙	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 植	lemma: 植	upos: PART	xpos: SFN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 毁林	lemma: 毁林	upos: PROPN	xpos: NNP	feats: _
+word: 开荒	lemma: 开荒	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 烧山	lemma: 烧山	upos: VERB	xpos: VV	feats: _
+word: 开荒	lemma: 开荒	upos: VERB	xpos: VV	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 陡坡	lemma: 陡坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 干旱	lemma: 干旱	upos: NOUN	xpos: NN	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 铲草	lemma: 铲草	upos: NOUN	xpos: NN	feats: _
+word: 皮	lemma: 皮	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 挖树	lemma: 挖树	upos: PROPN	xpos: NNP	feats: _
+word: 兜	lemma: 兜	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+第十四条  禁止在二十五度以上陡坡地开垦种植农作物。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 二十五	lemma: 二十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 陡坡	lemma: 陡坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 种	lemma: 种	upos: PART	xpos: SFN	feats: _
+word: 植农	lemma: 植农	upos: NOUN	xpos: NN	feats: _
+word: 作物	lemma: 作物	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+entity: 二十五度	type: QUANTITY
+
+Sentence sentiment= 0
+
+
+    省、自治区、直辖市人民政府可以根据本辖区的实际情况，规定小于二十五度的禁止开垦坡度。
+
+word: 省	lemma: 省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本辖	lemma: 本辖	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 小	lemma: 小	upos: ADJ	xpos: JJ	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 二十五	lemma: 二十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: NOUN	xpos: NN	feats: _
+word: 坡度	lemma: 坡度	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 二十五度	type: QUANTITY
+
+Sentence sentiment= 2
+
+
+    禁止开垦的陡坡地的具体范围由当地县级人民政府划定并公告。
+
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 陡坡	lemma: 陡坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 具体	lemma: 具体	upos: ADJ	xpos: JJ	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 当地	lemma: 当地	upos: NOUN	xpos: NN	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 划定	lemma: 划定	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: CCONJ	xpos: CC	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    本法施行前已在禁止开垦的陡坡地上开垦种植农作物的，应当在建设基本农田的基础上，根据实际情况，逐步退耕，植树种草，恢复植被，或者修建梯田。
+
+word: 本法施	lemma: 本法施	upos: PROPN	xpos: NNP	feats: _
+word: 行前	lemma: 行前	upos: NOUN	xpos: NN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 陡坡	lemma: 陡坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 上	lemma: 上	upos: NOUN	xpos: NN	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 种	lemma: 种	upos: PART	xpos: SFN	feats: _
+word: 植农	lemma: 植农	upos: NOUN	xpos: NN	feats: _
+word: 作物	lemma: 作物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 农田	lemma: 农田	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 基础	lemma: 基础	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 逐步	lemma: 逐步	upos: ADV	xpos: RB	feats: _
+word: 退耕	lemma: 退耕	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 植树	lemma: 植树	upos: VERB	xpos: VV	feats: _
+word: 种草	lemma: 种草	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 植被	lemma: 植被	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 修建	lemma: 修建	upos: VERB	xpos: VV	feats: _
+word: 梯田	lemma: 梯田	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十五条  开垦禁止开垦坡度以下、五度以上的荒坡地，必须经县级人民政府水行政主管部门批准；开垦国有荒坡地，经县级人民政府水行政主管部门批准后，方可向县级以上人民政府申请办理土地开垦手续。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 坡度	lemma: 坡度	upos: NOUN	xpos: NN	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 荒坡	lemma: 荒坡	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 国有	lemma: 国有	upos: NOUN	xpos: NN	feats: _
+word: 荒坡	lemma: 荒坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方	lemma: 方	upos: ADV	xpos: RB	feats: _
+word: 可向	lemma: 可向	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: VERB	xpos: VV	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 手续	lemma: 手续	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 五度	type: QUANTITY
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+
+Sentence sentiment= 2
+
+
+第十六条  采伐林木必须因地制宜地采用合理采伐方式，严格控制皆伐，对采伐区和集材道采取防止水土流失的措施，并在采伐后及时完成更新造林任务。对水源涵养林、水土保持林、防风固沙林等防护林只准进行抚育和更新性质的采伐。
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 采伐林木	lemma: 采伐林木	upos: PROPN	xpos: NNP	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 因地	lemma: 因地	upos: VERB	xpos: VV	feats: _
+word: 制宜	lemma: 制宜	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 采用	lemma: 采用	upos: VERB	xpos: VV	feats: _
+word: 合理	lemma: 合理	upos: ADJ	xpos: JJ	feats: _
+word: 采伐	lemma: 采伐	upos: NOUN	xpos: NN	feats: _
+word: 方式	lemma: 方式	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 严格	lemma: 严格	upos: ADJ	xpos: JJ	feats: _
+word: 控制	lemma: 控制	upos: VERB	xpos: VV	feats: _
+word: 皆	lemma: 皆	upos: ADV	xpos: RB	feats: _
+word: 伐	lemma: 伐	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 集材	lemma: 集材	upos: NOUN	xpos: NN	feats: _
+word: 道	lemma: 道	upos: PART	xpos: SFN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 后及	lemma: 后及	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 完成	lemma: 完成	upos: VERB	xpos: VV	feats: _
+word: 更新	lemma: 更新	upos: ADJ	xpos: JJ	feats: _
+word: 造林	lemma: 造林	upos: NOUN	xpos: NN	feats: _
+word: 任务	lemma: 任务	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 水源	lemma: 水源	upos: NOUN	xpos: NN	feats: _
+word: 涵养林	lemma: 涵养林	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 林	lemma: 林	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 防风	lemma: 防风	upos: NOUN	xpos: NN	feats: _
+word: 固	lemma: 固	upos: CCONJ	xpos: CC	feats: _
+word: 沙林	lemma: 沙林	upos: PROPN	xpos: NNP	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 防护	lemma: 防护	upos: VERB	xpos: VV	feats: _
+word: 林	lemma: 林	upos: PART	xpos: SFN	feats: _
+word: 只准	lemma: 只准	upos: ADV	xpos: RB	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 抚育	lemma: 抚育	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 新	lemma: 新	upos: PART	xpos: PFA	feats: _
+word: 性质	lemma: 性质	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 采伐	lemma: 采伐	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    在林区采伐林木的，采伐方案中必须有按照前款规定制定的采伐区水土保持措施。采伐方案经林业行政主管部门批准后，采伐区水土保持措施由水行政主管部门和林业行政主管部门监督实施。
+
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 林区	lemma: 林区	upos: NOUN	xpos: NN	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 林木	lemma: 林木	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 采伐	lemma: 采伐	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 前款	lemma: 前款	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 采伐	lemma: 采伐	upos: NOUN	xpos: NN	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 经林	lemma: 经林	upos: PROPN	xpos: NNP	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 林业	lemma: 林业	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 实施	lemma: 实施	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十七条  在五度以上坡地上整地造林，抚育幼林，垦复油茶、油桐等经济林木，必须采取水土保持措施，防止水土流失。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 坡	lemma: 坡	upos: PART	xpos: SFN	feats: _
+word: 地上	lemma: 地上	upos: NOUN	xpos: NN	feats: _
+word: 整地	lemma: 整地	upos: NOUN	xpos: NN	feats: _
+word: 造林	lemma: 造林	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 抚育	lemma: 抚育	upos: VERB	xpos: VV	feats: _
+word: 幼林	lemma: 幼林	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 垦复	lemma: 垦复	upos: VERB	xpos: VV	feats: _
+word: 油茶	lemma: 油茶	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 油桐	lemma: 油桐	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 林木	lemma: 林木	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 五度	type: QUANTITY
+
+Sentence sentiment= 2
+
+
+第十八条  修建铁路、公路和水工程，应当尽量减少破坏植被；废弃的砂、石、土必须运至规定的专门存放地堆放，不得向江河、湖泊、水库和专门存放地以外的沟>倾倒；在铁路、公路两侧地界以内的山坡地，必须修建护坡或者采取其他土地整治措施；工程竣工后，取土场、开挖面和废弃的砂、石、土存放地的裸露土地，必须植树种草，防止水土流失。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 修建	lemma: 修建	upos: VERB	xpos: VV	feats: _
+word: 铁路	lemma: 铁路	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公路	lemma: 公路	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 尽量	lemma: 尽量	upos: ADV	xpos: RB	feats: _
+word: 减少	lemma: 减少	upos: VERB	xpos: VV	feats: _
+word: 破坏	lemma: 破坏	upos: NOUN	xpos: NN	feats: _
+word: 植被	lemma: 植被	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 废弃	lemma: 废弃	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 砂	lemma: 砂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 石	lemma: 石	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 土	lemma: 土	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 运至	lemma: 运至	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 专门	lemma: 专门	upos: ADV	xpos: RB	feats: _
+word: 存放	lemma: 存放	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 堆放	lemma: 堆放	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 江河	lemma: 江河	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 湖泊	lemma: 湖泊	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 水库	lemma: 水库	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 专门	lemma: 专门	upos: ADV	xpos: RB	feats: _
+word: 存放	lemma: 存放	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 以外	lemma: 以外	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 沟>	lemma: 沟>	upos: NOUN	xpos: NN	feats: _
+word: 倾倒	lemma: 倾倒	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 铁路	lemma: 铁路	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公路	lemma: 公路	upos: NOUN	xpos: NN	feats: _
+word: 两	lemma: 两	upos: NUM	xpos: CD	feats: NumType=Card
+word: 侧	lemma: 侧	upos: NOUN	xpos: NN	feats: _
+word: 地界	lemma: 地界	upos: NOUN	xpos: NN	feats: _
+word: 以内	lemma: 以内	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 山坡	lemma: 山坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 修建	lemma: 修建	upos: VERB	xpos: VV	feats: _
+word: 护坡	lemma: 护坡	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 整治	lemma: 整治	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: 竣工	lemma: 竣工	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 取	lemma: 取	upos: VERB	xpos: VV	feats: _
+word: 土场	lemma: 土场	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开	lemma: 开	upos: VERB	xpos: VV	feats: _
+word: 挖面	lemma: 挖面	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 废弃	lemma: 废弃	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 砂	lemma: 砂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 石	lemma: 石	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 土	lemma: 土	upos: NOUN	xpos: NN	feats: _
+word: 存放	lemma: 存放	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 裸露	lemma: 裸露	upos: NOUN	xpos: NN	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 植树	lemma: 植树	upos: VERB	xpos: VV	feats: _
+word: 种草	lemma: 种草	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    开办矿山企业、电力企业和其他大中型工业企业，排弃的>离表土、矸石、尾矿、废渣等必须堆放在规定的专门存放地，不得向江河、湖泊、水库和专门存放地以外的沟>倾倒；因采矿和建设使植被受到破坏的，必须采取措施恢复表土层和植被，防止水土流失。
+
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电力	lemma: 电力	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 大中	lemma: 大中	upos: NOUN	xpos: NN	feats: _
+word: 型	lemma: 型	upos: PART	xpos: SFN	feats: _
+word: 工业	lemma: 工业	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 排弃	lemma: 排弃	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: >离	lemma: >离	upos: NOUN	xpos: NN	feats: _
+word: 表土	lemma: 表土	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 矸石	lemma: 矸石	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 尾矿	lemma: 尾矿	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 废渣	lemma: 废渣	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 堆放	lemma: 堆放	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 专门	lemma: 专门	upos: ADJ	xpos: JJ	feats: _
+word: 存放	lemma: 存放	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 江河	lemma: 江河	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 湖泊	lemma: 湖泊	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 水库	lemma: 水库	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 专门	lemma: 专门	upos: ADV	xpos: RB	feats: _
+word: 存放	lemma: 存放	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 以外	lemma: 以外	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 沟>	lemma: 沟>	upos: NOUN	xpos: NN	feats: _
+word: 倾倒	lemma: 倾倒	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 使植	lemma: 使植	upos: NOUN	xpos: NN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 受到	lemma: 受到	upos: VERB	xpos: VV	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 恢复	lemma: 恢复	upos: VERB	xpos: VV	feats: _
+word: 表土	lemma: 表土	upos: NOUN	xpos: NN	feats: _
+word: 层	lemma: 层	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 植被	lemma: 植被	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第十九条  在山区、丘陵区、风沙区修建铁路、公路、水工程，开办矿山企业、电力企业和其他大中型工业企业，在建设项目环境影响报告书中，必须有水行政主管部门同意的水土保持方案。水土保持方案应当按照本法第十八条的规定制定。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 山	lemma: 山	upos: NOUN	xpos: NN	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 丘陵	lemma: 丘陵	upos: PROPN	xpos: NNP	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 风沙	lemma: 风沙	upos: PROPN	xpos: NNP	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 修建	lemma: 修建	upos: VERB	xpos: VV	feats: _
+word: 铁路	lemma: 铁路	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公路	lemma: 公路	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 电力	lemma: 电力	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 大中	lemma: 大中	upos: NOUN	xpos: NN	feats: _
+word: 型	lemma: 型	upos: PART	xpos: SFN	feats: _
+word: 工业	lemma: 工业	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 项目	lemma: 项目	upos: NOUN	xpos: NN	feats: _
+word: 环境	lemma: 环境	upos: NOUN	xpos: NN	feats: _
+word: 影响	lemma: 影响	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 有水	lemma: 有水	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+entity: 本法	type: LAW
+entity: 第十八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    在山区、丘陵区、风沙区依照矿产资源法的规定开办乡镇集体矿山企业和个体申请采矿，必须持有县级以上地方人民政府水行政主管部门同意的水土保持方案，方可申请办理采矿批准手续。
+
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 山区	lemma: 山区	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 丘陵	lemma: 丘陵	upos: NOUN	xpos: NN	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 风沙	lemma: 风沙	upos: NOUN	xpos: NN	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 矿产	lemma: 矿产	upos: NOUN	xpos: NN	feats: _
+word: 资源	lemma: 资源	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 开办	lemma: 开办	upos: VERB	xpos: VV	feats: _
+word: 乡镇	lemma: 乡镇	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 矿山	lemma: 矿山	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个体	lemma: 个体	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 持有	lemma: 持有	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 方案	lemma: 方案	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方可	lemma: 方可	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 办理	lemma: 办理	upos: VERB	xpos: VV	feats: _
+word: 采矿	lemma: 采矿	upos: VERB	xpos: VV	feats: _
+word: 批准	lemma: 批准	upos: NOUN	xpos: NN	feats: _
+word: 手续	lemma: 手续	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+    建设项目中的水土保持设施，必须与主体工程同时设计、同时施工、同时投产使用。建设工程竣工验收时，应当同时验收水土保持设施，并有水行政主管部门参加。
+
+word: 建	lemma: 建	upos: VERB	xpos: VV	feats: _
+word: 设	lemma: 设	upos: VERB	xpos: VV	feats: _
+word: 项	lemma: 项	upos: NOUN	xpos: NN	feats: _
+word: 目	lemma: 目	upos: PART	xpos: SFN	feats: _
+word: 中	lemma: 中	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 主体	lemma: 主体	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 设计	lemma: 设计	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 施工	lemma: 施工	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 投产	lemma: 投产	upos: VERB	xpos: VV	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 工程	lemma: 工程	upos: NOUN	xpos: NN	feats: _
+word: 竣工	lemma: 竣工	upos: VERB	xpos: VV	feats: _
+word: 验收	lemma: 验收	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当同	lemma: 当同	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 验	lemma: 验	upos: VERB	xpos: VV	feats: _
+word: 收	lemma: 收	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 水行	lemma: 水行	upos: NOUN	xpos: NN	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第二十条  各级地方人民政府应当采取措施，加强对采矿、取土、挖砂、采石等生产活动的管理，防止水土流失。
+
+word: 第二十	lemma: 第二十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 取土	lemma: 取土	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 挖砂	lemma: 挖砂	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采石	lemma: 采石	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 防止	lemma: 防止	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    在崩塌滑坡危险区和泥石流易发区禁止取土、挖砂、采石。崩塌滑坡危险区和泥石流易发区的范围，由县级以上地方人民政府划定并公告。
+
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 崩塌	lemma: 崩塌	upos: NOUN	xpos: NN	feats: _
+word: 滑坡	lemma: 滑坡	upos: NOUN	xpos: NN	feats: _
+word: 危险	lemma: 危险	upos: ADJ	xpos: JJ	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 泥石	lemma: 泥石	upos: PROPN	xpos: NNP	feats: _
+word: 流易	lemma: 流易	upos: VERB	xpos: VV	feats: _
+word: 发区	lemma: 发区	upos: VERB	xpos: VV	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 取土	lemma: 取土	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 挖砂	lemma: 挖砂	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采石	lemma: 采石	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 崩塌	lemma: 崩塌	upos: VERB	xpos: VV	feats: _
+word: 滑坡	lemma: 滑坡	upos: NOUN	xpos: NN	feats: _
+word: 危险	lemma: 危险	upos: ADJ	xpos: JJ	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 泥石	lemma: 泥石	upos: NOUN	xpos: NN	feats: _
+word: 流易	lemma: 流易	upos: VERB	xpos: VV	feats: _
+word: 发区	lemma: 发区	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: DET	xpos: DT	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 划定	lemma: 划定	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: CCONJ	xpos: CC	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第三章  治  理
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 治	lemma: 治	upos: VERB	xpos: VV	feats: _
+word: 理	lemma: 理	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第二十一条  县级以上人民政府应当根据水土保持规划，组织有关行政主管部门和单位有计划地对水土流失进行治理。
+
+word: 第二十一	lemma: 第二十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十一	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+第二十二条  在水力侵蚀地区，应当以天然沟壑及其两侧山坡地形成的小流域为单元，实行全面规划，综合治理，建立水土流失综合防治体系。
+
+word: 第二十二	lemma: 第二十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 水力	lemma: 水力	upos: NOUN	xpos: NN	feats: _
+word: 侵蚀	lemma: 侵蚀	upos: VERB	xpos: VV	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当以	lemma: 当以	upos: VERB	xpos: VV	feats: _
+word: 天然	lemma: 天然	upos: ADJ	xpos: JJ	feats: _
+word: 沟壑	lemma: 沟壑	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 两	lemma: 两	upos: NUM	xpos: CD	feats: NumType=Card
+word: 侧	lemma: 侧	upos: NOUN	xpos: NN	feats: _
+word: 山坡	lemma: 山坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 形成	lemma: 形成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 小	lemma: 小	upos: PART	xpos: PFA	feats: _
+word: 流域	lemma: 流域	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 全面	lemma: 全面	upos: ADJ	xpos: JJ	feats: _
+word: 规划	lemma: 规划	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 综合	lemma: 综合	upos: ADV	xpos: RB	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 综合	lemma: 综合	upos: ADJ	xpos: JJ	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 体系	lemma: 体系	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十二	type: ORDINAL
+entity: 两	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    在风力侵蚀地区，应当采取开发水源、引水拉沙、植树种草、设置人工沙障和网格林带等措施，建立防风固沙防护体系，控制风沙危害。
+
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 风力	lemma: 风力	upos: NOUN	xpos: NN	feats: _
+word: 侵蚀	lemma: 侵蚀	upos: VERB	xpos: VV	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 开发	lemma: 开发	upos: VERB	xpos: VV	feats: _
+word: 水源	lemma: 水源	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 引水	lemma: 引水	upos: VERB	xpos: VV	feats: _
+word: 拉沙	lemma: 拉沙	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 植树	lemma: 植树	upos: NOUN	xpos: NN	feats: _
+word: 种草	lemma: 种草	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 设置	lemma: 设置	upos: VERB	xpos: VV	feats: _
+word: 人工	lemma: 人工	upos: NOUN	xpos: NN	feats: _
+word: 沙障	lemma: 沙障	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 网格	lemma: 网格	upos: NOUN	xpos: NN	feats: _
+word: 林	lemma: 林	upos: PART	xpos: SFN	feats: _
+word: 带等	lemma: 带等	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 防风	lemma: 防风	upos: NOUN	xpos: NN	feats: _
+word: 固沙	lemma: 固沙	upos: NOUN	xpos: NN	feats: _
+word: 防护	lemma: 防护	upos: NOUN	xpos: NN	feats: _
+word: 体系	lemma: 体系	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 控制	lemma: 控制	upos: VERB	xpos: VV	feats: _
+word: 风沙	lemma: 风沙	upos: NOUN	xpos: NN	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十三条  国家鼓励水土流失地区的农业集体经济组织和农民对水土流失进行治理，并在资金、能源、粮食、税收等方面实行扶持政策，具体办法由国务院规定。
+
+word: 第二十三	lemma: 第二十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 鼓励	lemma: 鼓励	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 资金	lemma: 资金	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 能源	lemma: 能源	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 粮食	lemma: 粮食	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 税收	lemma: 税收	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 方面	lemma: 方面	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 扶持	lemma: 扶持	upos: NOUN	xpos: NN	feats: _
+word: 政策	lemma: 政策	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 具体	lemma: 具体	upos: ADJ	xpos: JJ	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十四条  各级地方人民政府应当组织农业集体经济组织和农民，有计划地对禁止开垦坡度以下、五度以上的耕地进行治理，根据不同情况，采取整治排水系统、修建梯田、蓄水保土耕作等水土保持措施。
+
+word: 第二十四	lemma: 第二十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 各级	lemma: 各级	upos: DET	xpos: DT	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 计划	lemma: 计划	upos: VERB	xpos: VV	feats: _
+word: 地对	lemma: 地对	upos: NOUN	xpos: NN	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 坡度	lemma: 坡度	upos: NOUN	xpos: NN	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 耕地	lemma: 耕地	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 不同	lemma: 不同	upos: ADJ	xpos: JJ	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 整治	lemma: 整治	upos: VERB	xpos: VV	feats: _
+word: 排水	lemma: 排水	upos: NOUN	xpos: NN	feats: _
+word: 系统	lemma: 系统	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 修建	lemma: 修建	upos: NOUN	xpos: NN	feats: _
+word: 梯田	lemma: 梯田	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 蓄水	lemma: 蓄水	upos: VERB	xpos: VV	feats: _
+word: 保土	lemma: 保土	upos: NOUN	xpos: NN	feats: _
+word: 耕作	lemma: 耕作	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十四	type: ORDINAL
+entity: 五度	type: QUANTITY
+
+Sentence sentiment= 2
+
+
+第二十五条  水土流失地区的集体所有的土地承包给个人使用的，应当将治理水土流失的责任列入承包合同。
+
+word: 第二十五	lemma: 第二十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADV	xpos: RB	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 列入	lemma: 列入	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第二十六条  荒山、荒沟、荒丘、荒滩可以由农业集体经济组织、农民个人或者联户承包水土流失的治理。
+
+word: 第二十六	lemma: 第二十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 荒山	lemma: 荒山	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒沟	lemma: 荒沟	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒丘	lemma: 荒丘	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒滩	lemma: 荒滩	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 农民	lemma: 农民	upos: NOUN	xpos: NN	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 联户	lemma: 联户	upos: NOUN	xpos: NN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    对荒山、荒沟、荒丘、荒滩水土流失的治理实行承包的，应当按照谁承包治理谁受益的原则，签订水土保持承包治理合同。
+
+word: 对荒山	lemma: 对荒山	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒沟	lemma: 荒沟	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒丘	lemma: 荒丘	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荒滩	lemma: 荒滩	upos: PROPN	xpos: NNP	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按照	lemma: 按照	upos: ADP	xpos: IN	feats: _
+word: 谁	lemma: 谁	upos: PRON	xpos: WP	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 谁	lemma: 谁	upos: PRON	xpos: WP	feats: _
+word: 受益	lemma: 受益	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 签订	lemma: 签订	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    承包治理所种植的林木及其果实，归承包者所有，因承包治理而新增加的土地，由承包者使用。
+
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 种植	lemma: 种植	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 林木	lemma: 林木	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 果实	lemma: 果实	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 归承	lemma: 归承	upos: VERB	xpos: VV	feats: _
+word: 包者	lemma: 包者	upos: NOUN	xpos: NN	feats: _
+word: 所有	lemma: 所有	upos: DET	xpos: DT	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 而	lemma: 而	upos: ADV	xpos: RB	feats: _
+word: 新	lemma: 新	upos: ADV	xpos: RB	feats: _
+word: 增加	lemma: 增加	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 土地	lemma: 土地	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+    国家保护承包治理合同当事人的合法权益。在承包治理合同有效期内，承包人死亡时，继承人可以依照承包治理合同的约定继续承包。
+
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 合法	lemma: 合法	upos: ADJ	xpos: JJ	feats: _
+word: 权益	lemma: 权益	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 有效	lemma: 有效	upos: ADJ	xpos: JJ	feats: _
+word: 期内	lemma: 期内	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 死亡	lemma: 死亡	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 继承	lemma: 继承	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 承包	lemma: 承包	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 合同	lemma: 合同	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 约定	lemma: 约定	upos: NOUN	xpos: NN	feats: _
+word: 继续	lemma: 继续	upos: VERB	xpos: VV	feats: _
+word: 承包	lemma: 承包	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第二十七条  企业事业单位在建设和生产过程中必须采取水土保持措施，对造成的水土流失负责治理。本单位无力治理的，由水行政主管部门治理，治理费用由造成水土流失的企业事业单位负担。
+
+word: 第二十七	lemma: 第二十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 无力	lemma: 无力	upos: ADV	xpos: RB	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 负担	lemma: 负担	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    建设过程中发生的水土流失防治费用，从基本建设投资中列支；生产过程中发生的水土流失防治费用，从生产费用中列支。
+
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 投资	lemma: 投资	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 列支	lemma: 列支	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 列支	lemma: 列支	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第二十八条  在水土流失地区建设的水土保持设施和种植的林草，由县级以上人民政府组织有关部门检查验收。
+
+word: 第二十八	lemma: 第二十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 建设	lemma: 建设	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 种植	lemma: 种植	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 林草	lemma: 林草	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: VERB	xpos: VV	feats: _
+word: 验收	lemma: 验收	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十八	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 1
+
+
+    对水土保持设施、试验场地、种植的林草和其他治理成果，应当加强管理和保护。
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 设施	lemma: 设施	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 试验	lemma: 试验	upos: NOUN	xpos: NN	feats: _
+word: 场地	lemma: 场地	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 种植	lemma: 种植	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 林草	lemma: 林草	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 成果	lemma: 成果	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 保护	lemma: 保护	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第四章  监  督
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NN	feats: _
+word: 监	lemma: 监	upos: VERB	xpos: VV	feats: _
+word: 督	lemma: 督	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    第二十九条  国务院水行政主管部门建立水土保持监测网络，对全国水土流失动态进行监测预报，并予以公告。
+
+word: 第二十九	lemma: 第二十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 建立	lemma: 建立	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 监测	lemma: 监测	upos: NOUN	xpos: NN	feats: _
+word: 网络	lemma: 网络	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 全国	lemma: 全国	upos: NOUN	xpos: NN	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: NOUN	xpos: NN	feats: _
+word: 动态	lemma: 动态	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 监测	lemma: 监测	upos: NOUN	xpos: NN	feats: _
+word: 预报	lemma: 预报	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 予	lemma: 予	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 公告	lemma: 公告	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二十九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第三十条  县级以上地方人民政府水行政主管部门的水土保持监督人员，有权对本辖区的水土流失及其防治情况进行现场检查。被检查单位和个人必须如实报告情况，提供必要的工作条件。
+
+word: 第三十	lemma: 第三十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政	lemma: 政	upos: PART	xpos: SFN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有权	lemma: 有权	upos: VERB	xpos: VV	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 辖区	lemma: 辖区	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 防治	lemma: 防治	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 现场	lemma: 现场	upos: NOUN	xpos: NN	feats: _
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 检查	lemma: 检查	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: PRON	xpos: PRD	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 如实	lemma: 如实	upos: ADJ	xpos: JJ	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 必要	lemma: 必要	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 条件	lemma: 条件	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十一条  地区之间发生的水土流失防治的纠纷，应当协商解决；协商不成的，由上一级人民政府处理。
+
+word: 第三十一	lemma: 第三十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 地	lemma: 地	upos: NOUN	xpos: NN	feats: _
+word: 区	lemma: 区	upos: NOUN	xpos: NN	feats: _
+word: 之间	lemma: 之间	upos: NOUN	xpos: NN	feats: _
+word: 发生	lemma: 发生	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 防治	lemma: 防治	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 解决	lemma: 解决	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 协商	lemma: 协商	upos: VERB	xpos: VV	feats: _
+word: 不成	lemma: 不成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由上	lemma: 由上	upos: VERB	xpos: VV	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十一	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第五章  法律责任
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    第三十二条  违反本法第十四条规定，在禁止开垦的陡坡地开垦种植农作物的，由县级人民政府水行政主管部门责令停止开垦、采取补救措施，可以处以罚款。
+
+word: 第三十二	lemma: 第三十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 违	lemma: 违	upos: VERB	xpos: VV	feats: _
+word: 反	lemma: 反	upos: VERB	xpos: VV	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 陡坡	lemma: 陡坡	upos: NOUN	xpos: NN	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 种	lemma: 种	upos: PART	xpos: SFN	feats: _
+word: 植农	lemma: 植农	upos: NOUN	xpos: NN	feats: _
+word: 作物	lemma: 作物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 补救	lemma: 补救	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 罚款	lemma: 罚款	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十二	type: ORDINAL
+entity: 本法	type: LAW
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十三条  企业事业单位、农业集体经济组织未经县级人民政府水行政主管部门批准，擅自开垦禁止开垦坡度以下、五度以上的荒坡地的，由县级人民政府水行政主管部门责令停止开垦、采取补救措施，可以处以罚款。
+
+word: 第三十三	lemma: 第三十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 农业	lemma: 农业	upos: NOUN	xpos: NN	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 经济	lemma: 经济	upos: NOUN	xpos: NN	feats: _
+word: 组织	lemma: 组织	upos: NOUN	xpos: NN	feats: _
+word: 未经	lemma: 未经	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: NOUN	xpos: NN	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 坡度	lemma: 坡度	upos: NOUN	xpos: NN	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 度	lemma: 度	upos: NOUN	xpos: NNB	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 荒坡	lemma: 荒坡	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: NOUN	xpos: NN	feats: _
+word: 政	lemma: 政	upos: PART	xpos: SFN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 开垦	lemma: 开垦	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 补救	lemma: 补救	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 罚款	lemma: 罚款	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十三	type: ORDINAL
+entity: 五度	type: QUANTITY
+
+Sentence sentiment= 0
+
+
+第三十四条  在县级以上地方人民政府划定的崩塌滑坡危险区、泥石流易发区范围内取土、挖砂或者采石的，由县级以上地方人民政府水行政主管部门责令停止上述违法行为、采取补救措施，处以罚款。
+
+word: 第三十四	lemma: 第三十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 划定	lemma: 划定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 崩塌	lemma: 崩塌	upos: NOUN	xpos: NN	feats: _
+word: 滑坡	lemma: 滑坡	upos: NOUN	xpos: NN	feats: _
+word: 危险	lemma: 危险	upos: ADJ	xpos: JJ	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 泥石	lemma: 泥石	upos: NOUN	xpos: NN	feats: _
+word: 流易	lemma: 流易	upos: VERB	xpos: VV	feats: _
+word: 发区	lemma: 发区	upos: NOUN	xpos: NN	feats: _
+word: 范围	lemma: 范围	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 取土	lemma: 取土	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 挖砂	lemma: 挖砂	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 采石	lemma: 采石	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水行	lemma: 水行	upos: VERB	xpos: VV	feats: _
+word: 政主	lemma: 政主	upos: NOUN	xpos: NN	feats: _
+word: 管	lemma: 管	upos: PART	xpos: SFN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停止	lemma: 停止	upos: VERB	xpos: VV	feats: _
+word: 上述	lemma: 上述	upos: NOUN	xpos: NN	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 补救	lemma: 补救	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 罚款	lemma: 罚款	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十五条  在林区采伐林木，不采取水土保持措施，造成严重水土流失的，由水行政主管部门报请县级以上人民政府决定责令限期改正、采取补救措施，处以罚款。
+
+word: 第三十五	lemma: 第三十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 林	lemma: 林	upos: PROPN	xpos: NNP	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 采伐	lemma: 采伐	upos: VERB	xpos: VV	feats: _
+word: 林木	lemma: 林木	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 严重	lemma: 严重	upos: ADJ	xpos: JJ	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由水	lemma: 由水	upos: PROPN	xpos: NNP	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 报请	lemma: 报请	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: VERB	xpos: VV	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 限期	lemma: 限期	upos: NOUN	xpos: NN	feats: _
+word: 改正	lemma: 改正	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 补救	lemma: 补救	upos: NOUN	xpos: NN	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: _
+word: 罚款	lemma: 罚款	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十五	type: ORDINAL
+entity: 政府	type: ORG
+
+Sentence sentiment= 0
+
+
+第三十六条  企业事业单位在建设和生产过程中造成水土流失，不进行治理的，可以根据所造成的危害后果处以罚款，或者责令停业治理；对有关责任人员由其所在单位或者上级主管机关给予行政处分。
+
+word: 第三十六	lemma: 第三十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 建设	lemma: 建设	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 生产	lemma: 生产	upos: NOUN	xpos: NN	feats: _
+word: 过程	lemma: 过程	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: 后果	lemma: 后果	upos: NOUN	xpos: NN	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 罚款	lemma: 罚款	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停业	lemma: 停业	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 上级	lemma: 上级	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十六	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    罚款由县级人民政府水行政主管部门报请县级人民政府决定。责令停业治理由市、县人民政府决定；中央或者省级人民政府直接管辖的企业事业单位的停业治理，须报请国务院或者省级人民政府批准。
+
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 水	lemma: 水	upos: PART	xpos: SFN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 报请	lemma: 报请	upos: VERB	xpos: VV	feats: _
+word: 县级	lemma: 县级	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 责令	lemma: 责令	upos: VERB	xpos: VV	feats: _
+word: 停业	lemma: 停业	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: VERB	xpos: VV	feats: _
+word: 由市	lemma: 由市	upos: PROPN	xpos: NNP	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 县	lemma: 县	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 中央	lemma: 中央	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 省级	lemma: 省级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 管辖	lemma: 管辖	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 事业	lemma: 事业	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 停业	lemma: 停业	upos: NOUN	xpos: NN	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 报请	lemma: 报请	upos: VERB	xpos: VV	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 省级	lemma: 省级	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 政府	type: ORG
+entity: 中央	type: ORG
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+
+Sentence sentiment= 0
+
+
+    个体采矿造成水土流失，不进行治理的，按照前两款的规定处罚。
+
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 体	lemma: 体	upos: NOUN	xpos: NN	feats: _
+word: 采矿	lemma: 采矿	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 治理	lemma: 治理	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 照	lemma: 照	upos: VERB	xpos: VV	feats: _
+word: 前	lemma: 前	upos: DET	xpos: DT	feats: _
+word: 两	lemma: 两	upos: NUM	xpos: CD	feats: NumType=Card
+word: 款	lemma: 款	upos: NOUN	xpos: NNB	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 两	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+第三十七条  以暴力、威胁方法阻碍水土保持监督人员依法执行职务的，依法追究刑事责任；拒绝、阻碍水土保持监督人员执行职务未使用暴力、威胁方法的，由公安机关依照治安管理处罚条例的规定处罚。
+
+word: 第三十七	lemma: 第三十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 以	lemma: 以	upos: ADP	xpos: IN	feats: _
+word: 暴力	lemma: 暴力	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 威胁	lemma: 威胁	upos: NOUN	xpos: NN	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: 阻碍	lemma: 阻碍	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 职务	lemma: 职务	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 拒绝	lemma: 拒绝	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 阻碍	lemma: 阻碍	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 职务	lemma: 职务	upos: NOUN	xpos: NN	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 暴力	lemma: 暴力	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 威胁	lemma: 威胁	upos: NOUN	xpos: NN	feats: _
+word: 方法	lemma: 方法	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 公安	lemma: 公安	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 依照	lemma: 依照	upos: ADP	xpos: IN	feats: _
+word: 治安	lemma: 治安	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十七	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三十八条  当事人对行政处罚决定不服的，可以在接到处罚通知之日起十五日内向作出处罚决定的机关的上一级机关申请复议；当事人也可以在接到处罚通知之日起十五日内直接向人民法院起诉。
+
+word: 第三十八	lemma: 第三十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 接到	lemma: 接到	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: NOUN	xpos: NN	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 上	lemma: 上	upos: NOUN	xpos: NN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 级	lemma: 级	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 接到	lemma: 接到	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: NOUN	xpos: NN	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十八	type: ORDINAL
+entity: 十五日	type: DATE
+entity: 十五日	type: DATE
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+    复议机关应当在接到复议申请之日起六十日内作出复议决定。当事人对复议决定不服的，可以在接到复议决定之日起十五日内向人民法院起诉。复议机关逾期不作出复议决定的，当事人可以在复议期满之日起十五日内向人民法院起诉。
+
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 接到	lemma: 接到	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: NOUN	xpos: NN	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 六十	lemma: 六十	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 接到	lemma: 接到	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: 期满	lemma: 期满	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六十日	type: DATE
+entity: 十五日	type: DATE
+entity: 人民法院	type: ORG
+entity: 十五日	type: DATE
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+    当事人逾期不申请复议也不向人民法院起诉、又不履行处罚决定的，作出处罚决定的机关可以申请人民法院强制执行。
+
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 复议	lemma: 复议	upos: VERB	xpos: VV	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 不向	lemma: 不向	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 又	lemma: 又	upos: ADV	xpos: RB	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 处罚	lemma: 处罚	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 强制	lemma: 强制	upos: VERB	xpos: VV	feats: _
+word: 执行	lemma: 执行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第三十九条  造成水土流失危害的，有责任排除危害，并对直接受到损害的单位和个人赔偿损失。
+
+word: 第三十九	lemma: 第三十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 排除	lemma: 排除	upos: VERB	xpos: VV	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 受到	lemma: 受到	upos: VERB	xpos: VV	feats: _
+word: 损害	lemma: 损害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    赔偿责任和赔偿金额的纠纷，可以根据当事人的请求，由水行政主管部门处理；当事人对处理决定不服的，可以向人民法院起诉。当事人也可以直接向人民法院起诉。
+
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 赔偿	lemma: 赔偿	upos: NOUN	xpos: NN	feats: _
+word: 金额	lemma: 金额	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 请求	lemma: 请求	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 水	lemma: 水	upos: NOUN	xpos: NN	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 处理	lemma: 处理	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 处理	lemma: 处理	upos: NOUN	xpos: NN	feats: _
+word: 决定	lemma: 决定	upos: VERB	xpos: VV	feats: _
+word: 不服	lemma: 不服	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 也	lemma: 也	upos: ADV	xpos: RB	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 直接	lemma: 直接	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 人民法院	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 2
+
+
+    由于不可抗拒的自然灾害，并经及时采取合理措施，仍然不能避免造成水土流失危害的，免予承担责任。
+
+word: 由于	lemma: 由于	upos: ADP	xpos: IN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 可抗拒	lemma: 可抗拒	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 自然	lemma: 自然	upos: NOUN	xpos: NN	feats: _
+word: 灾害	lemma: 灾害	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 经及	lemma: 经及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 采取	lemma: 采取	upos: VERB	xpos: VV	feats: _
+word: 合理	lemma: 合理	upos: ADJ	xpos: JJ	feats: _
+word: 措施	lemma: 措施	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 仍然	lemma: 仍然	upos: ADV	xpos: RB	feats: _
+word: 不能	lemma: 不能	upos: AUX	xpos: MD	feats: _
+word: 避免	lemma: 避免	upos: VERB	xpos: VV	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 流失	lemma: 流失	upos: VERB	xpos: VV	feats: _
+word: 危害	lemma: 危害	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 免予	lemma: 免予	upos: VERB	xpos: VV	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+第四十条  水土保持监督人员玩忽职守、滥用职权给公共财产、国家和人民利益造成损失的，由其所在单位或者上级主管机关给予行政处分；构成犯罪的，依法追究刑事责任。
+
+word: 第四十	lemma: 第四十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 监督	lemma: 监督	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 玩忽	lemma: 玩忽	upos: NOUN	xpos: NN	feats: _
+word: 职守	lemma: 职守	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 滥用	lemma: 滥用	upos: VERB	xpos: VV	feats: _
+word: 职权	lemma: 职权	upos: NOUN	xpos: NN	feats: _
+word: 给	lemma: 给	upos: VERB	xpos: VV	feats: _
+word: 公共	lemma: 公共	upos: ADJ	xpos: JJ	feats: _
+word: 财产	lemma: 财产	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 造成	lemma: 造成	upos: VERB	xpos: VV	feats: _
+word: 损失	lemma: 损失	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 上级	lemma: 上级	upos: NOUN	xpos: NN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 处分	lemma: 处分	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 构成	lemma: 构成	upos: VERB	xpos: VV	feats: _
+word: 犯罪	lemma: 犯罪	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 依法	lemma: 依法	upos: VERB	xpos: VV	feats: _
+word: 追究	lemma: 追究	upos: VERB	xpos: VV	feats: _
+word: 刑事	lemma: 刑事	upos: NOUN	xpos: NN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第六章  附  则
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 章	lemma: 章	upos: NOUN	xpos: NNB	feats: _
+word: 附	lemma: 附	upos: VERB	xpos: VV	feats: _
+word: 则	lemma: 则	upos: ADV	xpos: RB	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    第四十一条  国务院根据本法制定实施条例。
+
+word: 第四十一	lemma: 第四十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    省、自治区、直辖市人民代表大会常务委员会，可以根据本法和本地区的实际情况制定实施办法。
+
+word: 省	lemma: 省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 大会	lemma: 大会	upos: NOUN	xpos: NN	feats: _
+word: 常务	lemma: 常务	upos: NOUN	xpos: NN	feats: _
+word: 委员	lemma: 委员	upos: NOUN	xpos: NN	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 地区	lemma: 地区	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 情况	lemma: 情况	upos: NOUN	xpos: NN	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 人民代表大会	type: ORG
+
+Sentence sentiment= 2
+
+
+第四十二条  本法自公布之日起施行。１９８２年６月３０日国务院发布的《水土保持工作条例》同时废止。
+
+word: 第四十二	lemma: 第四十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本法	lemma: 本法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: 公布	lemma: 公布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: １９８２	lemma: １９８２	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: ６	lemma: ６	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: ３０	lemma: ３０	upos: VERB	xpos: VV	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 国务	lemma: 国务	upos: NOUN	xpos: NN	feats: _
+word: 院	lemma: 院	upos: PART	xpos: SFN	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 水土	lemma: 水土	upos: NOUN	xpos: NN	feats: _
+word: 保持	lemma: 保持	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 同时	lemma: 同时	upos: NOUN	xpos: NN	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四十二	type: ORDINAL
+entity: １９８２年	type: DATE
+entity: ６月３０日	type: DATE
+entity: 国务院	type: ORG
+entity: 水土保持工作条例	type: LAW
+
+Sentence sentiment= 1
+
+

@@ -1,0 +1,1323 @@
+PA012-MA of Internal Informational Publications-C
+内部资料性出版物管理办法
+
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+１９９7年12月30日
+
+word: １９９7	lemma: １９９7	upos: NUM	xpos: CD	feats: NumType=Card
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: 12	lemma: 12	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: 30	lemma: 30	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+
+
+entity: 12月30日	type: DATE
+
+Sentence sentiment= 1
+
+
+  
+
+
+
+Sentence sentiment= 1
+
+
+        
+
+
+
+Sentence sentiment= 1
+
+
+    第一条  为了加强内部资料性出版物的管理，根据《印刷业管理条例》和《出版物印刷管理规定》，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为了	lemma: 为了	upos: ADP	xpos: IN	feats: _
+word: 加强	lemma: 加强	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性出	lemma: 性出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 印刷业管理条例	type: LAW
+entity: 出版物印刷管理规定	type: LAW
+
+Sentence sentiment= 2
+
+
+第二条  凡从事内部资料性出版物委印和承印活动，必须遵守本办法。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物委	lemma: 物委	upos: NOUN	xpos: NN	feats: _
+word: 印	lemma: 印	upos: PART	xpos: SFN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承印	lemma: 承印	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 遵守	lemma: 遵守	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    本办法所称内部资料性出版物，是指在本系统、本行业、本单位内部，用于指导工作、交流信息的非卖性成册、折页或散页印刷品，不包括机关公文性的简报等信息资料。
+
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 称	lemma: 称	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 是	lemma: 是	upos: VERB	xpos: VC	feats: _
+word: 指	lemma: 指	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 系统	lemma: 系统	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 本行	lemma: 本行	upos: NOUN	xpos: NN	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 于	lemma: 于	upos: VERB	xpos: VV	feats: _
+word: 指导	lemma: 指导	upos: VERB	xpos: VV	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 交流	lemma: 交流	upos: NOUN	xpos: NN	feats: _
+word: 信息	lemma: 信息	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 非	lemma: 非	upos: PART	xpos: PFA	feats: _
+word: 卖性	lemma: 卖性	upos: VERB	xpos: VV	feats: _
+word: 成册	lemma: 成册	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 折页	lemma: 折页	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 散页	lemma: 散页	upos: VERB	xpos: VV	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 品	lemma: 品	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 包括	lemma: 包括	upos: VERB	xpos: VV	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 公文	lemma: 公文	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 简报	lemma: 简报	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 信息	lemma: 信息	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第三条  对内部资料性出版物的委印和承印，实行核发《内部资料性出版物准印证》（以下简称《准印证》）管理。未经批准取得《准印证》，任何单位和个人不得从事内部资料性出版物的委印和承印活动。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: NOUN	xpos: NNB	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 委印	lemma: 委印	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承印	lemma: 承印	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 核发	lemma: 核发	upos: NOUN	xpos: NN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: NOUN	xpos: NN	feats: _
+word: 物准	lemma: 物准	upos: NOUN	xpos: NN	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 简称	lemma: 简称	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: VERB	xpos: VV	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 管理	lemma: 管理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 未经	lemma: 未经	upos: ADV	xpos: RB	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 取得	lemma: 取得	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 个人	lemma: 个人	upos: NOUN	xpos: NN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性出	lemma: 性出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 委印	lemma: 委印	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承印	lemma: 承印	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第四条  委托印刷内部资料性出版物，应当向所在地省、自治区、直辖市新闻出版局提出申请，申请书应当注明编印目的、内容、发送对象、印张数、印刷期数、册数、开本等，经审核批准，领取《准印证》后，方可从事委印活动。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: ADP	xpos: IN	feats: _
+word: 当向	lemma: 当向	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地省	lemma: 地省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 注明	lemma: 注明	upos: VERB	xpos: VV	feats: _
+word: 编	lemma: 编	upos: PART	xpos: SFN	feats: _
+word: 印目	lemma: 印目	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 发送	lemma: 发送	upos: NOUN	xpos: NN	feats: _
+word: 对象	lemma: 对象	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 印张	lemma: 印张	upos: VERB	xpos: VV	feats: _
+word: 数	lemma: 数	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 期数	lemma: 期数	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 册数	lemma: 册数	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 开本	lemma: 开本	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经审	lemma: 经审	upos: VERB	xpos: VV	feats: _
+word: 核	lemma: 核	upos: PART	xpos: SFN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 领取	lemma: 领取	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: VERB	xpos: VV	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 方	lemma: 方	upos: ADV	xpos: RB	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 事委	lemma: 事委	upos: NOUN	xpos: NN	feats: _
+word: 印	lemma: 印	upos: VERB	xpos: VV	feats: _
+word: 活动	lemma: 活动	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第五条  内部资料性出版物不得使用"××报"、"××刊"或"××杂志"等字样，必须注明"内部资料，免费交流"。印刷时，应在明显位置完整地印出"内部资料准印证"编号，不得省略或假冒、伪造。内部资料性出版物所设的有关机构，不具有法人资格。
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: NOUN	xpos: NN	feats: _
+word: ×	lemma: ×	upos: X	xpos: FW	feats: _
+word: ×	lemma: ×	upos: X	xpos: FW	feats: _
+word: 报"	lemma: 报"	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: "×	lemma: "×	upos: NOUN	xpos: NN	feats: _
+word: ×刊	lemma: ×刊	upos: NOUN	xpos: NN	feats: _
+word: "	lemma: "	upos: PART	xpos: SFN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: "×	lemma: "×	upos: NOUN	xpos: NN	feats: _
+word: ×	lemma: ×	upos: PUNCT	xpos: /	feats: _
+word: 杂志	lemma: 杂志	upos: NOUN	xpos: NN	feats: _
+word: "	lemma: "	upos: PART	xpos: SFN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 字样	lemma: 字样	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 注明	lemma: 注明	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 免费	lemma: 免费	upos: ADV	xpos: RB	feats: _
+word: 交流	lemma: 交流	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 明显	lemma: 明显	upos: ADJ	xpos: JJ	feats: _
+word: 位置	lemma: 位置	upos: NOUN	xpos: NN	feats: _
+word: 完整	lemma: 完整	upos: ADJ	xpos: JJ	feats: _
+word: 地	lemma: 地	upos: PART	xpos: DEV	feats: _
+word: 印出	lemma: 印出	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: PUNCT	xpos: ,	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 准	lemma: 准	upos: ADV	xpos: RB	feats: _
+word: 印证	lemma: 印证	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: PART	xpos: DEC	feats: _
+word: 编号	lemma: 编号	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 省略	lemma: 省略	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 假冒	lemma: 假冒	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 伪造	lemma: 伪造	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 设	lemma: 设	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 机构	lemma: 机构	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 具有	lemma: 具有	upos: VERB	xpos: VV	feats: _
+word: 法人	lemma: 法人	upos: NOUN	xpos: NN	feats: _
+word: 资格	lemma: 资格	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第六条  内部资料性出版物严格限定在本系统、本行业、本单位内部交流，不得收取任何费用，不得刊登广告，不得在社会上征订发行，不得传播到境外，不得拉赞助或搞有偿经营性活动，不得用《准印证》出版其他出版物，不得与外单位以"协办"之类形式进行印刷发行等。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 严格	lemma: 严格	upos: ADV	xpos: RB	feats: _
+word: 限定	lemma: 限定	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 系统	lemma: 系统	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 本行	lemma: 本行	upos: NOUN	xpos: NN	feats: _
+word: 业	lemma: 业	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 交流	lemma: 交流	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 收取	lemma: 收取	upos: VERB	xpos: VV	feats: _
+word: 任何	lemma: 任何	upos: DET	xpos: DT	feats: _
+word: 费用	lemma: 费用	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 刊登	lemma: 刊登	upos: VERB	xpos: VV	feats: _
+word: 广告	lemma: 广告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 上	lemma: 上	upos: ADP	xpos: IN	feats: _
+word: 征订	lemma: 征订	upos: VERB	xpos: VV	feats: _
+word: 发行	lemma: 发行	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 传播	lemma: 传播	upos: VERB	xpos: VV	feats: _
+word: 到	lemma: 到	upos: VERB	xpos: VV	feats: _
+word: 境外	lemma: 境外	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 得拉	lemma: 得拉	upos: VERB	xpos: VV	feats: _
+word: 赞助	lemma: 赞助	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 搞有	lemma: 搞有	upos: VERB	xpos: VV	feats: _
+word: 偿经	lemma: 偿经	upos: VERB	xpos: VV	feats: _
+word: 营性	lemma: 营性	upos: NOUN	xpos: NN	feats: _
+word: 活动	lemma: 活动	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 用	lemma: 用	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 外	lemma: 外	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 以"	lemma: 以"	upos: ADP	xpos: IN	feats: _
+word: 协办	lemma: 协办	upos: VERB	xpos: VV	feats: _
+word: "	lemma: "	upos: PART	xpos: SFN	feats: _
+word: 之类	lemma: 之类	upos: PART	xpos: DEC	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 发行	lemma: 发行	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第七条  内部资料性出版物不得刊载下列内容：
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 刊载	lemma: 刊载	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）反对宪法确定的基本原则的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 反对	lemma: 反对	upos: VERB	xpos: VV	feats: _
+word: 宪法	lemma: 宪法	upos: NOUN	xpos: NN	feats: _
+word: 确定	lemma: 确定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 基本	lemma: 基本	upos: NOUN	xpos: NN	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)危害国家的统一、主权和领土完整的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 危害	lemma: 危害	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 统一	lemma: 统一	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 主权	lemma: 主权	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 领土	lemma: 领土	upos: NOUN	xpos: NN	feats: _
+word: 完整	lemma: 完整	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    （三）危害国家的安全、荣誉和利益的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 危害	lemma: 危害	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 安全	lemma: 安全	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 荣誉	lemma: 荣誉	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 利益	lemma: 利益	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （四）煽动民族分裂，侵害少数民族风俗习惯，破坏民族团结的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 煽动	lemma: 煽动	upos: VERB	xpos: VV	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 分裂	lemma: 分裂	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 侵害	lemma: 侵害	upos: VERB	xpos: VV	feats: _
+word: 少数	lemma: 少数	upos: ADJ	xpos: JJ	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 风俗	lemma: 风俗	upos: NOUN	xpos: NN	feats: _
+word: 习惯	lemma: 习惯	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 破坏	lemma: 破坏	upos: VERB	xpos: VV	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 团结	lemma: 团结	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    （五）泄露国家秘密的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 泄露	lemma: 泄露	upos: VERB	xpos: VV	feats: _
+word: 国家	lemma: 国家	upos: NOUN	xpos: NN	feats: _
+word: 秘密	lemma: 秘密	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （六）宣扬淫秽、迷信或者渲染暴力，危害社会公德和民族优秀文化传统的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 宣扬	lemma: 宣扬	upos: VERB	xpos: VV	feats: _
+word: 淫秽	lemma: 淫秽	upos: VERB	xpos: VV	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 迷信	lemma: 迷信	upos: NOUN	xpos: NN	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 渲染	lemma: 渲染	upos: VERB	xpos: VV	feats: _
+word: 暴力	lemma: 暴力	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 危害	lemma: 危害	upos: VERB	xpos: VV	feats: _
+word: 社会	lemma: 社会	upos: NOUN	xpos: NN	feats: _
+word: 公德	lemma: 公德	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 民族	lemma: 民族	upos: NOUN	xpos: NN	feats: _
+word: 优秀	lemma: 优秀	upos: ADJ	xpos: JJ	feats: _
+word: 文化	lemma: 文化	upos: NOUN	xpos: NN	feats: _
+word: 传统	lemma: 传统	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 六	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    （七）侮辱或者诽谤他人的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 七	lemma: 七	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 侮辱	lemma: 侮辱	upos: VERB	xpos: VV	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 诽谤	lemma: 诽谤	upos: VERB	xpos: VV	feats: _
+word: 他	lemma: 他	upos: PRON	xpos: PRP	feats: Person=3
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 七	type: CARDINAL
+
+Sentence sentiment= 0
+
+
+    （八）法律、法规规定禁止的其他内容的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 八	lemma: 八	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 八	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第八条  出版单位和非出版单位委托印刷经批准的内部资料性出版物，必须安排在出版物印刷企业印刷。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 出版	lemma: 出版	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 非	lemma: 非	upos: PART	xpos: PFA	feats: _
+word: 出版	lemma: 出版	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 安排	lemma: 安排	upos: VERB	xpos: VV	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第九条  出版物印刷企业承接所在地出版单位和非出版单位委托印刷的内部资料性出版物，须验证并收存所在地省、自治区、直辖市新闻出版局核发的准印证。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版	lemma: 版	upos: PROPN	xpos: NNP	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 承接	lemma: 承接	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 非	lemma: 非	upos: PART	xpos: PFA	feats: _
+word: 出版	lemma: 出版	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 须	lemma: 须	upos: AUX	xpos: MD	feats: _
+word: 验证	lemma: 验证	upos: VERB	xpos: VV	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 收存	lemma: 收存	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地省	lemma: 地省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 核发	lemma: 核发	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 准印	lemma: 准印	upos: VERB	xpos: VV	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    出版物印刷企业必须将承接印刷的内部资料性出版物样本及时送交所在地新闻出版行政机关备案。
+
+word: 出版物	lemma: 出版物	upos: NOUN	xpos: NN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 必须	lemma: 必须	upos: AUX	xpos: MD	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 承接	lemma: 承接	upos: VERB	xpos: VV	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 物样	lemma: 物样	upos: NOUN	xpos: NN	feats: _
+word: 本及	lemma: 本及	upos: NOUN	xpos: NN	feats: _
+word: 时送	lemma: 时送	upos: VERB	xpos: VV	feats: _
+word: 交	lemma: 交	upos: VERB	xpos: VV	feats: _
+word: 所	lemma: 所	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: VERB	xpos: VV	feats: _
+word: 地	lemma: 地	upos: PART	xpos: SFN	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 机关	lemma: 机关	upos: NOUN	xpos: NN	feats: _
+word: 备案	lemma: 备案	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+第十条  《准印证》按一种内部资料一证的原则核发，其中委印单位对以成册形式印制的内部资料，一次性使用有效；连续性散页、折页内部资料的《准印证》有效期为６个月，期满须重新核发。委印和承印单位应当严格按《准印证》核准项目印制，严禁擅自更改《准印证》核准项目
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 种	lemma: 种	upos: NOUN	xpos: NNB	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 一证	lemma: 一证	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: 核发	lemma: 核发	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其中	lemma: 其中	upos: NOUN	xpos: NN	feats: _
+word: 委印	lemma: 委印	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 对以	lemma: 对以	upos: VERB	xpos: VV	feats: _
+word: 成册	lemma: 成册	upos: NOUN	xpos: NN	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 印制	lemma: 印制	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 性	lemma: 性	upos: NOUN	xpos: NN	feats: _
+word: 使用	lemma: 使用	upos: VERB	xpos: VV	feats: _
+word: 有效	lemma: 有效	upos: ADJ	xpos: JJ	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 连续	lemma: 连续	upos: ADJ	xpos: JJ	feats: _
+word: 性散	lemma: 性散	upos: NOUN	xpos: NN	feats: _
+word: 页	lemma: 页	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 折页	lemma: 折页	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印	lemma: 印	upos: NOUN	xpos: NN	feats: _
+word: 证	lemma: 证	upos: PART	xpos: SFN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 有效期	lemma: 有效期	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: ６	lemma: ６	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 期	lemma: 期	upos: NOUN	xpos: NN	feats: _
+word: 满须	lemma: 满须	upos: NOUN	xpos: NN	feats: _
+word: 重新	lemma: 重新	upos: ADV	xpos: RB	feats: _
+word: 核发	lemma: 核发	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 委印	lemma: 委印	upos: PROPN	xpos: NNP	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 承印	lemma: 承印	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 严格	lemma: 严格	upos: ADV	xpos: RB	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 核准	lemma: 核准	upos: NOUN	xpos: NN	feats: _
+word: 项目	lemma: 项目	upos: NOUN	xpos: NN	feats: _
+word: 印制	lemma: 印制	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 严禁	lemma: 严禁	upos: ADV	xpos: RB	feats: _
+word: 擅自	lemma: 擅自	upos: VERB	xpos: VV	feats: _
+word: 更	lemma: 更	upos: ADV	xpos: RB	feats: _
+word: 改	lemma: 改	upos: VERB	xpos: VV	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: VERB	xpos: VV	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 核准	lemma: 核准	upos: VERB	xpos: VV	feats: _
+word: 项	lemma: 项	upos: PART	xpos: SFN	feats: _
+word: 目	lemma: 目	upos: PART	xpos: SFN	feats: _
+
+
+entity: 第十	type: ORDINAL
+entity: ６个月	type: DATE
+
+Sentence sentiment= 2
+
+
+。
+
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十一条  《准印证》由各省、自治区、直辖市新闻出版局统一制作。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 各省	lemma: 各省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 统一	lemma: 统一	upos: VERB	xpos: VV	feats: _
+word: 制作	lemma: 制作	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+第十二条  委印单位有下列行为之一的，由省、自治区、直辖市人民政府规定的县级以上地方人民政府负责新闻出版的行政部门根据情节轻重，给予警告，或者处１０００元以下的罚款；以营利为目的从事下列行为的，处３万元以下罚款：
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 委印	lemma: 委印	upos: PROPN	xpos: NNP	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 位	lemma: 位	upos: NOUN	xpos: NNB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: Case=Gen
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由省	lemma: 由省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 情节	lemma: 情节	upos: NOUN	xpos: NN	feats: _
+word: 轻重	lemma: 轻重	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 警告	lemma: 警告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 或者	lemma: 或者	upos: CCONJ	xpos: CC	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: １０００	lemma: １０００	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: PART	xpos: SFN	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 营利	lemma: 营利	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 目	lemma: 目	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 从事	lemma: 从事	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 行为	lemma: 行为	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 处	lemma: 处	upos: VERB	xpos: VV	feats: _
+word: ３万	lemma: ３万	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十二	type: ORDINAL
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+entity: １０００元	type: MONEY
+entity: ３万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+    （一）委印单位未经省、自治区、直辖市新闻出版局批准委印内部资料性出版物的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 委	lemma: 委	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 印	lemma: 印	upos: PROPN	xpos: NNP	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 位	lemma: 位	upos: NOUN	xpos: NNB	feats: _
+word: 未经	lemma: 未经	upos: VERB	xpos: VV	feats: _
+word: 省	lemma: 省	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 委	lemma: 委	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 印内	lemma: 印内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)委印单位委托非出版物印刷企业印刷内部资料性出版物的；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 委印	lemma: 委印	upos: PROPN	xpos: NNP	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 位	lemma: 位	upos: NOUN	xpos: NNB	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 非出	lemma: 非出	upos: VERB	xpos: VV	feats: _
+word: 版	lemma: 版	upos: PART	xpos: SFN	feats: _
+word: 物	lemma: 物	upos: PART	xpos: SFN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 印刷	lemma: 印刷	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）委印单位违反本办法第五条、第六条规定，委印内部资料性出版物的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 委印	lemma: 委印	upos: PROPN	xpos: NNP	feats: _
+word: 单	lemma: 单	upos: NUM	xpos: CD	feats: NumType=Card
+word: 位	lemma: 位	upos: NOUN	xpos: NN	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 本办	lemma: 本办	upos: NOUN	xpos: NN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 委	lemma: 委	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 印内	lemma: 印内	upos: NOUN	xpos: NN	feats: _
+word: 部	lemma: 部	upos: PART	xpos: SFN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+entity: 本办法	type: LAW
+entity: 第五	type: ORDINAL
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （四）委印本办法第七条禁止内容的内部资料性出版物的；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 委	lemma: 委	upos: VERB	xpos: VV	feats: _
+word: 印本	lemma: 印本	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 禁止	lemma: 禁止	upos: VERB	xpos: VV	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+entity: 第七	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （五）其他违反有关规定的。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十三条  出版物印刷企业未按本规定承印内部资料性出版物及违反其他有关规定的，由省、自治区、直辖市人民政府规定的县级以上地方人民政府负责新闻出版的行政部门根据情节轻重，给予警告，有违法所得的处３万元以下罚款，无违法所得的处１万元以下罚款。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 印刷	lemma: 印刷	upos: NOUN	xpos: NN	feats: _
+word: 企业	lemma: 企业	upos: NOUN	xpos: NN	feats: _
+word: 未	lemma: 未	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 按本	lemma: 按本	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 承印	lemma: 承印	upos: VERB	xpos: VV	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 出	lemma: 出	upos: VERB	xpos: VV	feats: _
+word: 版物	lemma: 版物	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 违反	lemma: 违反	upos: VERB	xpos: VV	feats: _
+word: 其他	lemma: 其他	upos: DET	xpos: DT	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 规定	lemma: 规定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由省	lemma: 由省	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 直辖	lemma: 直辖	upos: VERB	xpos: VV	feats: _
+word: 市	lemma: 市	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 县级	lemma: 县级	upos: NOUN	xpos: NN	feats: _
+word: 以上	lemma: 以上	upos: ADP	xpos: IN	feats: _
+word: 地方	lemma: 地方	upos: NOUN	xpos: NN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 新闻	lemma: 新闻	upos: NOUN	xpos: NN	feats: _
+word: 出版	lemma: 出版	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 部门	lemma: 部门	upos: NOUN	xpos: NN	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 情节	lemma: 情节	upos: NOUN	xpos: NN	feats: _
+word: 轻重	lemma: 轻重	upos: ADJ	xpos: JJ	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 给予	lemma: 给予	upos: VERB	xpos: VV	feats: _
+word: 警告	lemma: 警告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: NOUN	xpos: NN	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 处	lemma: 处	upos: NOUN	xpos: NN	feats: _
+word: ３万	lemma: ３万	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: ADP	xpos: IN	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 无	lemma: 无	upos: VERB	xpos: VV	feats: _
+word: 违法	lemma: 违法	upos: VERB	xpos: VV	feats: _
+word: 所得	lemma: 所得	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 处	lemma: 处	upos: NOUN	xpos: NN	feats: _
+word: １万	lemma: １万	upos: PROPN	xpos: NNP	feats: _
+word: 元	lemma: 元	upos: NOUN	xpos: NNB	feats: _
+word: 以下	lemma: 以下	upos: DET	xpos: DT	feats: _
+word: 罚款	lemma: 罚款	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+entity: 政府	type: ORG
+entity: 政府	type: ORG
+entity: ３万元	type: MONEY
+entity: １万元	type: MONEY
+
+Sentence sentiment= 0
+
+
+第十四条  本办法自１９９８年１月１日起施行。本办法施行前制定的有关内部资料、内部报刊管理的文件及核发的准印证一律废止。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自	lemma: 自	upos: ADP	xpos: IN	feats: _
+word: １９９８	lemma: １９９８	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 起	lemma: 起	upos: ADP	xpos: IN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 施	lemma: 施	upos: PROPN	xpos: NNP	feats: _
+word: 行前	lemma: 行前	upos: PROPN	xpos: NNP	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 有关	lemma: 有关	upos: ADP	xpos: IN	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 资料	lemma: 资料	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 内部	lemma: 内部	upos: NOUN	xpos: NN	feats: _
+word: 报刊	lemma: 报刊	upos: NOUN	xpos: NN	feats: _
+word: 管理	lemma: 管理	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 文件	lemma: 文件	upos: NOUN	xpos: NN	feats: _
+word: 及	lemma: 及	upos: CCONJ	xpos: CC	feats: _
+word: 核发	lemma: 核发	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 准	lemma: 准	upos: PART	xpos: PFA	feats: _
+word: 印证	lemma: 印证	upos: NOUN	xpos: NN	feats: _
+word: 一律	lemma: 一律	upos: ADV	xpos: RB	feats: _
+word: 废止	lemma: 废止	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+entity: １９９８年	type: DATE
+entity: １月	type: DATE
+entity: １日	type: DATE
+
+Sentence sentiment= 0
+
+

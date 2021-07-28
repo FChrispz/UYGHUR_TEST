@@ -1,0 +1,1892 @@
+PA005-XUAR implementation rules of the Teachers Law-U
+شىنجاڭ ئۇيغۇر ئاپتونوم رايونىنىڭ «جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ ئوقۇتقۇچىلار قانۇنى»نى يولغا قويۇشقا دائىر بىر قانچە بەلگىلىمىسى
+
+word: شىنجاڭ	lemma: شىنجاڭ	upos: PROPN	xpos: N	feats: Case=Nom
+word: ئۇيغۇر	lemma: ئۇيغۇر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونىنىڭ	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: قانۇنى»نى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇشقا	lemma: None	upos: VERB	xpos: V	feats: _
+word: دائىر	lemma: دائىر	upos: ADP	xpos: R	feats: _
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: قانچە	lemma: قانچە	upos: DET	xpos: P	feats: _
+word: بەلگىلىمىسى	lemma: بەلگىلىمى	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+
+
+ 2002 - يىل 11 - ئاينىڭ 28 - كۈنى شىنجاڭ ئۇيغۇر ئاپتونوم رايونلۇق   9   - نۆۋەتلىك خەلق قۇرۇلتىيى دائىمىي كومىتېتىنىڭ 31 - يىغىنىدا ماقۇللىنىپ ئېلان قىلىندى. 2003 - يىل   2   - ئاينىڭ   1   - كۈنىدىن باشلاپ يولغا قويۇلدى.
+
+word: 2002	lemma: 2002	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: 11	lemma: 11	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئاينىڭ	lemma: ئاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: 28	lemma: 28	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: كۈنى	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: شىنجاڭ	lemma: شىنجاڭ	upos: PROPN	xpos: N	feats: Case=Nom
+word: ئۇيغۇر	lemma: ئۇيغۇر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونلۇق	lemma: رايونلۇق	upos: ADJ	xpos: N	feats: _
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: نۆۋەتلىك	lemma: نۆۋەتلىك	upos: ADJ	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلتىيى	lemma: قۇرۇلتىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: دائىمىي	lemma: دائىمىي	upos: ADJ	xpos: A	feats: _
+word: كومىتېتىنىڭ	lemma: كومىتېت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: 31	lemma: 31	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىغىنىدا	lemma: يى	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ماقۇللىنىپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئېلان	lemma: ئېلان	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىندى	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 2003	lemma: 2003	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئاينىڭ	lemma: ئاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: كۈنىدىن	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: باشلاپ	lemma: باشلاپ	upos: NOUN	xpos: V	feats: Case=Nom
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇلدى	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  1   - ماددا  بۇ بەلگىلىمە «جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ ئوقۇتقۇچىلار قانۇنى»نى يولغا قويۇش ئۈچۈن، ئاپتونوم رايونىمىزنىڭ ئەمەلىيىتىگە بىرلەشتۈرۈپ چىقىرىلدى.
+
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: قانۇنى»نى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئۈچۈن	lemma: ئۈچۈن	upos: ADP	xpos: C	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونىمىزنىڭ	lemma: رايونىمىزنىڭ	upos: NOUN	xpos: N	feats: _
+word: ئەمەلىيىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بىرلەشتۈرۈپ	lemma: None	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: چىقىرىلدى	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  2   - ماددا  بۇ بەلگىلىمە ھەر دەرىجىلىك مەكتەپلەر ۋە باشقا مائارىپ ئاپپاراتىدا تەربىيىلەش ، ئوقۇتۇش خىزمىتى بىلەن مەخسۇس شۇغۇللىنىدىغان ئوقۇتقۇچىلارغا تەتبىقلىنىدۇ.
+
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: مەكتەپلەر	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتىدا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: مەخسۇس	lemma: مەخسۇس	upos: NOUN	xpos: N	feats: Case=Nom
+word: شۇغۇللىنىدىغان	lemma: شۇغۇللى	upos: VERB	xpos: V	feats: _
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: تەتبىقلىنىدۇ	lemma: None	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  3   - ماددا  ئاپتونوم رايونلۇق خەلق ھۆكۈمىتىنىڭ مائارىپ مەمۇرىي تارمىقى ئاپتونوم رايونىمىزنىڭ ئوقۇتقۇچىلار خىزمىتىگە مەسئۇل بولىدۇ؛ ناھىيە(شەھەر)دىن يۇقىرى دەرىجىلىك خەلق ھۆكۈمىتىنىڭ مائارىپ مەمۇرىي تارمىقى ئۆز مەمۇرىي رايونىنىڭ ئوقۇتقۇچىلار خىزمىتىگە مەسئۇل بولىدۇ. ناھىيە (شەھەر)دىن يۇقىرى خەلق ھۆكۈمىتىنىڭ مالىيە، كادىرلار تارمىقى قاتارلىق  ئالاقىدار تارماقلىرى ئوقۇتقۇچىلارغا مۇناسىۋەتلىك خىزمەتلەرگە مەسئۇلىيىتى دائىرىسىدە مەسئۇل بولىدۇ.
+
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونلۇق	lemma: رايونلۇق	upos: ADJ	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتىنىڭ	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونىمىزنىڭ	lemma: رايونىمىزنىڭ	upos: NOUN	xpos: N	feats: _
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مەسئۇل	lemma: مەسئۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ناھىيە(شەھەر)دىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتىنىڭ	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆز	lemma: ئۆز	upos: PRON	xpos: P	feats: Case=Nom|Reflex=Yes
+word: مەمۇرىي	lemma: مەمۇرىي	upos: ADJ	xpos: N	feats: _
+word: رايونىنىڭ	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مەسئۇل	lemma: مەسئۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ناھىيە	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+word: شەھەر)دىن	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Abl
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتىنىڭ	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: مالىيە	lemma: مالىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كادىرلار	lemma: كادىر	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قاتارلىق	lemma: قاتارلىق	upos: ADP	xpos: R	feats: _
+word: ئالاقىدار	lemma: ئالاقىدار	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارماقلىرى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: مۇناسىۋەتلىك	lemma: مۇناسىۋەتلىك	upos: ADJ	xpos: A	feats: _
+word: خىزمەتلەرگە	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: مەسئۇلىيىتى	lemma: مەسئۇلىيەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: دائىرىسىدە	lemma: دائىرە	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەسئۇل	lemma: مەسئۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+شىنجاڭ ئىشلەپچىقىرىش -  قۇرۇلۇش بىڭتۇەنىنىڭ مائارىپ باشقۇرۇش ئاپپاراتى «جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ ئوقۇتقۇچىلار قانۇنى» ۋە مۇشۇ بەلگىلىمە بويىچە بىڭتۇەن دائىرىسىدىكى ئوقۇتقۇچىلارنى باشقۇرۇش خىزمىتىگە مەسئۇل بولىدۇ ھەمدە كەسپىي جەھەتتە ئاپتونوم رايونلۇق خەلق ھۆكۈمىتى مائارىپ مەمۇرىي تارمىقىنىڭ رەھبەرلىكىدە بولىدۇ.
+
+word: شىنجاڭ	lemma: شىنجاڭ	upos: PROPN	xpos: N	feats: Case=Nom
+word: ئىشلەپچىقىرىش	lemma: ئىشلەپچىقار	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: قۇرۇلۇش	lemma: قۇرۇلۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: بىڭتۇەنىنىڭ	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: باشقۇرۇش	lemma: باشقۇر	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: جۇڭخۇا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: جۇمھۇرىيىتىنىڭ	lemma: جۇمھۇرىيەت	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: قانۇنى	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: »	lemma: »	upos: PUNCT	xpos: Y	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مۇشۇ	lemma: مۇشۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: بىڭتۇەن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: دائىرىسىدىكى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: باشقۇرۇش	lemma: باشقۇر	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مەسئۇل	lemma: مەسئۇل	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: ADJ	xpos: A	feats: _
+word: جەھەتتە	lemma: جەھەت	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونلۇق	lemma: رايونلۇق	upos: ADJ	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقىنىڭ	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: رەھبەرلىكىدە	lemma: رەھبەرلەك	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  4   - ماددا  ئوقۇتقۇچىلار خەلقنىڭ مائارىپ ئىشلىرىغا سادىق بولۇشى، قانۇندا بەلگىلەنگەن مەجبۇرىيىتىنى ئادا قىلىشى، كەسىپ ئەخلاقىغا رىئايە قىلىشى، ۋەتەننىڭ بىرلىكى ۋە مىللەتلەر ئىتتىپاقلىقىنى ئاڭلىق قوغدىشى، مىللىي بۆلگۈنچىلىككە ۋە قانۇنسىز دىنىي ھەرىكەتلەرگە قارشى تۇرۇشى كېرەك.
+
+word: 4	lemma: 4	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: خەلقنىڭ	lemma: خەلقنىڭ	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىشلىرىغا	lemma: ئىش	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: سادىق	lemma: سادىق	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولۇشى	lemma: بول	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: قانۇندا	lemma: قانۇندا	upos: ADJ	xpos: N	feats: Case=Nom
+word: بەلگىلەنگەن	lemma: بەلگىلەنگەن	upos: VERB	xpos: V	feats: _
+word: مەجبۇرىيىتىنى	lemma: مەجبۇرىيەت	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئادا	lemma: ئادا	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كەسىپ	lemma: كەسىپ	upos: ADJ	xpos: A	feats: _
+word: ئەخلاقىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: رىئايە	lemma: رىئايە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ۋەتەننىڭ	lemma: ۋەتەن	upos: NOUN	xpos: N	feats: Case=Gen
+word: بىرلىكى	lemma: بىرلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مىللەتلەر	lemma: مىللەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ئىتتىپاقلىقىنى	lemma: ئىتتىپاقلىق	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئاڭلىق	lemma: ئاڭلىق	upos: ADJ	xpos: A	feats: Case=Nom
+word: قوغدىشى	lemma: قوغدىش	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مىللىي	lemma: مىللىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۆلگۈنچىلىككە	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: قانۇنسىز	lemma: قانۇنسىز	upos: ADJ	xpos: A	feats: _
+word: دىنىي	lemma: دىنىي	upos: ADJ	xpos: A	feats: _
+word: ھەرىكەتلەرگە	lemma: ھەرىكەت	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: قارشى	lemma: قارشى	upos: NOUN	xpos: A	feats: Case=Nom
+word: تۇرۇشى	lemma: تۇر	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+ھەر قانداق ئورۇن ۋە شەخسنىڭ ئوقۇتقۇچىلارنىڭ قانۇندا بەلگىلەنگەن ھوقۇقىغا دەخلى  - تەرۇز قىلىشىغا يول قويۇلمايدۇ.
+
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: قانداق	lemma: قانداق	upos: DET	xpos: P	feats: PronType=Int
+word: ئورۇن	lemma: ئورۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: شەخسنىڭ	lemma: شەخس	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: قانۇندا	lemma: قانۇن	upos: NOUN	xpos: N	feats: _
+word: بەلگىلەنگەن	lemma: بەلگىلەنگەن	upos: VERB	xpos: V	feats: _
+word: ھوقۇقىغا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+word: دەخلى	lemma: دەخلى	upos: ADJ	xpos: A	feats: _
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: تەرۇز	lemma: تەرۇز	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: يول	lemma: يول	upos: NOUN	xpos: N	feats: Case=Nom
+word: قويۇلمايدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  5   - ماددا  ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى مەكتەپلەرنىڭ ئۇل ئەسلىھە قۇرۇلۇشىنى كۈچەيتىپ ۋە ياخشىلاپ، ئوقۇتقۇچىلارنىڭ تەربىيىلەش، ئوقۇتۇش خىزمىتىگە ياخشى شارائىت ھازىرلاپ بېرىشى كېرەك.
+
+word: 5	lemma: 5	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەكتەپلەرنىڭ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: ئۇل	lemma: ئۇل	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەسلىھە	lemma: ئەسلىھە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلۇشىنى	lemma: قۇرۇلۇش	upos: NOUN	xpos: V	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: كۈچەيتىپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ياخشىلاپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ياخشى	lemma: ياخشى	upos: ADJ	xpos: A	feats: _
+word: شارائىت	lemma: شارائىت	upos: NOUN	xpos: N	feats: _
+word: ھازىرلاپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  6   - ماددا  ئاپتونوم رايون ئوقۇتقۇچىلىق سالاھىيىتى تۈزۈمىنى يولغا قويىدۇ. مەكتەپ ۋە باشقا مائارىپ ئاپپاراتىدا تەربىيىلەش، ئوقۇتۇش خىزمىتى بىلەن مەخسۇس شۇغۇللىنىدىغانلار قانۇن بويىچە ئوقۇتقۇچىلىق سالاھىيىتىگە ئېرىشىشى شەرت. ئوقۇتقۇچىلىق سالاھىيىتىگە ئېرىشىپ تۇنجى ئوقۇتقۇچىلىق قىلغانلارنىڭ سىناق مۇددىتى بىر يىل بولىدۇ.
+
+word: 6	lemma: 6	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايون	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سالاھىيىتى	lemma: سالاھىيەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: تۈزۈمىنى	lemma: تۈزۈم	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويىدۇ	lemma: قويىدۇ	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتىدا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: مەخسۇس	lemma: مەخسۇس	upos: NOUN	xpos: N	feats: Case=Nom
+word: شۇغۇللىنىدىغانلار	lemma: شۇغۇللى	upos: VERB	xpos: V	feats: _
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: V	feats: Case=Nom
+word: سالاھىيىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئېرىشىشى	lemma: ئېرىش	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: شەرت	lemma: شەرت	upos: ADJ	xpos: A	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: V	feats: Case=Nom
+word: سالاھىيىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئېرىشىپ	lemma: ئېرىش	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: تۇنجى	lemma: تۇنجى	upos: NOUN	xpos: M	feats: Case=Nom
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغانلارنىڭ	lemma: قىلغان	upos: NOUN	xpos: N	feats: _
+word: سىناق	lemma: سىناق	upos: NOUN	xpos: N	feats: Case=Nom
+word: مۇددىتى	lemma: مۇددەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولىدۇ	lemma: بول	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+بۇ بەلگىلىمە يولغا قويۇلۇشتىن بۇرۇن، مەكتەپتە ياكى باشقا مائارىپ ئاپپاراتىدا تەربىيىلەش، ئوقۇتۇش خىزمىتى بىلەن شۇغۇللانغان بولسىمۇ ئوقۇتقۇچىلىق سالاھىيىتىگە ئېرىشەلمىگەنلەردىن بۇ بەلگىلىمە يولغا قويۇلغان كۈندىن باشلاپ ئۈچ يىل ئىچىدە ئوقۇتقۇچىلىق سالاھىيىتىگە ئېرىشەلمىگەنلىرىنى تەربىيىلەش، ئوقۇتۇش ئورنىدىن يۆتكىۋېتىش ياكى بوشىتىۋېتىش كېرەك.
+
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇلۇشتىن	lemma: قويۇل	upos: VERB	xpos: V	feats: Case=Abl|VerbForm=Ger
+word: بۇرۇن	lemma: بۇرۇن	upos: NOUN	xpos: D	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مەكتەپتە	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Loc
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتىدا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: شۇغۇللانغان	lemma: شۇغۇللان	upos: VERB	xpos: N	feats: Case=Nom|Tense=Past|VerbForm=Ger
+word: بولسىمۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سالاھىيىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئېرىشەلمىگەنلەردىن	lemma: None	upos: VERB	xpos: V	feats: _
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇلغان	lemma: قويۇلغان	upos: VERB	xpos: V	feats: _
+word: كۈندىن	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Abl
+word: باشلاپ	lemma: باشلاپ	upos: NOUN	xpos: V	feats: Case=Nom
+word: ئۈچ	lemma: ئۈچ	upos: NUM	xpos: M	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىچىدە	lemma: ئىچ	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سالاھىيىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئېرىشەلمىگەنلىرىنى	lemma: None	upos: VERB	xpos: V	feats: _
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ئورنىدىن	lemma: ئورنىدىن	upos: NOUN	xpos: N	feats: _
+word: يۆتكىۋېتىش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: بوشىتىۋېتىش	lemma: None	upos: VERB	xpos: V	feats: _
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+كەسپىي مەكتەپ ۋە كەسپىي يېتىشتۈرۈش ئاپپاراتلىرىنىڭ كەسپىي دەرس ئوقۇتقۇچىلىقىنى تەربىيىلەش، ئوقۇتۇش ئېھتىياجىغا قاراپ، مۇناسىپ كەسپىي تېخنىكا خادىملىرى قوشۇمچە ئۈستىگە ئالسا بولىدۇ.
+
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: يېتىشتۈرۈش	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئاپپاراتلىرىنىڭ	lemma: ئاپپارات	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: دەرس	lemma: دەرس	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلىقىنى	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ئېھتىياجىغا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat
+word: قاراپ	lemma: قارا	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مۇناسىپ	lemma: مۇناسىپ	upos: ADJ	xpos: A	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: تېخنىكا	lemma: تېخنىكا	upos: NOUN	xpos: N	feats: Case=Nom
+word: خادىملىرى	lemma: خادىم	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئۈستىگە	lemma: ئۈستىگە	upos: NOUN	xpos: N	feats: _
+word: ئالسا	lemma: ئال	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  7   - ماددا  ئاپتونوم رايون ئوقۇتقۇچىلارنى تەكلىپ بىلەن ئىشلىتىش تۈزۈمىنى يولغا قويىدۇ. ئوقۇتقۇچىلارنى تەكلىپ بىلەن ئىشلىتىشتە ئېھتىياجىغا قاراپ ئورۇن تەسىس قىلىش ، ئادىل رىقابەتلىشىش، ياخشىلىرىنى تەكلىپ بىلەن ئىشلىتىش پرىنسىپىغا ئەمەل قىلىش كېرەك. كونكرېت چارىسىنى ئاپتونوم رايوننىڭ مائارىپ مەمۇرىي تارمىقى گوۋۇيۈەن مائارىپ مەمۇرىي تارمىقىنىڭ ئالاقىدار بەلگىلىمىلىرى بويىچە تۈزىدۇ.
+
+word: 7	lemma: 7	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايون	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەكلىپ	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: ئىشلىتىش	lemma: ئىشلەت	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: تۈزۈمىنى	lemma: تۈزۈم	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويىدۇ	lemma: قويىدۇ	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەكلىپ	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: ئىشلىتىشتە	lemma: ئىشلەت	upos: VERB	xpos: N	feats: Case=Loc|VerbForm=Ger
+word: ئېھتىياجىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قاراپ	lemma: قارا	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ئورۇن	lemma: ئورۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەسىس	lemma: تەسىس	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئادىل	lemma: ئادىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: رىقابەتلىشىش	lemma: None	upos: VERB	xpos: N	feats: Case=Nom|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ياخشىلىرىنى	lemma: ياخشى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەكلىپ	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: ئىشلىتىش	lemma: ئىشلەت	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: پرىنسىپىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئەمەل	lemma: ئەمەل	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: كونكرېت	lemma: كونكرېت	upos: NOUN	xpos: N	feats: Case=Nom
+word: چارىسىنى	lemma: چارا	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايوننىڭ	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Gen
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: گوۋۇيۈەن	lemma: None	upos: VERB	xpos: V	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقىنىڭ	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئالاقىدار	lemma: ئالاقىدار	upos: NOUN	xpos: N	feats: Case=Nom
+word: بەلگىلىمىلىرى	lemma: بەلگىلىمى	upos: NOUN	xpos: N	feats: _
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: تۈزىدۇ	lemma: تۈز	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  8   - ماددا  مەكتەپلەر ۋە باشقا مائارىپ ئاپپاراتى ئوقۇتقۇچىلارنىڭ سىياسىي ئىدىيىسى، كەسپىي سەۋىيىسى، خىزمەت پوزىتسىيىسى ۋە خىزمەت نەتىجىسىنى ھەر ئوقۇش يىلىدا بىر قېتىم سىناپ تۇرۇشى كېرەك. سىناش نەتىجىسى ئوقۇتقۇچىلارنى تەكلىپ قىلىش، ۋەزىپىسىنى ئۆستۈرۈش ۋە مۇكاپاتلاش جازالاشنىڭ ئاساسى قىلىنىدۇ.
+
+word: 8	lemma: 8	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەكتەپلەر	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: سىياسىي	lemma: سىياسىي	upos: ADJ	xpos: A	feats: _
+word: ئىدىيىسى	lemma: ئىدىيە	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: سەۋىيىسى	lemma: سەۋىيە	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: خىزمەت	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: پوزىتسىيىسى	lemma: پوزىتسىيا	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: خىزمەت	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: نەتىجىسىنى	lemma: نەتىجە	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: ئوقۇش	lemma: ئوقۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: يىلىدا	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: قېتىم	lemma: قېتىم	upos: ADV	xpos: Q	feats: _
+word: سىناپ	lemma: سىناپ	upos: VERB	xpos: V	feats: _
+word: تۇرۇشى	lemma: تۇر	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: سىناش	lemma: سىناش	upos: NOUN	xpos: N	feats: Case=Nom
+word: نەتىجىسى	lemma: نەتىجە	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەكلىپ	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ۋەزىپىسىنى	lemma: ۋەزىپە	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆستۈرۈش	lemma: ئۆستۈر	upos: VERB	xpos: V	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مۇكاپاتلاش	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جازالاشنىڭ	lemma: جازالاش	upos: NOUN	xpos: N	feats: _
+word: ئاساسى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قىلىنىدۇ	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+سىناشتا ئۇدا ئىككى يىل لاياقەتسىز بولغان ئوقۇتقۇچىلارنى تەربىيىلەش، ئوقۇتۇش ئورنىدىن يۆتكىۋېتىش ياكى تەكلىپتىن بىكار قىلىش كېرەك.
+
+word: سىناشتا	lemma: سىناش	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئۇدا	lemma: ئۇ	upos: NOUN	xpos: M	feats: Case=Nom
+word: ئىككى	lemma: ئىككى	upos: NUM	xpos: M	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: لاياقەتسىز	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولغان	lemma: بول	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ئورنىدىن	lemma: ئورنىدىن	upos: NOUN	xpos: N	feats: _
+word: يۆتكىۋېتىش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: تەكلىپتىن	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Abl
+word: بىكار	lemma: بىكار	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+مائارىپ مەمۇرىي تارمىقى ئوقۇتقۇچىلارنى سىناش خىزمىتىگە يېتەكچىلىك ۋە نازارەتچىلىك قىلىدۇ.
+
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: سىناش	lemma: سىناش	upos: NOUN	xpos: N	feats: Case=Nom
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يېتەكچىلىك	lemma: يېتەكچىلىك	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: نازارەتچىلىك	lemma: نازارەتچىلىك	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىدۇ	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+  9   - ماددا  مائارىپ مەمۇرىي تارمىقى، مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى  ساپا مائارىپى تەلىپىگە ئۇيغۇن كېلىدىغان ئوقۇتۇش ئىسلاھاتىنى ئوقۇتقۇچىلارنىڭ تەجرىبە قىلىشىغا ۋە كېڭەيتىشىگە ئىلھام ۋە مەدەت بېرىشى كېرەك.
+
+word: 9	lemma: 9	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ساپا	lemma: ساپا	upos: NOUN	xpos: N	feats: Case=Nom
+word: مائارىپى	lemma: مائارىپى	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەلىپىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئۇيغۇن	lemma: ئۇيغۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: كېلىدىغان	lemma: كېلىدىغان	upos: VERB	xpos: V	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ئىسلاھاتىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: تەجرىبە	lemma: تەجرىبە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: كېڭەيتىشىگە	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئىلھام	lemma: ئىلھام	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مەدەت	lemma: مەدەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+10 - ماددا  ناھىيە (شەھەر)دىن يۇقىرى مائارىپ مەمۇرىي تارماقلىرى ئوقۇتقۇچىلار داۋاملاشما تەربىيە پىلانىنى تۈزۈشى ۋە تەشكىللەپ يولغا قويۇشقا  مەسئۇل بولۇشى كېرەك.
+
+word: 10	lemma: 10	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ناھىيە	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+word: شەھەر)دىن	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Abl
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارماقلىرى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: داۋاملاشما	lemma: None	upos: VERB	xpos: V	feats: _
+word: تەربىيە	lemma: تەربىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: پىلانىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تۈزۈشى	lemma: تۈزۈش	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: تەشكىللەپ	lemma: تەشكىللەپ	upos: VERB	xpos: V	feats: _
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇشقا	lemma: None	upos: VERB	xpos: V	feats: _
+word: مەسئۇل	lemma: مەسئۇل	upos: ADJ	xpos: A	feats: _
+word: بولۇشى	lemma: بول	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى داۋاملاشما تەربىيە پىلانى ۋە ئالاقىدا بەلگىلىمىلەر بويىچە، ئوقۇتقۇچىلارنى ھەر خىل شەكىلدىكى كۇرسلارغا ئەۋەتىپ، ئۇلارنىڭ ساپالىق ئوقۇغۇچىلارنى تەربىيىلەش ئىقتىدارىنى ئاشۇرۇشى لازىم.
+
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: داۋاملاشما	lemma: None	upos: VERB	xpos: V	feats: _
+word: تەربىيە	lemma: تەربىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: پىلانى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئالاقىدا	lemma: ئالاقىدا	upos: ADJ	xpos: A	feats: _
+word: بەلگىلىمىلەر	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: خىل	lemma: خىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: شەكىلدىكى	lemma: شەكىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: كۇرسلارغا	lemma: كۇرس	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: ئەۋەتىپ	lemma: ئەۋەتىپ	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئۇلارنىڭ	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Gen|Number=Plur|Person=3|PronType=Prs
+word: ساپالىق	lemma: ساپالىق	upos: ADJ	xpos: A	feats: _
+word: ئوقۇغۇچىلارنى	lemma: ئوقۇغۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئىقتىدارىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئاشۇرۇشى	lemma: ئاشۇر	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: لازىم	lemma: لازىم	upos: ADJ	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+11 - ماددا  ئوقۇتقۇچىلارنىڭ داۋاملاشما تەربىيە خىراجىتى خىزمەتتىكى ئوقۇتقۇچىلار  مائاشىنىڭ %   2   ىدىن تۆۋەن بولمىغان ئاساستا، يىللىق مائارىپ كەسپىي خىزمىتىدىن چىقىم قىلىنىدۇ.
+
+word: 11	lemma: 11	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: داۋاملاشما	lemma: None	upos: VERB	xpos: V	feats: _
+word: تەربىيە	lemma: تەربىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: خىراجىتى	lemma: خىراجەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: خىزمەتتىكى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: مائاشىنىڭ	lemma: مائاشە	upos: NOUN	xpos: N	feats: Case=Gen
+word: %	lemma: %	upos: NUM	xpos: M	feats: NumType=Ord
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: ىدىن	lemma: None	upos: NOUN	xpos: Q	feats: Case=Abl
+word: تۆۋەن	lemma: تۆۋەن	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولمىغان	lemma: بول	upos: VERB	xpos: V	feats: Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin
+word: ئاساستا	lemma: ئاساس	upos: ADJ	xpos: A	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: يىللىق	lemma: يىللىق	upos: NOUN	xpos: A	feats: Case=Nom
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: خىزمىتىدىن	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: چىقىم	lemma: چىقىم	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىنىدۇ	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+12 - ماددا  ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى ئوقۇتقۇچىلارنىڭ مائاشىنى ۋاقتىدا، تولۇق بېرىشكە كاپالەتلىك قىلىشى كېرەك. ھەر قانداق ئورۇن ۋە شەخسنىڭ ئوقۇتقۇچىلارنىڭ مائاشى، شۇنداقلا بەلگىلىمە بويىچە بەھرىمەن بولىدىغان قوشۇمچە پۇلى ۋە ياردەم پۇلىنى ھەر قانداق سەۋەب بىلەن تۇتۇپ قېلىشقا، ئىشلىتىۋېلىشىغا ۋە نېسى قىلىشىغا يول قويۇلمايدۇ.
+
+word: 12	lemma: 12	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: مائاشىنى	lemma: مائاشە	upos: NOUN	xpos: N	feats: Case=Acc
+word: ۋاقتىدا	lemma: ۋاقتا	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: تولۇق	lemma: تولۇق	upos: ADJ	xpos: A	feats: _
+word: بېرىشكە	lemma: بار	upos: VERB	xpos: V	feats: Case=Dat|VerbForm=Ger
+word: كاپالەتلىك	lemma: كاپالەتلىك	upos: ADJ	xpos: A	feats: _
+word: قىلىشى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: قانداق	lemma: قانداق	upos: DET	xpos: P	feats: PronType=Int
+word: ئورۇن	lemma: ئورۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: شەخسنىڭ	lemma: شەخس	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: مائاشى	lemma: None	upos: NOUN	xpos: A	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: شۇنداقلا	lemma: شۇنداقلا	upos: ADV	xpos: C	feats: _
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدىغان	lemma: بولىدىغان	upos: VERB	xpos: V	feats: _
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلىنى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: قانداق	lemma: قانداق	upos: ADV	xpos: P	feats: PronType=Int
+word: سەۋەب	lemma: سەۋەب	upos: NOUN	xpos: N	feats: Case=Nom
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: تۇتۇپ	lemma: تۇت	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قېلىشقا	lemma: قال	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئىشلىتىۋېلىشىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: نېسى	lemma: ناس	upos: NOUN	xpos: N	feats: _
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: يول	lemma: يول	upos: NOUN	xpos: N	feats: Case=Nom
+word: قويۇلمايدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+13 - ماددا  ھەر قانداق تەشكىلات ۋە شەخسنىڭ ئوقۇتقۇچىلارغا ياكى مەكتەپ ئارقىلىق ئوقۇتقۇچىلارغا مەكتەپنىڭ نورمال ئوقۇتۇش خىزمىتىدىن باشقا ۋەزىپىلەرنى ئورۇنلاشتۇرۇشىغا؛ ئوقۇتقۇچىلار ياكى ئۇلار ئارقىلىق ئوقۇغۇچىلارغا پۇل ياكى ئەمگەك سېلىقى سېلىشىغا، ئوقۇتقۇچىلار ياكى ئۇلار ئارقىلىق كىتاب -  گېزىت، ژۇرنال، ئۆگىنىش ماتېرىيالىنى ۋە باشقا بۇيۇملارنى زورلاپ سېتىشى ۋە مۇشتەرى قىلىشىغا يول قويۇلمايدۇ.
+
+word: 13	lemma: 13	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: قانداق	lemma: قانداق	upos: DET	xpos: P	feats: PronType=Int
+word: تەشكىلات	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: شەخسنىڭ	lemma: شەخس	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئارقىلىق	lemma: ئارقىلىق	upos: ADP	xpos: R	feats: _
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: مەكتەپنىڭ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Gen
+word: نورمال	lemma: None	upos: ADJ	xpos: N	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتىدىن	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: ۋەزىپىلەرنى	lemma: ۋەزىپە	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: ئورۇنلاشتۇرۇشىغا	lemma: ئورۇنلاشتۇر	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلار	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+word: ئارقىلىق	lemma: ئارقىلىق	upos: ADP	xpos: R	feats: _
+word: ئوقۇغۇچىلارغا	lemma: ئوقۇغۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: پۇل	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئەمگەك	lemma: ئەمگەك	upos: NOUN	xpos: N	feats: Case=Nom
+word: سېلىقى	lemma: سالاق	upos: NOUN	xpos: N	feats: Case=Nom
+word: سېلىشىغا	lemma: سال	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلار	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+word: ئارقىلىق	lemma: ئارقىلىق	upos: ADP	xpos: R	feats: _
+word: كىتاب	lemma: كىتاب	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: گېزىت	lemma: گېزىت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ژۇرنال	lemma: ژۇرنال	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئۆگىنىش	lemma: ئۆگىنىش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ماتېرىيالىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: بۇيۇملارنى	lemma: بۇيۇم	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: زورلاپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: سېتىشى	lemma: سات	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مۇشتەرى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: يول	lemma: يول	upos: NOUN	xpos: N	feats: Case=Nom
+word: قويۇلمايدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+14 - ماددا  ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى پىداگوگىكا مائارىپىنى راۋاجلاندۇرۇشقا ئەھمىيەت بېرىشى، سېلىنمىسىغا ئاۋۋال كاپالەتلىك قىلىشى، مۇنەۋۋەر ئوقۇغۇچىلارنىڭ ھەر دەرىجىلىك پىداگوگىكا مەكتەپلىرىدە ئوقۇشىغا ئىلھام بېرىشى كېرەك.
+
+word: 14	lemma: 14	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: پىداگوگىكا	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: مائارىپىنى	lemma: مائارىپا	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: راۋاجلاندۇرۇشقا	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئەھمىيەت	lemma: ئەھمىيەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: سېلىنمىسىغا	lemma: سېلىنما	upos: NOUN	xpos: N	feats: _
+word: ئاۋۋال	lemma: ئاۋۋال	upos: NOUN	xpos: N	feats: Case=Nom
+word: كاپالەتلىك	lemma: كاپالەتلىك	upos: ADJ	xpos: A	feats: _
+word: قىلىشى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مۇنەۋۋەر	lemma: مۇنەۋۋەر	upos: ADJ	xpos: A	feats: _
+word: ئوقۇغۇچىلارنىڭ	lemma: ئوقۇغۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: پىداگوگىكا	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەكتەپلىرىدە	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇشىغا	lemma: ئوقۇش	upos: NOUN	xpos: N	feats: Case=Dat
+word: ئىلھام	lemma: ئىلھام	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+ناھىيە (شەھەر ) دىن يۇقىرى مائارىپ مەمۇرىي تارماقلىرى ئاز سانلىق مىللەت رايونى ۋە چەت، ياقا رايونلارغا ئوقۇتقۇچىلارنى نىشانلىق يېتىشتۈرۈپ بېرىشى لازىم.
+
+word: ناھىيە	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: )	lemma: )	upos: PUNCT	xpos: Y	feats: _
+word: دىن	lemma: دىن	upos: PROPN	xpos: N	feats: Case=Nom
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارماقلىرى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئاز	lemma: ئاز	upos: ADJ	xpos: A	feats: Case=Nom
+word: سانلىق	lemma: سانلىق	upos: ADJ	xpos: A	feats: _
+word: مىللەت	lemma: مىللەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونى	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: چەت	lemma: چەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ياقا	lemma: ياقا	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونلارغا	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: نىشانلىق	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يېتىشتۈرۈپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: لازىم	lemma: لازىم	upos: ADJ	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+15 - ماددا  شەھەر، بازاردىكى ئوقۇتقۇچىلارنىڭ چەت ،ياقا ، نامرات جايلار، دېھقانچىلىق، چارۋىچىلىق رايونلىرىدىكى مەكتەپلەردە ئوقۇتقۇچىلىق قىلىشىغا ياردەم بېرىلىدۇ. ئوقۇتقۇچىلىق قىلغان مەزگىلىدە ئەسلىي ئورنىدىكى پاراۋانلىق تەمىناتى ئۆزگەرمەيدۇ ھەمدە ئالاقىدار بەلگىلىمە بويىچە تۇرمۇش ياردەم پۇلى ئىش ئورنى قوشۇمچە ياردەم پۇلىدىن بەھرىمەن بولىدۇ.
+
+word: 15	lemma: 15	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بازاردىكى	lemma: بازار	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ،ياقا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: نامرات	lemma: نامرات	upos: NOUN	xpos: A	feats: Case=Nom
+word: جايلار	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: دېھقانچىلىق	lemma: دېھقانچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: چارۋىچىلىق	lemma: چارۋىچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونلىرىدىكى	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەكتەپلەردە	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغان	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Ger
+word: مەزگىلىدە	lemma: مەزگىل	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئەسلىي	lemma: ئەسلىي	upos: NOUN	xpos: D	feats: Case=Nom
+word: ئورنىدىكى	lemma: ئورنا	upos: NOUN	xpos: N	feats: _
+word: پاراۋانلىق	lemma: پاراۋانلىق	upos: ADJ	xpos: A	feats: _
+word: تەمىناتى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئۆزگەرمەيدۇ	lemma: None	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: ئالاقىدار	lemma: ئالاقىدار	upos: ADJ	xpos: A	feats: _
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: تۇرمۇش	lemma: تۇرمۇش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئىش	lemma: ئىش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئورنى	lemma: ئورنى	upos: NOUN	xpos: N	feats: _
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلىدىن	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+شەھەر، بازارلاردىكى ئوتتۇرا، باشلانغۇچ مەكتەپ ئوقۇتقۇچىلىرىدىن چەت -  ياقا، نامرات جايلار، دېھقانچىلىق، چارۋىچىلىق رايونلىرىدىكى مەكتەپلەردە بىر يىلدىن ئارتۇق ئوقۇتقۇچىلىق قىلغانلىرىغا ئوخشاش شەرت ئاستىدا بىر دەرىجە يۇقىرى ئوقۇتقۇچىلىق كەسپىي تېخنىكا ئۇنۋانى ئاۋۋال بېرىلىدۇ.
+
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بازارلاردىكى	lemma: بازار	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ئوتتۇرا	lemma: ئوتتۇرا	upos: NOUN	xpos: A	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: باشلانغۇچ	lemma: باشلانغۇچ	upos: ADJ	xpos: N	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلىرىدىن	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: چەت	lemma: چەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ياقا	lemma: ياقا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: نامرات	lemma: نامرات	upos: NOUN	xpos: A	feats: Case=Nom
+word: جايلار	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: دېھقانچىلىق	lemma: دېھقانچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: چارۋىچىلىق	lemma: چارۋىچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونلىرىدىكى	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەكتەپلەردە	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: يىلدىن	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Abl
+word: ئارتۇق	lemma: ئارتۇق	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغانلىرىغا	lemma: قىلغان	upos: VERB	xpos: V	feats: _
+word: ئوخشاش	lemma: ئوخشاش	upos: ADJ	xpos: A	feats: _
+word: شەرت	lemma: شەرت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاستىدا	lemma: ئاست	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: دەرىجە	lemma: دەرىجە	upos: NOUN	xpos: N	feats: Case=Nom
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: تېخنىكا	lemma: تېخنىكا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئۇنۋانى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاۋۋال	lemma: ئاۋۋال	upos: NOUN	xpos: D	feats: Case=Nom
+word: بېرىلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+16 - ماددا  دۆلەت ۋە ئاپتونوم رايون بېكىتكەن   3   - ،   4   - خىل رايونلاردىكى ناھىيىدىن تۆۋەن مەكتەپلەردە ئوقۇتقۇچىلىق قىلغانلارغا ئوقۇتقۇچىلىق كەسپىي تېخنىكا ئۇنۋانى بېرىشتە ئېتىبار بېرىلىدۇ ھەمدە ئۇلار ئالاقىدار بەلگىلىمىلەر بويىچە مائاش، تۇرمۇش ياردەم پۇلى ۋە ئىش ئورنى قوشۇمچە پۇلى قاتارلىق جەھەتلەردە ئېتىبار تەمىناتىدىن بەھرىمەن بولىدۇ.
+
+word: 16	lemma: 16	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايون	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېكىتكەن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: 4	lemma: 4	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: خىل	lemma: خىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونلاردىكى	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ناھىيىدىن	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Abl
+word: تۆۋەن	lemma: تۆۋەن	upos: ADJ	xpos: A	feats: _
+word: مەكتەپلەردە	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغانلارغا	lemma: قىلغان	upos: VERB	xpos: V	feats: _
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: V	feats: Case=Nom
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: تېخنىكا	lemma: تېخنىكا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئۇنۋانى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىشتە	lemma: بار	upos: VERB	xpos: V	feats: Case=Loc|VerbForm=Ger
+word: ئېتىبار	lemma: ئېتىبار	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: ئۇلار	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+word: ئالاقىدار	lemma: ئالاقىدار	upos: NOUN	xpos: N	feats: Case=Nom
+word: بەلگىلىمىلەر	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: مائاش	lemma: مائاش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+word: تۇرمۇش	lemma: تۇرمۇش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئىش	lemma: ئىش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئورنى	lemma: ئورنى	upos: NOUN	xpos: N	feats: _
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قاتارلىق	lemma: قاتارلىق	upos: ADP	xpos: R	feats: _
+word: جەھەتلەردە	lemma: جەھەت	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur
+word: ئېتىبار	lemma: ئېتىبار	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەمىناتىدىن	lemma: تەمىنات	upos: NOUN	xpos: N	feats: _
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+17 - ماددا  ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى ئوقۇتقۇچىلارنى تەقدىرلەش، مۇكاپاتلاش تۈزۈمى ئورنىتىپ، مۇنەۋۋەر ئوقۇتقۇچىلارنى تەقدىرلىشى ۋە مۇكاپاتلىشى؛ تەربىيىلەش ، ئوقۇتۇش خىزمىتىدە گەۋدىلىك تۆھپە قوشقان مۇنەۋۋەر ئوقۇتقۇچىلارغا دۆلەت ۋە ئاپتونوم رايوننىڭ ئالاقىدار بەلگىلىمىسى بويىچە «ئالاھىدە ئوقۇتقۇچى» دەپ نام بېرىشى ھەمدە «ئالاھىدە ئوقۇتقۇچى» قوشۇمچە پۇلى بېرىشى كېرەك.
+
+word: 17	lemma: 17	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەقدىرلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مۇكاپاتلاش	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تۈزۈمى	lemma: تۈزۈم	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئورنىتىپ	lemma: ئورنات	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مۇنەۋۋەر	lemma: مۇنەۋۋەر	upos: ADJ	xpos: A	feats: _
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تەقدىرلىشى	lemma: تەقدىرلەش	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: مۇكاپاتلىشى	lemma: مۇكاپاتلىش	upos: NOUN	xpos: N	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتىدە	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: گەۋدىلىك	lemma: گەۋدىلىك	upos: NOUN	xpos: A	feats: Case=Nom
+word: تۆھپە	lemma: تۆھپە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قوشقان	lemma: قوش	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: مۇنەۋۋەر	lemma: مۇنەۋۋەر	upos: ADJ	xpos: A	feats: _
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايوننىڭ	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئالاقىدار	lemma: ئالاقىدار	upos: ADJ	xpos: A	feats: _
+word: بەلگىلىمىسى	lemma: بەلگىلىمى	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: ئالاھىدە	lemma: ئالاھىدە	upos: ADJ	xpos: D	feats: Case=Nom
+word: ئوقۇتقۇچى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom
+word: »	lemma: »	upos: PUNCT	xpos: Y	feats: _
+word: دەپ	lemma: دە	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: نام	lemma: نام	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: ئالاھىدە	lemma: ئالاھىدە	upos: ADJ	xpos: D	feats: Case=Nom
+word: ئوقۇتقۇچى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom
+word: »	lemma: »	upos: PUNCT	xpos: Y	feats: _
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلى	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بېرىشى	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+چەت ياقا، نامرات جايلار، دېھقانچىلىق، چارۋىچىلىق رايونلىرىدا تەربىيىلەش، ئوقۇتۇش خىزمىتى بىلەن شۇغۇللانغان ھەمدە گەۋدىلىك تۆھپە قوشقان مۇنەۋۋەر ئوقۇتقۇچىلارنى ئاۋۋال تەقدىرلەش، مۇكاپاتلاش ۋە ئۇلارغا ئاۋۋال شەرەپ نامى بېرىش كېرەك.
+
+word: چەت	lemma: چەت	upos: NOUN	xpos: A	feats: Case=Nom
+word: ياقا	lemma: ياقا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: نامرات	lemma: نامرات	upos: NOUN	xpos: A	feats: Case=Nom
+word: جايلار	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: دېھقانچىلىق	lemma: دېھقانچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: چارۋىچىلىق	lemma: چارۋىچىلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: رايونلىرىدا	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Loc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتى	lemma: خىزمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: شۇغۇللانغان	lemma: شۇغۇللان	upos: VERB	xpos: V	feats: Case=Nom|Mood=Ind|Tense=Past|VerbForm=Fin
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: گەۋدىلىك	lemma: گەۋدىلىك	upos: NOUN	xpos: A	feats: Case=Nom
+word: تۆھپە	lemma: تۆھپە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قوشقان	lemma: قوش	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: مۇنەۋۋەر	lemma: مۇنەۋۋەر	upos: ADJ	xpos: A	feats: _
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: ئاۋۋال	lemma: ئاۋۋال	upos: NOUN	xpos: D	feats: Case=Nom
+word: تەقدىرلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مۇكاپاتلاش	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئۇلارغا	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Dat|Number=Plur|Person=3|PronType=Prs
+word: ئاۋۋال	lemma: ئاۋۋال	upos: NOUN	xpos: D	feats: Case=Nom
+word: شەرەپ	lemma: شەرەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: نامى	lemma: نامى	upos: NOUN	xpos: N	feats: _
+word: بېرىش	lemma: بار	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+18 - ماددا  كارخانا ، كەسپىي ئورۇن، باشقا تەشكىلاتلار ۋە پۇقرالارنىڭ قانۇن بويىچە قۇرۇلغان ئوقۇتقۇچىلارنى مۇكاپاتلايدىغان ۋە فوند تەشكىلاتلىرىغا پۇل ئىئانە قىلىشىغا ئىلھام بېرىلىدۇ.
+
+word: 18	lemma: 18	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: كارخانا	lemma: كارخانا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: ئورۇن	lemma: ئورۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: تەشكىلاتلار	lemma: تەشكىلات	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: پۇقرالارنىڭ	lemma: پۇقرا	upos: NOUN	xpos: N	feats: _
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: قۇرۇلغان	lemma: قۇرۇلغان	upos: VERB	xpos: V	feats: _
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: مۇكاپاتلايدىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: فوند	lemma: فوند	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەشكىلاتلىرىغا	lemma: تەشكىلات	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: پۇل	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىئانە	lemma: ئىئانە	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشىغا	lemma: قىل	upos: VERB	xpos: V	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: ئىلھام	lemma: ئىلھام	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+ئوقۇتقۇچىلارنى مۇكاپاتلايدىغان فوند تەشكىلاتلارنى ناھىيە دەرىجىلىكتىن يۇقىرى خەلق ھۆكۈمىتى ۋە ئۇنىڭ مائارىپ مەمۇرىي تارمىقى قاتارلىق ئالاقىدار تارماقلارنىڭ يېتەكچىلىكى ۋە نازارەتچىلىكىدە ئىشلەيدۇ.
+
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: مۇكاپاتلايدىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: فوند	lemma: فوند	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەشكىلاتلارنى	lemma: تەشكىلات	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: ناھىيە	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: دەرىجىلىكتىن	lemma: None	upos: NOUN	xpos: N	feats: Case=Abl
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئۇنىڭ	lemma: ئۇ	upos: PRON	xpos: P	feats: Case=Gen|Number=Sing|Person=3|PronType=Prs
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قاتارلىق	lemma: قاتارلىق	upos: ADP	xpos: R	feats: _
+word: ئالاقىدار	lemma: ئالاقىدار	upos: ADJ	xpos: N	feats: _
+word: تارماقلارنىڭ	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: يېتەكچىلىكى	lemma: يېتەكچىلىك	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: نازارەتچىلىكىدە	lemma: نازارەتچىلىك	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئىشلەيدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+19 - ماددا  يىغىندى ستاژى 30 يىلغا توشقان ئەر ئوقۇتقۇچىلارغا، يىغىندى ستاژى 25 يىلغا توشقان ئايال ئوقۇتقۇچىلارغا ئاپتونوم رايونلۇق خەلق ھۆكۈمىتى ئۆمۈرلۈك ئوقۇتقۇچى شەرەپ گۇۋاھنامىسى بېرىدۇ.
+
+word: 19	lemma: 19	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: يىغىندى	lemma: يى	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Ger
+word: ستاژى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: 30	lemma: 30	upos: NUM	xpos: M	feats: NumType=Ord
+word: يىلغا	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Dat
+word: توشقان	lemma: توشقان	upos: ADJ	xpos: N	feats: _
+word: ئەر	lemma: ئەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: يىغىندى	lemma: يى	upos: VERB	xpos: N	feats: Case=Nom|Tense=Past|VerbForm=Ger
+word: ستاژى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: 25	lemma: 25	upos: NUM	xpos: M	feats: NumType=Ord
+word: يىلغا	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Dat
+word: توشقان	lemma: توشقان	upos: ADJ	xpos: N	feats: _
+word: ئايال	lemma: ئايال	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايونلۇق	lemma: رايونلۇق	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆمۈرلۈك	lemma: ئۆمۈرلۈك	upos: ADJ	xpos: A	feats: _
+word: ئوقۇتقۇچى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom
+word: شەرەپ	lemma: شەرەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: گۇۋاھنامىسى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بېرىدۇ	lemma: بار	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+20 - ماددا  ئالاھىدە مائارىپ بىلەن شۇغۇللىنىۋاتقان ئوقۇتقۇچىلار دۆلەت ۋە ئاپتونوم رايون بەلگىلىگەن ئالاھىدە مائارىپ ئىش ئورنى قوشۇمچە ياردەم پۇلىدىن بەھرىمەن بولىدۇ.
+
+word: 20	lemma: 20	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئالاھىدە	lemma: ئالاھىدە	upos: ADJ	xpos: D	feats: Case=Nom
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: بىلەن	lemma: بىلەن	upos: ADP	xpos: R	feats: _
+word: شۇغۇللىنىۋاتقان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: V	feats: Case=Nom|Number=Plur
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئاپتونوم	lemma: ئاپتونوم	upos: ADJ	xpos: N	feats: _
+word: رايون	lemma: رايون	upos: NOUN	xpos: N	feats: Case=Nom
+word: بەلگىلىگەن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئالاھىدە	lemma: ئالاھىدە	upos: ADJ	xpos: D	feats: Case=Nom
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىش	lemma: ئىش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئورنى	lemma: ئورنى	upos: NOUN	xpos: N	feats: _
+word: قوشۇمچە	lemma: قوشۇمچە	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: پۇلىدىن	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+21 - ماددا  ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى ئوقۇتقۇچىلار تۇرالغۇ قۇرۇلۇشىنى شەھەر، بازار قۇرۇلۇشى ئومۇمىي پىلانىغا كىرگۈزۈشى كېرەك. شەھەر، بازاردىكى ئوقۇتقۇچىلار تۇرالغۇ جەھەتتە شۇ جايدىكى دۆلەت مەمۇرلىرىغا ئوخشاش تەمىناتتىن بەھرىمەن بولىدۇ ھەمدە ئاۋۋال ئورۇنلاشتۇرۇلىدۇ. شەھەر، بازاردىكى ئوقۇتقۇچىلارنىڭ كىشى بېشىغا توغرا كېلىدىغان ئوتتۇرىچە تۇرالغۇ كۆلىمى شۇ جايدىكى ئاھالىلارنىڭ ئوتتۇرىچە سەۋىيىسىدىن تۆۋەن بولماسلىقى كېرەك.
+
+word: 21	lemma: 21	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: تۇرالغۇ	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلۇشىنى	lemma: قۇرۇلۇش	upos: NOUN	xpos: V	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بازار	lemma: بازار	upos: NOUN	xpos: N	feats: Case=Nom
+word: قۇرۇلۇشى	lemma: قۇرۇلۇش	upos: NOUN	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئومۇمىي	lemma: ئومۇمىي	upos: NOUN	xpos: A	feats: Case=Nom
+word: پىلانىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كىرگۈزۈشى	lemma: كىرگۈز	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بازاردىكى	lemma: بازار	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: تۇرالغۇ	lemma: None	upos: NOUN	xpos: V	feats: Case=Nom
+word: جەھەتتە	lemma: جەھەت	upos: NOUN	xpos: N	feats: Case=Loc
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرلىرىغا	lemma: مەمۇر	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوخشاش	lemma: ئوخشاش	upos: ADJ	xpos: A	feats: _
+word: تەمىناتتىن	lemma: تەمىنات	upos: NOUN	xpos: N	feats: _
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: ئاۋۋال	lemma: ئاۋۋال	upos: ADV	xpos: D	feats: _
+word: ئورۇنلاشتۇرۇلىدۇ	lemma: ئورۇنلاشتۇر	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: شەھەر	lemma: شەھەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بازاردىكى	lemma: بازار	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: كىشى	lemma: كىشى	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېشىغا	lemma: بېشىغا	upos: NOUN	xpos: N	feats: _
+word: توغرا	lemma: توغرا	upos: NOUN	xpos: A	feats: Case=Nom
+word: كېلىدىغان	lemma: كېلىدىغان	upos: VERB	xpos: V	feats: _
+word: ئوتتۇرىچە	lemma: ئوتتۇرىچە	upos: ADJ	xpos: D	feats: Case=Nom
+word: تۇرالغۇ	lemma: None	upos: NOUN	xpos: V	feats: Case=Nom
+word: كۆلىمى	lemma: كۆلەم	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاھالىلارنىڭ	lemma: ئاھالى	upos: NOUN	xpos: N	feats: _
+word: ئوتتۇرىچە	lemma: ئوتتۇرىچە	upos: ADJ	xpos: A	feats: Case=Nom
+word: سەۋىيىسىدىن	lemma: سەۋىيە	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: تۆۋەن	lemma: تۆۋەن	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولماسلىقى	lemma: None	upos: VERB	xpos: V	feats: _
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+يېزا، كەنتلەردىكى ئوتتۇرا، باشلانغۇچ مەكتەپ ئوقۇتقۇچىلىرىدىن ئۆزى ئۆي سالىدىغانلىرىغا شۇ جايدىكى ناھىيە دەرىجىلىك خەلق ھۆكۈمىتى يەر باشقۇرۇش قانۇن، نىزاملىرىغا بىنائەن، شۇ جايدىكى دېھقان ، چارۋىچىلارنىڭ ئۆي يېرى ئۆلچىمى بويىچە ئۆي يېرى بېرىدۇ ھەمدە ئۆي سېلىۋېلىشىغا مۇۋاپىق ياردەم بېرىدۇ.
+
+word: يېزا	lemma: يېزا	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كەنتلەردىكى	lemma: كەنت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: ئوتتۇرا	lemma: ئوتتۇرا	upos: NOUN	xpos: A	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: باشلانغۇچ	lemma: باشلانغۇچ	upos: ADJ	xpos: N	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلىرىدىن	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆزى	lemma: ئۆز	upos: PRON	xpos: P	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Reflex=Yes
+word: ئۆي	lemma: ئۆي	upos: NOUN	xpos: N	feats: Case=Nom
+word: سالىدىغانلىرىغا	lemma: None	upos: VERB	xpos: V	feats: _
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: ناھىيە	lemma: ناھىيە	upos: NOUN	xpos: N	feats: Case=Nom
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: يەر	lemma: يەر	upos: NOUN	xpos: N	feats: Case=Nom
+word: باشقۇرۇش	lemma: باشقۇر	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: نىزاملىرىغا	lemma: نىزام	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: بىنائەن	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: دېھقان	lemma: دېھقان	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: چارۋىچىلارنىڭ	lemma: چارۋىچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: ئۆي	lemma: ئۆي	upos: NOUN	xpos: N	feats: Case=Nom
+word: يېرى	lemma: يار	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئۆلچىمى	lemma: ئۆلچەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: ئۆي	lemma: ئۆي	upos: NOUN	xpos: N	feats: Case=Nom
+word: يېرى	lemma: يار	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: بېرىدۇ	lemma: بار	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ھەمدە	lemma: ھەمدە	upos: CCONJ	xpos: C	feats: _
+word: ئۆي	lemma: ئۆي	upos: NOUN	xpos: N	feats: Case=Nom
+word: سېلىۋېلىشىغا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مۇۋاپىق	lemma: مۇۋاپىق	upos: ADJ	xpos: A	feats: _
+word: ياردەم	lemma: ياردەم	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىدۇ	lemma: بار	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+22 - ماددا  ئوقۇتقۇچىلار داۋالىنىشتا شۇ جايدىكى دۆلەت مەمۇرلىرىغا ئوخشاش تەمىناتتىن بەھرىمەن بولىدۇ.
+
+word: 22	lemma: 22	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: داۋالىنىشتا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرلىرىغا	lemma: مەمۇر	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئوخشاش	lemma: ئوخشاش	upos: ADJ	xpos: A	feats: _
+word: تەمىناتتىن	lemma: تەمىنات	upos: NOUN	xpos: N	feats: _
+word: بەھرىمەن	lemma: بەھرىمەن	upos: ADJ	xpos: A	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى ئوقۇتقۇچىلارنىڭ سالامەتلىكىنى قەرەللىك تەكشۈرتۈشى كېرەك. 45 ياشقا توشقان ئوقۇتقۇچىلارنىڭ سالامەتلىكىنى ئىككى يىلدا بىر تەكشۈرتۈشى لازىم.
+
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: سالامەتلىكىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قەرەللىك	lemma: قەرەللىك	upos: NOUN	xpos: N	feats: Case=Nom
+word: تەكشۈرتۈشى	lemma: None	upos: VERB	xpos: V	feats: _
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: V	feats: _
+word: 45	lemma: 45	upos: NUM	xpos: M	feats: NumType=Ord
+word: ياشقا	lemma: يا	upos: VERB	xpos: N	feats: Case=Dat|VerbForm=Ger
+word: توشقان	lemma: توشقان	upos: ADJ	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: سالامەتلىكىنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىككى	lemma: ئىككى	upos: NUM	xpos: M	feats: _
+word: يىلدا	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Loc
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: Case=Nom|NumType=Ord
+word: تەكشۈرتۈشى	lemma: None	upos: VERB	xpos: V	feats: _
+word: لازىم	lemma: لازىم	upos: ADJ	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+ئالاھىدە ئوقۇتقۇچىلارغا داۋالاش، ساقلىقنى ساقلاش جەھەتتە ئېتىبار بېرىلىشى كېرەك.
+
+word: ئالاھىدە	lemma: ئالاھىدە	upos: ADJ	xpos: D	feats: Case=Nom
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: داۋالاش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ساقلىقنى	lemma: ساقلىق	upos: NOUN	xpos: N	feats: Case=Acc
+word: ساقلاش	lemma: None	upos: VERB	xpos: V	feats: _
+word: جەھەتتە	lemma: جەھەت	upos: NOUN	xpos: N	feats: Case=Loc
+word: ئېتىبار	lemma: ئېتىبار	upos: NOUN	xpos: N	feats: Case=Nom
+word: بېرىلىشى	lemma: بېرىل	upos: VERB	xpos: V	feats: _
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+23 - ماددا  ئوقۇتقۇچىلارغا دۆلەت بەلگىلىگەن قىشلىق، يازلىق تەتىلدە مائاش تولۇق بېرىلىدۇ، قىشلىق، يازلىق تەتىلدە مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى ئازراق ۋاقىتنى ئىگىلەپ ئوقۇتقۇچىلارنى سىياسىي، كەسپىي ئۆگىنىشكە تەشكىللىگەندىن سىرت، باشقا ھەر قانداق تەشكىلات ۋە ئورۇننىڭ ئوقۇتقۇچىلارنىڭ تەتىل ۋاقتىنى ئىگىلىشىگە يول قويۇلمايدۇ.
+
+word: 23	lemma: 23	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلارغا	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: دۆلەت	lemma: دۆلەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: بەلگىلىگەن	lemma: None	upos: VERB	xpos: V	feats: _
+word: قىشلىق	lemma: قىشلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: يازلىق	lemma: يازلىق	upos: ADJ	xpos: A	feats: _
+word: تەتىلدە	lemma: تەتىل	upos: NOUN	xpos: N	feats: Case=Loc
+word: مائاش	lemma: مائاش	upos: NOUN	xpos: N	feats: Case=Nom
+word: تولۇق	lemma: تولۇق	upos: ADJ	xpos: A	feats: Case=Nom
+word: بېرىلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+word: قىشلىق	lemma: قىشلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: يازلىق	lemma: يازلىق	upos: ADJ	xpos: A	feats: _
+word: تەتىلدە	lemma: تەتىل	upos: NOUN	xpos: N	feats: Case=Loc
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئازراق	lemma: ئازراق	upos: ADJ	xpos: A	feats: _
+word: ۋاقىتنى	lemma: ۋاقىت	upos: NOUN	xpos: N	feats: Case=Acc
+word: ئىگىلەپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئوقۇتقۇچىلارنى	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: سىياسىي	lemma: سىياسىي	upos: NOUN	xpos: N	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: كەسپىي	lemma: كەسپىي	upos: NOUN	xpos: N	feats: _
+word: ئۆگىنىشكە	lemma: ئۆگىنىش	upos: NOUN	xpos: V	feats: Case=Dat
+word: تەشكىللىگەندىن	lemma: تەشكىللى	upos: VERB	xpos: V	feats: _
+word: سىرت	lemma: سىرت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: قانداق	lemma: قانداق	upos: DET	xpos: P	feats: PronType=Int
+word: تەشكىلات	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئورۇننىڭ	lemma: ئورۇن	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: تەتىل	lemma: تەتىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋاقتىنى	lemma: ۋاقتا	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئىگىلىشىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: يول	lemma: يول	upos: NOUN	xpos: N	feats: Case=Nom
+word: قويۇلمايدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+24 - ماددا ھەر دەرىجىلىك خەلق ھۆكۈمەتلىرى شۇ جاينىڭ ئەمەلىي ئەھۋالىغا قاراپ،ئوقۇتقۇچىلار تەمىناتى جەھەتتە كونكرېت ئېتىبار سىياسىتى تۈزسە بولىدۇ.
+
+word: 24	lemma: 24	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھەر	lemma: ھەر	upos: DET	xpos: P	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمەتلىرى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جاينىڭ	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: ئەمەلىي	lemma: ئەمەلىي	upos: ADJ	xpos: A	feats: _
+word: ئەھۋالىغا	lemma: ئەھۋال	upos: NOUN	xpos: N	feats: _
+word: قاراپ	lemma: قارا	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،ئوقۇتقۇچىلار	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: تەمىناتى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: جەھەتتە	lemma: جەھەت	upos: NOUN	xpos: N	feats: Case=Loc
+word: كونكرېت	lemma: كونكرېت	upos: NOUN	xpos: N	feats: _
+word: ئېتىبار	lemma: ئېتىبار	upos: NOUN	xpos: N	feats: Case=Nom
+word: سىياسىتى	lemma: سىياسەت	upos: NOUN	xpos: N	feats: _
+word: تۈزسە	lemma: تۈز	upos: VERB	xpos: V	feats: _
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+25 - ماددا كۇتۇپخانا ،مۇزېي ،پەن - تېخنىكا سارىيى،خاتىرە سارىيى قاتارلىق جامائەت مەدەنىيەت ئەسلىھەلىرى ئۈچۈن ئوقۇتقۇچىلاردىن ئالىدىغان ھەقنى كېمەيتىش ياكى كەچۈرۈم قىلىش كېرەك.
+
+word: 25	lemma: 25	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: كۇتۇپخانا	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ،مۇزېي	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ،پەن	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: تېخنىكا	lemma: تېخنىكا	upos: NOUN	xpos: N	feats: Case=Nom
+word: سارىيى،خاتىرە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: سارىيى	lemma: ساراي	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قاتارلىق	lemma: قاتارلىق	upos: ADP	xpos: R	feats: _
+word: جامائەت	lemma: جامائەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەدەنىيەت	lemma: مەدەنىيەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئەسلىھەلىرى	lemma: ئەسلىھە	upos: NOUN	xpos: N	feats: _
+word: ئۈچۈن	lemma: ئۈچۈن	upos: ADP	xpos: C	feats: _
+word: ئوقۇتقۇچىلاردىن	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur
+word: ئالىدىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ھەقنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: كېمەيتىش	lemma: كەمەي	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: كەچۈرۈم	lemma: كەچۈرۈم	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+26 - ماددا ئوقۇتقۇچىلاردىن تۆۋەندىكى ئەھۋاللارنىڭ بىرى كۆرۈلگەنلىرىگە ئىشلەيدىغان مەكتىپى ،باشقا مائارىپ ئاپپاراتى ياكى مائارىپ مەمۇرىي تارمىقى مەمۇرىي چارە كۆرىدۇ ياكى ئۇلارنى تەكلىپتىن بوشىتىدۇ؛جىنايەت شەكىللەندۈرگەنلىرى قانۇن بويىچە جىنايى جاۋابكارلىققا تارتىلىدۇ؛
+
+word: 26	lemma: 26	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلاردىن	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur
+word: تۆۋەندىكى	lemma: تۆۋەن	upos: NOUN	xpos: A	feats: Case=Nom
+word: ئەھۋاللارنىڭ	lemma: ئەھۋال	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: بىرى	lemma: بىر	upos: NUM	xpos: M	feats: Case=Nom|NumType=Ord|Number[psor]=Plur,Sing|Person[psor]=3
+word: كۆرۈلگەنلىرىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئىشلەيدىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: مەكتىپى	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ،باشقا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: چارە	lemma: چارە	upos: NOUN	xpos: N	feats: Case=Nom
+word: كۆرىدۇ	lemma: كۆر	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۇلارنى	lemma: ئۇلار	upos: PRON	xpos: P	feats: Case=Acc|Number=Plur|Person=3|PronType=Prs
+word: تەكلىپتىن	lemma: تەكلىپ	upos: NOUN	xpos: N	feats: Case=Abl
+word: بوشىتىدۇ	lemma: بوشات	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: جىنايەت	lemma: جىنايەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: شەكىللەندۈرگەنلىرى	lemma: None	upos: VERB	xpos: V	feats: _
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: جىنايى	lemma: جىنايى	upos: ADJ	xpos: A	feats: _
+word: جاۋابكارلىققا	lemma: جاۋابكارلىق	upos: NOUN	xpos: N	feats: Case=Dat
+word: تارتىلىدۇ	lemma: تارتىل	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  1  )ئوقۇتۇش ۋەزىپىسىنى سەۋەبسىز ئورۇندىماي ئوقۇتۇش خىزمىتىگە زىيان سالغانلار ؛
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: )ئوقۇتۇش	lemma: )ئوقۇتۇش	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋەزىپىسىنى	lemma: ۋەزىپە	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: سەۋەبسىز	lemma: سەۋەبسىز	upos: ADJ	xpos: N	feats: _
+word: ئورۇندىماي	lemma: ئورۇن	upos: VERB	xpos: V	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: زىيان	lemma: زىيان	upos: NOUN	xpos: N	feats: Case=Nom
+word: سالغانلار	lemma: سالغان	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  2  )ئوقۇغۇچى ۋە ئاتا  - ئانىلاردىن پۇل ،مال سورىغان ،ئالغان ،بەلگىلىمىگە خىلاپلىق قىلىپ ئوقۇغۇچىلارغا پۇل ،مال ،ئەمگەك سېلىقى سالغانلار ياكى ئۆگىنىش ماتېرىيالى قاتارلىق بويۇملارنى زورلاپ ساتقان ،مۇشتەرى قىلغانلار؛
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: )ئوقۇغۇچى	lemma: )ئوقۇغۇچى	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئاتا	lemma: ئاتا	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئانىلاردىن	lemma: ئانا	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur
+word: پۇل	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،مال	lemma: ،مال	upos: NOUN	xpos: N	feats: Case=Nom
+word: سورىغان	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،ئالغان	lemma: None	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: ،بەلگىلىمىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خىلاپلىق	lemma: خىلاپلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ئوقۇغۇچىلارغا	lemma: ئوقۇغۇچى	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: پۇل	lemma: پۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: ،مال	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،ئەمگەك	lemma: None	upos: NOUN	xpos: N	feats: _
+word: سېلىقى	lemma: سالىق	upos: ADJ	xpos: A	feats: _
+word: سالغانلار	lemma: سالغان	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئۆگىنىش	lemma: ئۆگىنىش	upos: NOUN	xpos: V	feats: Case=Nom
+word: ماتېرىيالى	lemma: ماتېرىيال	upos: NOUN	xpos: N	feats: _
+word: قاتارلىق	lemma: قاتارلىق	upos: ADP	xpos: R	feats: _
+word: بويۇملارنى	lemma: بويۇم	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: زورلاپ	lemma: None	upos: VERB	xpos: V	feats: _
+word: ساتقان	lemma: سات	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: ،مۇشتەرى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قىلغانلار	lemma: قىل	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  3  )ئوقۇغۇچىلارنىڭ غۇرۇرىغا تەگكەن ،ئوقۇغۇچىلارغا تەن جازاسى بەرگەن ياكى شەكلى ئۆزگەرگەن تەن جازاسى بەرگەنلەر؛
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 3	lemma: 3	upos: NUM	xpos: M	feats: NumType=Ord
+word: )ئوقۇغۇچىلارنىڭ	lemma: None	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: غۇرۇرىغا	lemma: غۇرۇر	upos: NOUN	xpos: N	feats: Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەگكەن	lemma: تەگكەن	upos: VERB	xpos: V	feats: _
+word: ،ئوقۇغۇچىلارغا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat|Number=Plur
+word: تەن	lemma: تەن	upos: NOUN	xpos: N	feats: Case=Nom
+word: جازاسى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بەرگەن	lemma: بەر	upos: VERB	xpos: V	feats: Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: شەكلى	lemma: شەكلى	upos: NOUN	xpos: N	feats: _
+word: ئۆزگەرگەن	lemma: ئۆزگەر	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: تەن	lemma: تەن	upos: NOUN	xpos: N	feats: Case=Nom
+word: جازاسى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: بەرگەنلەر	lemma: بەر	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  4  )ئەخلاق - پەزىلىتى ناچار بولۇپ،يامان تەسىر پەيدا قىلغانلار؛
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 4	lemma: 4	upos: NUM	xpos: M	feats: NumType=Ord
+word: )ئەخلاق	lemma: )ئەخلاق	upos: NOUN	xpos: N	feats: _
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: پەزىلىتى	lemma: پەزىلەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ناچار	lemma: ناچار	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولۇپ	lemma: بول	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،يامان	lemma: ،يامان	upos: NOUN	xpos: N	feats: _
+word: تەسىر	lemma: تەسىر	upos: ADJ	xpos: A	feats: _
+word: پەيدا	lemma: پەيدا	upos: ADJ	xpos: N	feats: _
+word: قىلغانلار	lemma: قىل	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  5  )ئوقۇغۇچىلارنى دىنىي پائالىيەتكە قاتنىشىشقا ئازدۇرغان ،مەجبۇرلىغانلار؛
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+word: 5	lemma: 5	upos: NUM	xpos: M	feats: NumType=Ord
+word: )ئوقۇغۇچىلارنى	lemma: None	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: دىنىي	lemma: دىنىي	upos: ADJ	xpos: A	feats: _
+word: پائالىيەتكە	lemma: پائالىيەت	upos: NOUN	xpos: N	feats: Case=Dat
+word: قاتنىشىشقا	lemma: قات	upos: VERB	xpos: V	feats: Case=Dat|VerbForm=Ger
+word: ئازدۇرغان	lemma: ئازدۇر	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مەجبۇرلىغانلار	lemma: None	upos: VERB	xpos: V	feats: _
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+(  6  )مىللىي بۆلگۈنچىلىكنى تەرغىپ قىلىدىغان گەپ  - سۆزلەرنى تارقاتقانلار.
+
+word: (	lemma: (	upos: PUNCT	xpos: Y	feats: _
+
+
+word: 6	lemma: 6	upos: NUM	xpos: M	feats: NumType=Ord
+word: )مىللىي	lemma: )مىللىي	upos: NOUN	xpos: N	feats: _
+word: بۆلگۈنچىلىكنى	lemma: None	upos: NOUN	xpos: N	feats: Case=Acc
+word: تەرغىپ	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قىلىدىغان	lemma: قىلىدىغان	upos: VERB	xpos: V	feats: _
+word: گەپ	lemma: گەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: سۆزلەرنى	lemma: سۆز	upos: NOUN	xpos: N	feats: Case=Acc|Number=Plur
+word: تارقاتقانلار	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+27 - ماددا  بۇ بەلگىلىمىگە خىلاپلىق قىلىپ، ئوقۇتقۇچىلارنىڭ مائاشىنى نېسى قىلغان ياكى ئوقۇتقۇچىلارنىڭ باشقا قانۇنىي ھوقۇق -  مەنپەئىتىگە دەخلى -  تەرۇز قىلغانلارنى خەلق ھۆكۈمىتى ياكى يۇقىرى دەرىجىلىك مەسئۇل ئورگان سۈرۈك ئىچىدە تۈزىتىشكە بۇيرۇيدۇ؛ قىلمىشى ئېغىر بولسا، بىۋاستە جاۋابكارغا مەمۇرىي چارە كۆرىدۇ، جىنايەت شەكىللەندۈرگەنلىرى قانۇن بويىچە جىنايى جاۋابكارلىققا تارتىلىدۇ.
+
+word: 27	lemma: 27	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: خىلاپلىق	lemma: خىلاپلىق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىپ	lemma: قىل	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: مائاشىنى	lemma: مائاشە	upos: NOUN	xpos: N	feats: Case=Acc
+word: نېسى	lemma: ناس	upos: NOUN	xpos: N	feats: _
+word: قىلغان	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Ger
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: ئوقۇتقۇچىلارنىڭ	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Gen|Number=Plur
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: قانۇنىي	lemma: قانۇنىي	upos: ADJ	xpos: A	feats: _
+word: ھوقۇق	lemma: ھوقۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: مەنپەئىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: دەخلى	lemma: دەخلى	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: تەرۇز	lemma: تەرۇز	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغانلارنى	lemma: قىلغان	upos: NOUN	xpos: N	feats: _
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: يۇقىرى	lemma: يۇقىرى	upos: ADJ	xpos: A	feats: _
+word: دەرىجىلىك	lemma: دەرىجىلىك	upos: ADJ	xpos: A	feats: _
+word: مەسئۇل	lemma: مەسئۇل	upos: ADJ	xpos: A	feats: _
+word: ئورگان	lemma: ئورگان	upos: ADJ	xpos: N	feats: _
+word: سۈرۈك	lemma: سۈرۈك	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىچىدە	lemma: ئىچ	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: تۈزىتىشكە	lemma: تۈزەت	upos: VERB	xpos: V	feats: Case=Dat|VerbForm=Ger
+word: بۇيرۇيدۇ	lemma: بۇيرۇي	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: قىلمىشى	lemma: قىلمەش	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ئېغىر	lemma: ئېغىر	upos: ADJ	xpos: A	feats: Case=Nom
+word: بولسا	lemma: بول	upos: AUX	xpos: V	feats: Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: بىۋاستە	lemma: بىۋاستە	upos: ADJ	xpos: A	feats: _
+word: جاۋابكارغا	lemma: جاۋابكار	upos: NOUN	xpos: N	feats: Case=Dat
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: چارە	lemma: چارە	upos: NOUN	xpos: N	feats: Case=Nom
+word: كۆرىدۇ	lemma: كۆر	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+word: جىنايەت	lemma: جىنايەت	upos: NOUN	xpos: N	feats: Case=Nom
+word: شەكىللەندۈرگەنلىرى	lemma: None	upos: VERB	xpos: V	feats: _
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: جىنايى	lemma: جىنايى	upos: ADJ	xpos: A	feats: _
+word: جاۋابكارلىققا	lemma: جاۋابكارلىق	upos: NOUN	xpos: N	feats: Case=Dat
+word: تارتىلىدۇ	lemma: تارتىل	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+28 - ماددا  ئوقۇتقۇچىلاردىن مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى شۇ جايدىكى ئالاقىدار مەمۇرىي مەسئۇل تارماق قانۇنىي ھوقۇق -  مەنپەئىتىمىزگە دەخلى -  تەرۇز يەتكۈزدى دەپ قارىغانلىرى ياكى مەكتەپ ۋە باشقا مائارىپ ئاپپاراتى چىقارغان بىر تەرەپ قىلىش قارارىغا قايىل بولمىغانلىرى «ئوقۇتقۇچىلار قانۇنى»دىكى ئالاقىدار بەلگىلىمىلەر بويىچە ئەرز قىلسا بولىدۇ. ئەرزنى قوبۇل قىلغان خەلق ھۆكۈمىتى ۋە ئۇنىڭ ئالاقىدار تارمىقى قانۇن بويىچە ۋاقتىدا تەكشۈرۈپ بىر تەرەپ قىلىشى كېرەك.
+
+word: 28	lemma: 28	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئوقۇتقۇچىلاردىن	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Abl|Number=Plur
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: شۇ	lemma: شۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: جايدىكى	lemma: جاي	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئالاقىدار	lemma: ئالاقىدار	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەسئۇل	lemma: مەسئۇل	upos: ADJ	xpos: A	feats: _
+word: تارماق	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom
+word: قانۇنىي	lemma: قانۇنىي	upos: ADJ	xpos: A	feats: _
+word: ھوقۇق	lemma: ھوقۇق	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: مەنپەئىتىمىزگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: دەخلى	lemma: دەخلى	upos: NOUN	xpos: N	feats: Case=Nom
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: تەرۇز	lemma: تەرۇز	upos: NOUN	xpos: N	feats: Case=Nom
+word: يەتكۈزدى	lemma: None	upos: VERB	xpos: V	feats: _
+word: دەپ	lemma: دە	upos: VERB	xpos: V	feats: Aspect=Perf|VerbForm=Conv
+word: قارىغانلىرى	lemma: None	upos: VERB	xpos: V	feats: _
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتى	lemma: None	upos: NOUN	xpos: N	feats: Case=Nom
+word: چىقارغان	lemma: چىقار	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: تەرەپ	lemma: تەرەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىش	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|VerbForm=Ger
+word: قارارىغا	lemma: قارار	upos: NOUN	xpos: N	feats: Case=Dat
+word: قايىل	lemma: قايىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: بولمىغانلىرى	lemma: None	upos: VERB	xpos: V	feats: _
+word: «	lemma: «	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتقۇچىلار	lemma: ئوقۇتقۇچى	upos: NOUN	xpos: N	feats: Case=Nom|Number=Plur
+word: قانۇنى»دىكى	lemma: None	upos: VERB	xpos: V	feats: _
+word: ئالاقىدار	lemma: ئالاقىدار	upos: ADJ	xpos: A	feats: _
+word: بەلگىلىمىلەر	lemma: None	upos: NOUN	xpos: N	feats: _
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: ئەرز	lemma: ئەرز	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلسا	lemma: قىل	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: بولىدۇ	lemma: بول	upos: AUX	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+word: ئەرزنى	lemma: ئەرز	upos: NOUN	xpos: N	feats: _
+word: قوبۇل	lemma: قوبۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلغان	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Tense=Past|VerbForm=Part
+word: خەلق	lemma: خەلق	upos: NOUN	xpos: N	feats: Case=Nom
+word: ھۆكۈمىتى	lemma: ھۆكۈمەت	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ۋە	lemma: ۋە	upos: CCONJ	xpos: C	feats: _
+word: ئۇنىڭ	lemma: ئۇ	upos: PRON	xpos: P	feats: Case=Gen|Number=Sing|Person=3|PronType=Prs
+word: ئالاقىدار	lemma: ئالاقىدار	upos: ADJ	xpos: A	feats: _
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: قانۇن	lemma: قانۇن	upos: NOUN	xpos: N	feats: Case=Nom
+word: بويىچە	lemma: بويىچە	upos: ADP	xpos: R	feats: _
+word: ۋاقتىدا	lemma: ۋاقتا	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: تەكشۈرۈپ	lemma: تەكشۈرۈپ	upos: VERB	xpos: V	feats: _
+word: بىر	lemma: بىر	upos: NUM	xpos: M	feats: _
+word: تەرەپ	lemma: تەرەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: قىلىشى	lemma: قىل	upos: VERB	xpos: V	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger
+word: كېرەك	lemma: كېرەك	upos: NOUN	xpos: A	feats: Case=Nom
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+
+29 - ماددا  مەكتەپ ياكى باشقا مائارىپ ئاپپاراتىدىن ئوقۇتقۇچىلىق سالاھىيىتىنى ھازىرلىمىغانلارنى تەربىيىلەش، ئوقۇتۇش خىزمىتىگە قويغانلىرىنى مائارىپ مەمۇرىي مەسئۇل تارمىقى ياكى مەكتەپ مەسئۇل تارمىقى سۈرۈك ئىچىدە تۈزىتىشكە بۇيرۇيدۇ؛ سۈرۈك ئۆتسىمۇ تۈزەتمىسە، مەكتەپ ياكى باشقا مائارىپ ئاپپاراتىنىڭ مەسئۇلىغا مەمۇرىي چارە كۆرىدۇ،
+
+word: 29	lemma: 29	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتىدىن	lemma: None	upos: NOUN	xpos: N	feats: _
+word: ئوقۇتقۇچىلىق	lemma: ئوقۇتقۇچىلىق	upos: NOUN	xpos: V	feats: Case=Nom
+word: سالاھىيىتىنى	lemma: سالاھىيەت	upos: NOUN	xpos: N	feats: Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3
+word: ھازىرلىمىغانلارنى	lemma: None	upos: NOUN	xpos: N	feats: _
+word: تەربىيىلەش	lemma: None	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: ئوقۇتۇش	lemma: ئوقۇتۇش	upos: NOUN	xpos: V	feats: Case=Nom
+word: خىزمىتىگە	lemma: None	upos: NOUN	xpos: N	feats: _
+word: قويغانلىرىنى	lemma: None	upos: VERB	xpos: V	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەسئۇل	lemma: مەسئۇل	upos: ADJ	xpos: A	feats: _
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: مەسئۇل	lemma: مەسئۇل	upos: NOUN	xpos: N	feats: Case=Nom
+word: تارمىقى	lemma: تارماق	upos: NOUN	xpos: N	feats: Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3
+word: سۈرۈك	lemma: سۈرۈك	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئىچىدە	lemma: ئىچ	upos: NOUN	xpos: N	feats: Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3
+word: تۈزىتىشكە	lemma: تۈزەت	upos: VERB	xpos: V	feats: Case=Dat|VerbForm=Ger
+word: بۇيرۇيدۇ	lemma: بۇيرۇي	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ؛	lemma: ؛	upos: PUNCT	xpos: Y	feats: _
+
+
+word: سۈرۈك	lemma: سۈرۈك	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئۆتسىمۇ	lemma: ئۆت	upos: VERB	xpos: V	feats: Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv
+word: تۈزەتمىسە	lemma: تۈزەت	upos: VERB	xpos: V	feats: _
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+word: مەكتەپ	lemma: مەكتەپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ياكى	lemma: ياكى	upos: CCONJ	xpos: C	feats: _
+word: باشقا	lemma: باشقا	upos: ADJ	xpos: A	feats: _
+word: مائارىپ	lemma: مائارىپ	upos: NOUN	xpos: N	feats: Case=Nom
+word: ئاپپاراتىنىڭ	lemma: None	upos: NOUN	xpos: N	feats: _
+word: مەسئۇلىغا	lemma: None	upos: NOUN	xpos: N	feats: Case=Dat
+word: مەمۇرىي	lemma: مەمۇرىي	upos: NOUN	xpos: N	feats: Case=Nom
+word: چارە	lemma: چارە	upos: NOUN	xpos: N	feats: Case=Nom
+word: كۆرىدۇ	lemma: كۆر	upos: VERB	xpos: V	feats: Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin
+word: ،	lemma: ،	upos: PUNCT	xpos: Y	feats: _
+
+
+30 - ماددا  بۇ بەلگىلىمە 2003 - يىل   2   - ئاينىڭ   1   - كۈنىدىن باشلاپ يولغا قويۇلىدۇ.
+
+word: 30	lemma: 30	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ماددا	lemma: ماد	upos: NOUN	xpos: N	feats: Case=Nom
+word: بۇ	lemma: بۇ	upos: PRON	xpos: P	feats: Case=Nom|PronType=Dem
+word: بەلگىلىمە	lemma: بەلگىلىمە	upos: NOUN	xpos: N	feats: Case=Nom
+word: 2003	lemma: 2003	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: يىل	lemma: يىل	upos: NOUN	xpos: N	feats: Case=Nom
+word: 2	lemma: 2	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: ئاينىڭ	lemma: ئاي	upos: NOUN	xpos: N	feats: Case=Gen
+word: 1	lemma: 1	upos: NUM	xpos: M	feats: NumType=Ord
+word: -	lemma: -	upos: PUNCT	xpos: Y	feats: _
+word: كۈنىدىن	lemma: كۈن	upos: NOUN	xpos: N	feats: Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3
+word: باشلاپ	lemma: باشلاپ	upos: NOUN	xpos: V	feats: Case=Nom
+word: يولغا	lemma: يول	upos: NOUN	xpos: N	feats: Case=Dat
+word: قويۇلىدۇ	lemma: None	upos: VERB	xpos: V	feats: _
+word: .	lemma: .	upos: PUNCT	xpos: Y	feats: _
+
+

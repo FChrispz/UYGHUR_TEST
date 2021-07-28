@@ -1,0 +1,1142 @@
+PA009-XUAR copyright disputes-C
+１９９６年１月１９日自治区人民政府新>函【１９９６】１３号文批准
+
+word: １９９６	lemma: １９９６	upos: PROPN	xpos: NNP	feats: _
+word: 年	lemma: 年	upos: NOUN	xpos: NNB	feats: _
+word: １	lemma: １	upos: NUM	xpos: CD	feats: NumType=Card
+word: 月	lemma: 月	upos: NOUN	xpos: NNB	feats: _
+word: １９	lemma: １９	upos: VERB	xpos: VV	feats: _
+word: 日	lemma: 日	upos: PROPN	xpos: NNP	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 政府	lemma: 政府	upos: NOUN	xpos: NN	feats: _
+word: 新	lemma: 新	upos: PART	xpos: PFA	feats: _
+word: >函	lemma: >函	upos: NOUN	xpos: NN	feats: _
+word: 【	lemma: 【	upos: PUNCT	xpos: /	feats: _
+word: １９９６	lemma: １９９６	upos: PROPN	xpos: NNP	feats: _
+word: 】	lemma: 】	upos: PUNCT	xpos: /	feats: _
+word: １３	lemma: １３	upos: PROPN	xpos: NNP	feats: _
+word: 号	lemma: 号	upos: PART	xpos: SFN	feats: _
+word: 文批	lemma: 文批	upos: PROPN	xpos: NNP	feats: _
+word: 准	lemma: 准	upos: PART	xpos: SFN	feats: _
+
+
+entity: １９９６年	type: DATE
+entity: １月１９	type: TIME
+entity: １３	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+  
+
+
+
+Sentence sentiment= 2
+
+
+          
+
+
+
+Sentence sentiment= 2
+
+
+    第一条  为保护智力创作，保障著作权人与传播者合法权益，根据《中华人民共和国著作权法》、《中华人民共和国著作权法实施条例》，结合自治区实际，制定本办法。
+
+word: 第一	lemma: 第一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 为	lemma: 为	upos: ADP	xpos: IN	feats: _
+word: 保护	lemma: 保护	upos: VERB	xpos: VV	feats: _
+word: 智力	lemma: 智力	upos: NOUN	xpos: NN	feats: _
+word: 创作	lemma: 创作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 保障	lemma: 保障	upos: NOUN	xpos: NN	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 与	lemma: 与	upos: ADP	xpos: IN	feats: _
+word: 传播	lemma: 传播	upos: VERB	xpos: VV	feats: _
+word: 者	lemma: 者	upos: PART	xpos: SFN	feats: _
+word: 合法	lemma: 合法	upos: ADV	xpos: RB	feats: _
+word: 权益	lemma: 权益	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 根据	lemma: 根据	upos: ADP	xpos: IN	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权法	lemma: 权法	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: .	feats: _
+word: 《	lemma: 《	upos: PUNCT	xpos: (	feats: _
+word: 中华	lemma: 中华	upos: PROPN	xpos: NNP	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 共和	lemma: 共和	upos: NOUN	xpos: NN	feats: _
+word: 国	lemma: 国	upos: PART	xpos: SFN	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 法	lemma: 法	upos: PART	xpos: SFN	feats: _
+word: 实施	lemma: 实施	upos: NOUN	xpos: NN	feats: _
+word: 条例	lemma: 条例	upos: NOUN	xpos: NN	feats: _
+word: 》	lemma: 》	upos: PUNCT	xpos: )	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 结合	lemma: 结合	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 制定	lemma: 制定	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第一	type: ORDINAL
+entity: 中华人民共和国著作权法	type: LAW
+entity: 中华人民共和国著作权法实施条例	type: LAW
+
+Sentence sentiment= 2
+
+
+第二条  自治区版权局受理本行政区域内公民之间、法人之间、公民与法人之间因著作权纠纷提出的调解申请。
+
+word: 第二	lemma: 第二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 行政	lemma: 行政	upos: NOUN	xpos: NN	feats: _
+word: 区域	lemma: 区域	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: NOUN	xpos: NN	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 之间	lemma: 之间	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法人	lemma: 法人	upos: NOUN	xpos: NN	feats: _
+word: 之间	lemma: 之间	upos: ADP	xpos: IN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 公民	lemma: 公民	upos: NOUN	xpos: NN	feats: _
+word: 与	lemma: 与	upos: CCONJ	xpos: CC	feats: _
+word: 法人	lemma: 法人	upos: NOUN	xpos: NN	feats: _
+word: 之间	lemma: 之间	upos: NOUN	xpos: NN	feats: _
+word: 因	lemma: 因	upos: ADP	xpos: IN	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第二	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第三条  调解著作权纠纷应当以事实为根据，以法律为准绳，贯彻平等、自愿的原则，重证据，重调查研究，从实际出发，准确恰当。
+
+word: 第三	lemma: 第三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 调	lemma: 调	upos: VERB	xpos: VV	feats: _
+word: 解著	lemma: 解著	upos: VERB	xpos: VV	feats: _
+word: 作权	lemma: 作权	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 事实	lemma: 事实	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 根据	lemma: 根据	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 以	lemma: 以	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 为	lemma: 为	upos: AUX	xpos: VC	feats: _
+word: 准绳	lemma: 准绳	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 贯彻	lemma: 贯彻	upos: VERB	xpos: VV	feats: _
+word: 平等	lemma: 平等	upos: ADJ	xpos: JJ	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 自愿	lemma: 自愿	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 原则	lemma: 原则	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 重证	lemma: 重证	upos: NOUN	xpos: NN	feats: _
+word: 据	lemma: 据	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 重	lemma: 重	upos: PART	xpos: PFA	feats: _
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: 研究	lemma: 研究	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 从	lemma: 从	upos: ADP	xpos: IN	feats: _
+word: 实际	lemma: 实际	upos: NOUN	xpos: NN	feats: _
+word: 出发	lemma: 出发	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 准确	lemma: 准确	upos: ADV	xpos: RB	feats: _
+word: 恰当	lemma: 恰当	upos: ADJ	xpos: JJ	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第三	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第四条  当事人参加调解，可以委托代理人，并向自治区版权局出具书面委托书。
+
+word: 第四	lemma: 第四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 事人	lemma: 事人	upos: NOUN	xpos: NN	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: _
+word: 代理	lemma: 代理	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 出具	lemma: 出具	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 委托	lemma: 委托	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第四	type: ORDINAL
+entity: 自治区版权局	type: ORG
+
+Sentence sentiment= 2
+
+
+第五条  申请人应当以书面形式申请调解。申请书主要包括下列内容：
+
+word: 第五	lemma: 第五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当以	lemma: 当以	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 形式	lemma: 形式	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 主要	lemma: 主要	upos: ADV	xpos: RB	feats: _
+word: 包括	lemma: 包括	upos: VERB	xpos: VV	feats: _
+word: 下列	lemma: 下列	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第五	type: ORDINAL
+
+Sentence sentiment= 1
+
+
+    （一）双方当事人的姓名、单位、住址、法人单位名称、住址、法定代表人的姓名、职务等；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 姓名	lemma: 姓名	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 住址	lemma: 住址	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法人	lemma: 法人	upos: NOUN	xpos: NN	feats: _
+word: 单位	lemma: 单位	upos: NOUN	xpos: NN	feats: _
+word: 名称	lemma: 名称	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 住址	lemma: 住址	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法定	lemma: 法定	upos: NOUN	xpos: NN	feats: _
+word: 代表	lemma: 代表	upos: NOUN	xpos: NN	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 姓名	lemma: 姓名	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 职务	lemma: 职务	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    (二)著作权纠纷的事实和申请理由，证据和证据来源，证人姓名和住所；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 事实	lemma: 事实	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 证据	lemma: 证据	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 证据	lemma: 证据	upos: NOUN	xpos: NN	feats: _
+word: 来源	lemma: 来源	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 证人	lemma: 证人	upos: NOUN	xpos: NN	feats: _
+word: 姓名	lemma: 姓名	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 住所	lemma: 住所	upos: NOUN	xpos: NN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    （三）申请人的请求事项。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 请求	lemma: 请求	upos: NOUN	xpos: NN	feats: _
+word: 事项	lemma: 事项	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第六条  申请人应当按被申请人数提供申请书副本。
+
+word: 第六	lemma: 第六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申	lemma: 申	upos: PROPN	xpos: NNP	feats: _
+word: 请	lemma: 请	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人数	lemma: 人数	upos: NOUN	xpos: NN	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 副本	lemma: 副本	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第六	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+第七条  自治区版权局收到申请书后十日内答复申请人是否受理。对不予受理的，应当书面通知申请人并告知理由。
+
+word: 第七	lemma: 第七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 收到	lemma: 收到	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书后	lemma: 书后	upos: NOUN	xpos: NN	feats: _
+word: 十	lemma: 十	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 答复	lemma: 答复	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 是否	lemma: 是否	upos: VERB	xpos: VC	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 不予	lemma: 不予	upos: VERB	xpos: VV	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 当	lemma: 当	upos: ADP	xpos: IN	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 告知	lemma: 告知	upos: VERB	xpos: VV	feats: _
+word: 理由	lemma: 理由	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第七	type: ORDINAL
+entity: 十日	type: DATE
+
+Sentence sentiment= 1
+
+
+第八条  被申请人应在接到书面通知和申请书副本后十五日内向自治区版权局提交书面答辩状并提供有关证据材料。
+
+word: 第八	lemma: 第八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 接到	lemma: 接到	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 通知	lemma: 通知	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 副	lemma: 副	upos: PART	xpos: PFA	feats: _
+word: 本后	lemma: 本后	upos: NOUN	xpos: NN	feats: _
+word: 十五	lemma: 十五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 答辩	lemma: 答辩	upos: VERB	xpos: VV	feats: _
+word: 状	lemma: 状	upos: PART	xpos: SFN	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 提供	lemma: 提供	upos: VERB	xpos: VV	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 证据	lemma: 证据	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第八	type: ORDINAL
+entity: 十五日	type: DATE
+entity: 自治区版权局	type: ORG
+
+Sentence sentiment= 1
+
+
+    被申请人逾期不提交答辩状又不向自治区版权局明确表示同意调解的，视为不同意调解，自治区版权局应当撤销调解，并在五日内告知申请人。
+
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 逾期	lemma: 逾期	upos: VERB	xpos: VV	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 答辩	lemma: 答辩	upos: VERB	xpos: VV	feats: _
+word: 状	lemma: 状	upos: PART	xpos: SFN	feats: _
+word: 又	lemma: 又	upos: ADV	xpos: RB	feats: _
+word: 不向	lemma: 不向	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 明确	lemma: 明确	upos: ADV	xpos: RB	feats: _
+word: 表示	lemma: 表示	upos: VERB	xpos: VV	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 视	lemma: 视	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 不同意	lemma: 不同意	upos: ADJ	xpos: JJ	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 撤销	lemma: 撤销	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: 日	lemma: 日	upos: NOUN	xpos: NNB	feats: _
+word: 内告知	lemma: 内告知	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五日	type: DATE
+
+Sentence sentiment= 0
+
+
+第九条  申请人提出撤回申请要求，应当提交书面申请，经同意后存档备查，原申请书不退还申请人。
+
+word: 第九	lemma: 第九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 申	lemma: 申	upos: PROPN	xpos: NNP	feats: _
+word: 请	lemma: 请	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 撤回	lemma: 撤回	upos: VERB	xpos: VV	feats: _
+word: 申请	lemma: 申请	upos: NOUN	xpos: NN	feats: _
+word: 要求	lemma: 要求	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 提交	lemma: 提交	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 存档	lemma: 存档	upos: VERB	xpos: VV	feats: _
+word: 备查	lemma: 备查	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 原	lemma: 原	upos: ADV	xpos: RB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 不退	lemma: 不退	upos: VERB	xpos: VV	feats: _
+word: 还	lemma: 还	upos: ADV	xpos: RB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第九	type: ORDINAL
+
+Sentence sentiment= 2
+
+
+    经自治区版权局两次合法通知，原申请人无正当理由拒不参加调解，视为放弃调解，自治区版权局应记录在案，并告知被申请人，撤销调解。
+
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 两	lemma: 两	upos: NUM	xpos: CD	feats: NumType=Card
+word: 次	lemma: 次	upos: NOUN	xpos: NNB	feats: _
+word: 合法	lemma: 合法	upos: ADV	xpos: RB	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 原	lemma: 原	upos: ADV	xpos: RB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 无正	lemma: 无正	upos: VERB	xpos: VV	feats: _
+word: 当理	lemma: 当理	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 拒不	lemma: 拒不	upos: VERB	xpos: VV	feats: _
+word: 参加	lemma: 参加	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 视	lemma: 视	upos: VERB	xpos: VV	feats: _
+word: 为	lemma: 为	upos: VERB	xpos: VC	feats: _
+word: 放弃	lemma: 放弃	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局应	lemma: 局应	upos: NOUN	xpos: NN	feats: _
+word: 记录	lemma: 记录	upos: VERB	xpos: VV	feats: _
+word: 在案	lemma: 在案	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 并	lemma: 并	upos: ADV	xpos: RB	feats: _
+word: 告知	lemma: 告知	upos: VERB	xpos: VV	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 撤销	lemma: 撤销	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 两	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+第十条  调解书由当事人双方签字。
+
+word: 第十	lemma: 第十	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 调	lemma: 调	upos: VERB	xpos: VV	feats: _
+word: 解书	lemma: 解书	upos: VERB	xpos: VV	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 签字	lemma: 签字	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    自治区版权局作出调解书后应当在十日内寄送著作权纠纷的当事人。
+
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局作	lemma: 局作	upos: NOUN	xpos: NN	feats: _
+word: 出调	lemma: 出调	upos: VERB	xpos: VV	feats: _
+word: 解书	lemma: 解书	upos: VERB	xpos: VV	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 十日	lemma: 十日	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 寄送	lemma: 寄送	upos: VERB	xpos: VV	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 自治区版权局作	type: ORG
+entity: 十日	type: DATE
+
+Sentence sentiment= 0
+
+
+第十一条  对已达成协议，当事人双方应当自觉履行。调解不成或调解达成协议后又反悔的，版权局不再调解，当事人可向人民法院起诉。
+
+word: 第十一	lemma: 第十一	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 已	lemma: 已	upos: ADV	xpos: RB	feats: _
+word: 达成	lemma: 达成	upos: VERB	xpos: VV	feats: _
+word: 协议	lemma: 协议	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 自觉	lemma: 自觉	upos: ADV	xpos: RB	feats: _
+word: 履行	lemma: 履行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 不成	lemma: 不成	upos: VERB	xpos: VV	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 达成	lemma: 达成	upos: VERB	xpos: VV	feats: _
+word: 协议	lemma: 协议	upos: NOUN	xpos: NN	feats: _
+word: 后	lemma: 后	upos: ADP	xpos: IN	feats: _
+word: 又	lemma: 又	upos: ADV	xpos: RB	feats: _
+word: 反悔	lemma: 反悔	upos: ADJ	xpos: JJ	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 不	lemma: 不	upos: ADV	xpos: RB	feats: Polarity=Neg
+word: 再	lemma: 再	upos: ADV	xpos: RB	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 可向	lemma: 可向	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十一	type: ORDINAL
+entity: 版权局	type: ORG
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第十二条  对认定不清或由于特殊原因难以调解的著作纠纷，自治区版权局应当及时通知当事人向人民法院起诉。
+
+word: 第十二	lemma: 第十二	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 认定	lemma: 认定	upos: AUX	xpos: VV	feats: _
+word: 不清	lemma: 不清	upos: ADJ	xpos: JJ	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 由于	lemma: 由于	upos: ADP	xpos: IN	feats: _
+word: 特殊	lemma: 特殊	upos: ADJ	xpos: JJ	feats: _
+word: 原因	lemma: 原因	upos: NOUN	xpos: NN	feats: _
+word: 难	lemma: 难	upos: ADV	xpos: RB	feats: _
+word: 以	lemma: 以	upos: ADV	xpos: RB	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局应	lemma: 局应	upos: VERB	xpos: VV	feats: _
+word: 当及	lemma: 当及	upos: VERB	xpos: VV	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 通知	lemma: 通知	upos: VERB	xpos: VV	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 向	lemma: 向	upos: ADP	xpos: IN	feats: _
+word: 人民	lemma: 人民	upos: NOUN	xpos: NN	feats: _
+word: 法院	lemma: 法院	upos: NOUN	xpos: NN	feats: _
+word: 起诉	lemma: 起诉	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十二	type: ORDINAL
+entity: 人民法院	type: ORG
+
+Sentence sentiment= 0
+
+
+第十三条  自治区版权局对受理的著作权纠纷中涉及到的专业性问题，可聘请专业人员进行鉴定。
+
+word: 第十三	lemma: 第十三	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 对	lemma: 对	upos: ADP	xpos: IN	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 中	lemma: 中	upos: ADP	xpos: IN	feats: _
+word: 涉及	lemma: 涉及	upos: VERB	xpos: VV	feats: _
+word: 到	lemma: 到	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 专业	lemma: 专业	upos: ADJ	xpos: JJ	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 问题	lemma: 问题	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 聘请	lemma: 聘请	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 专业	lemma: 专业	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 进行	lemma: 进行	upos: VERB	xpos: VV	feats: _
+word: 鉴定	lemma: 鉴定	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十三	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十四条  调解著作权纠纷案件实行回避制度，凡当事人提出正当理由要求办案人员回避的，经主管领导审核同意回避。
+
+word: 第十四	lemma: 第十四	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 调	lemma: 调	upos: VERB	xpos: VV	feats: _
+word: 解著	lemma: 解著	upos: VERB	xpos: VV	feats: _
+word: 作权	lemma: 作权	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 实行	lemma: 实行	upos: VERB	xpos: VV	feats: _
+word: 回避	lemma: 回避	upos: NOUN	xpos: NN	feats: _
+word: 制度	lemma: 制度	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 凡	lemma: 凡	upos: ADV	xpos: RB	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 正	lemma: 正	upos: PART	xpos: PFA	feats: _
+word: 当理	lemma: 当理	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 要求	lemma: 要求	upos: VERB	xpos: VV	feats: Voice=Cau
+word: 办案	lemma: 办案	upos: NOUN	xpos: NN	feats: _
+word: 人员	lemma: 人员	upos: NOUN	xpos: NN	feats: _
+word: 回避	lemma: 回避	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 领导	lemma: 领导	upos: NOUN	xpos: NN	feats: _
+word: 审核	lemma: 审核	upos: NOUN	xpos: NN	feats: _
+word: 同意	lemma: 同意	upos: VERB	xpos: VV	feats: _
+word: 回避	lemma: 回避	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十四	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+第十五条  一般性案件应在三个月内结案，重大案件三个月内不能作出决定的，经主管局长批准，可再适当延期。
+
+word: 第十五	lemma: 第十五	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 一般	lemma: 一般	upos: ADJ	xpos: JJ	feats: _
+word: 性	lemma: 性	upos: PART	xpos: SFN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 应	lemma: 应	upos: AUX	xpos: MD	feats: _
+word: 在	lemma: 在	upos: ADP	xpos: IN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月内	lemma: 月内	upos: NOUN	xpos: NN	feats: _
+word: 结案	lemma: 结案	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 重大	lemma: 重大	upos: ADJ	xpos: JJ	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 内	lemma: 内	upos: ADP	xpos: IN	feats: _
+word: 不能	lemma: 不能	upos: AUX	xpos: MD	feats: _
+word: 作出	lemma: 作出	upos: VERB	xpos: VV	feats: _
+word: 决定	lemma: 决定	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经	lemma: 经	upos: ADP	xpos: IN	feats: _
+word: 主管	lemma: 主管	upos: NOUN	xpos: NN	feats: _
+word: 局长	lemma: 局长	upos: NOUN	xpos: NN	feats: _
+word: 批准	lemma: 批准	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可	lemma: 可	upos: AUX	xpos: MD	feats: _
+word: 再	lemma: 再	upos: ADV	xpos: RB	feats: _
+word: 适当	lemma: 适当	upos: ADV	xpos: RB	feats: _
+word: 延期	lemma: 延期	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十五	type: ORDINAL
+entity: 三个月内	type: DATE
+entity: 三个月	type: DATE
+
+Sentence sentiment= 2
+
+
+    调解著作权纠纷最长不得超过六个月。
+
+word: 调	lemma: 调	upos: NOUN	xpos: NN	feats: _
+word: 解著	lemma: 解著	upos: VERB	xpos: VV	feats: _
+word: 作权	lemma: 作权	upos: NOUN	xpos: NN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 最长	lemma: 最长	upos: ADV	xpos: RB	feats: _
+word: 不得	lemma: 不得	upos: AUX	xpos: MD	feats: _
+word: 超过	lemma: 超过	upos: VERB	xpos: VV	feats: _
+word: 六	lemma: 六	upos: NUM	xpos: CD	feats: NumType=Card
+word: 个	lemma: 个	upos: NOUN	xpos: NNB	feats: _
+word: 月	lemma: 月	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 六个月	type: DATE
+
+Sentence sentiment= 0
+
+
+第十六条  受理的著作权纠纷案件应当做到：
+
+word: 第十六	lemma: 第十六	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 受理	lemma: 受理	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 应当	lemma: 应当	upos: AUX	xpos: MD	feats: _
+word: 做到	lemma: 做到	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 第十六	type: ORDINAL
+
+Sentence sentiment= 0
+
+
+    （一）填写著作权纠纷案件登记卡；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 一	lemma: 一	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 填写	lemma: 填写	upos: VERB	xpos: VV	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 登记	lemma: 登记	upos: VERB	xpos: VV	feats: _
+word: 卡	lemma: 卡	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 0
+
+
+    (二)将申请书副本及时送达被申请人；
+
+word: (二)	lemma: (二)	upos: X	xpos: FW	feats: _
+word: 将	lemma: 将	upos: ADP	xpos: BB	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: 副	lemma: 副	upos: PART	xpos: PFA	feats: _
+word: 本及	lemma: 本及	upos: NOUN	xpos: NN	feats: _
+word: 时	lemma: 时	upos: ADP	xpos: IN	feats: _
+word: 送达	lemma: 送达	upos: VERB	xpos: VV	feats: _
+word: 被	lemma: 被	upos: VERB	xpos: BB	feats: Voice=Pass
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+
+
+Sentence sentiment= 1
+
+
+    （三）认真审阅案件材料、分析案件，开展调查取证工作，召开调查会或调解会；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 三	lemma: 三	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 认真	lemma: 认真	upos: ADV	xpos: RB	feats: _
+word: 审阅	lemma: 审阅	upos: VERB	xpos: VV	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: 材料	lemma: 材料	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 分析	lemma: 分析	upos: NOUN	xpos: NN	feats: _
+word: 案件	lemma: 案件	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 开展	lemma: 开展	upos: VERB	xpos: VV	feats: _
+word: 调查	lemma: 调查	upos: NOUN	xpos: NN	feats: _
+word: 取证	lemma: 取证	upos: NOUN	xpos: NN	feats: _
+word: 工作	lemma: 工作	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 召开	lemma: 召开	upos: VERB	xpos: VV	feats: _
+word: 调查	lemma: 调查	upos: VERB	xpos: VV	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: 或	lemma: 或	upos: CCONJ	xpos: CC	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 会	lemma: 会	upos: PART	xpos: SFN	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 三	type: CARDINAL
+
+Sentence sentiment= 1
+
+
+    （四）提出书面结案报告，集体研究定性；
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 四	lemma: 四	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 提出	lemma: 提出	upos: VERB	xpos: VV	feats: _
+word: 书面	lemma: 书面	upos: NOUN	xpos: NN	feats: _
+word: 结案	lemma: 结案	upos: NOUN	xpos: NN	feats: _
+word: 报告	lemma: 报告	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 集体	lemma: 集体	upos: NOUN	xpos: NN	feats: _
+word: 研究	lemma: 研究	upos: VERB	xpos: VV	feats: _
+word: 定性	lemma: 定性	upos: VERB	xpos: VV	feats: _
+word: ；	lemma: ；	upos: PUNCT	xpos: :	feats: _
+
+
+entity: 四	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    （五）制作调解书，其内容包括：申请人的请求、查证事实、适用的法律条文和协议内容等。
+
+word: （	lemma: （	upos: PUNCT	xpos: (	feats: _
+word: 五	lemma: 五	upos: NUM	xpos: CD	feats: NumType=Card
+word: ）	lemma: ）	upos: PUNCT	xpos: )	feats: _
+word: 制作	lemma: 制作	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 书	lemma: 书	upos: PART	xpos: SFN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 其	lemma: 其	upos: PRON	xpos: PRP	feats: Person=3
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 包括	lemma: 包括	upos: VERB	xpos: VV	feats: _
+word: ：	lemma: ：	upos: PUNCT	xpos: :	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: Case=Gen
+word: 请求	lemma: 请求	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 查证	lemma: 查证	upos: NOUN	xpos: NN	feats: _
+word: 事实	lemma: 事实	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 适用	lemma: 适用	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 条文	lemma: 条文	upos: NOUN	xpos: NN	feats: _
+word: 和	lemma: 和	upos: CCONJ	xpos: CC	feats: _
+word: 协议	lemma: 协议	upos: NOUN	xpos: NN	feats: _
+word: 内容	lemma: 内容	upos: NOUN	xpos: NN	feats: _
+word: 等	lemma: 等	upos: NOUN	xpos: NN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 五	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+第十七条  自治区版权局调解著作权纠纷，可以收取调解费。调解费由申请人预交，经过调解，由责任方承担，当事人双方都有责任的，按责任大小分别承担。
+
+word: 第十七	lemma: 第十七	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 著作	lemma: 著作	upos: NOUN	xpos: NN	feats: _
+word: 权	lemma: 权	upos: PART	xpos: SFN	feats: _
+word: 纠纷	lemma: 纠纷	upos: NOUN	xpos: NN	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 可以	lemma: 可以	upos: AUX	xpos: MD	feats: _
+word: 收取	lemma: 收取	upos: VERB	xpos: VV	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 费	lemma: 费	upos: PART	xpos: SFN	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: 费由	lemma: 费由	upos: PROPN	xpos: NNP	feats: _
+word: 申请	lemma: 申请	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 预交	lemma: 预交	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 经过	lemma: 经过	upos: ADP	xpos: IN	feats: _
+word: 调解	lemma: 调解	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 方	lemma: 方	upos: PART	xpos: SFN	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 当事	lemma: 当事	upos: VERB	xpos: VV	feats: _
+word: 人	lemma: 人	upos: PART	xpos: SFN	feats: _
+word: 双	lemma: 双	upos: NUM	xpos: CD	feats: NumType=Card
+word: 方	lemma: 方	upos: NOUN	xpos: NN	feats: _
+word: 都	lemma: 都	upos: ADV	xpos: RB	feats: _
+word: 有	lemma: 有	upos: VERB	xpos: VV	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 的	lemma: 的	upos: PART	xpos: UH	feats: _
+word: ，	lemma: ，	upos: PUNCT	xpos: ,	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 责任	lemma: 责任	upos: NOUN	xpos: NN	feats: _
+word: 大小	lemma: 大小	upos: NOUN	xpos: NN	feats: _
+word: 分别	lemma: 分别	upos: ADV	xpos: RB	feats: _
+word: 承担	lemma: 承担	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十七	type: ORDINAL
+entity: 双	type: CARDINAL
+
+Sentence sentiment= 2
+
+
+    调解费的具体收取办法按有关法律、法规另行规定。
+
+word: 调	lemma: 调	upos: VERB	xpos: VV	feats: _
+word: 解费	lemma: 解费	upos: VERB	xpos: VV	feats: _
+word: 的	lemma: 的	upos: PART	xpos: DEC	feats: _
+word: 具体	lemma: 具体	upos: ADJ	xpos: JJ	feats: _
+word: 收取	lemma: 收取	upos: NOUN	xpos: NN	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 按	lemma: 按	upos: ADP	xpos: IN	feats: _
+word: 有关	lemma: 有关	upos: ADJ	xpos: JJ	feats: _
+word: 法律	lemma: 法律	upos: NOUN	xpos: NN	feats: _
+word: 、	lemma: 、	upos: PUNCT	xpos: EC	feats: _
+word: 法规	lemma: 法规	upos: NOUN	xpos: NN	feats: _
+word: 另行	lemma: 另行	upos: ADV	xpos: RB	feats: _
+word: 规定	lemma: 规定	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+
+
+Sentence sentiment= 2
+
+
+第十八条  本办法由自治区版权局负责解释。
+
+word: 第十八	lemma: 第十八	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 由	lemma: 由	upos: VERB	xpos: VV	feats: _
+word: 自治	lemma: 自治	upos: VERB	xpos: VV	feats: _
+word: 区	lemma: 区	upos: PART	xpos: SFN	feats: _
+word: 版权	lemma: 版权	upos: NOUN	xpos: NN	feats: _
+word: 局	lemma: 局	upos: PART	xpos: SFN	feats: _
+word: 负责	lemma: 负责	upos: VERB	xpos: VV	feats: _
+word: 解释	lemma: 解释	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十八	type: ORDINAL
+entity: 自治区版权局	type: ORG
+
+Sentence sentiment= 1
+
+
+第十九条  本办法自批准发布之日起施行。
+
+word: 第十九	lemma: 第十九	upos: NUM	xpos: CD	feats: NumType=Ord
+word: 条	lemma: 条	upos: NOUN	xpos: NNB	feats: _
+word: 本	lemma: 本	upos: DET	xpos: DT	feats: _
+word: 办法	lemma: 办法	upos: NOUN	xpos: NN	feats: _
+word: 自批准	lemma: 自批准	upos: ADV	xpos: RB	feats: _
+word: 发布	lemma: 发布	upos: VERB	xpos: VV	feats: _
+word: 之	lemma: 之	upos: PART	xpos: DEC	feats: _
+word: 日起	lemma: 日起	upos: NOUN	xpos: NN	feats: _
+word: 施行	lemma: 施行	upos: VERB	xpos: VV	feats: _
+word: 。	lemma: 。	upos: PUNCT	xpos: .	feats: _
+
+
+entity: 第十九	type: ORDINAL
+
+Sentence sentiment= 0
+
+
