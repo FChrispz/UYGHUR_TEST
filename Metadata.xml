@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<corpus_text>
+		<Folder_Name>XY999</Folder_Name>
+		<Genre>genre</Genre>
+		<Period-Region>period</Period-Region>
+		<Author>author</Author>
+		<English_Title-Description>eng_title</English_Title-Description>
+		<File_Name>file_name</File_Name>
+		<Turkish-Uyghur_Title-Description>Turkish-Uyghur_title</Turkish-Uyghur_Title-Description>
+		<Turkish-Uyghur_Source>Turkish-Uyghur_source</Turkish-Uyghur_Source>
+		<T-U_Publication_Date>T-U_Publication_Date</T-U_Publication_Date>
+		<Chinese_Title-Description>ch_title</Chinese_Title-Description>
+		<Chinese_Source>Chinese_Source</Chinese_Source>
+		<Chinese_Publication_Date>Chinese_Publication_Date</Chinese_Publication_Date>
+		<Remark>remark</Remark>
+	</corpus_text>
+	<corpus_text>
+		<Folder_Name>XY999</Folder_Name>
+		<Genre>genre</Genre>
+		<Period-Region>period</Period-Region>
+		<Author>author</Author>
+		<English_Title-Description>eng_title</English_Title-Description>
+		<File_Name>file_name</File_Name>
+		<Turkish-Uyghur_Title-Description>Turkish-Uyghur_title</Turkish-Uyghur_Title-Description>
+		<Turkish-Uyghur_Source>Turkish-Uyghur_source</Turkish-Uyghur_Source>
+		<T-U_Publication_Date>T-U_Publication_Date</T-U_Publication_Date>
+		<Chinese_Title-Description>ch_title</Chinese_Title-Description>
+		<Chinese_Source>Chinese_Source</Chinese_Source>
+		<Chinese_Publication_Date>Chinese_Publication_Date</Chinese_Publication_Date>
+		<Remark>remark</Remark>
+	</corpus_text>
+</Metadata>
